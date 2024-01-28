@@ -1,0 +1,1 @@
+{"name": "Internetbedrijf", "id": 90071, "predecessors": [{"name": "Internet", "id": 63440}, {"name": "Bedrijfskunde", "id": 64940}], "successors": [{"name": "Internetprovider", "id": 90072}, {"name": "Google", "id": 128207}, {"name": "Microsoft", "id": 253496}]}

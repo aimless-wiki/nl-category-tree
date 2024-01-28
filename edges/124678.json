@@ -1,0 +1,1 @@
+{"name": "Brandstof", "id": 124678, "predecessors": [{"name": "Materiaal", "id": 80367}, {"name": "Ontvlambare_stof", "id": 865432}, {"name": "Energie", "id": 63867}], "successors": [{"name": "Aardgas", "id": 349512}, {"name": "Olie-industrie", "id": 275042}]}

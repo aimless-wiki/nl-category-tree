@@ -1,0 +1,1 @@
+{"name": "Concert", "id": 1705582, "predecessors": [{"name": "Kunstevenement", "id": 192826}], "successors": [{"name": "Concerttournee", "id": 1403504}, {"name": "Hitlijst", "id": 133834}, {"name": "Muziekprogramma_op_radio", "id": 3954818}, {"name": "Pop-_en/of_rockprogramma", "id": 3971480}, {"name": "Vlaams_muziekprogramma", "id": 1945406}]}

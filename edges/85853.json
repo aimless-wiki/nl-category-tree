@@ -1,0 +1,1 @@
+{"name": "Psychische_aandoening", "id": 85853, "predecessors": [{"name": "Aandoening", "id": 85841}, {"name": "Psychiatrie", "id": 64435}, {"name": "Psychodiagnostiek", "id": 393285}], "successors": [{"name": "Fobie", "id": 183780}, {"name": "Psychopathologisch_symptoom", "id": 267827}, {"name": "Autismespectrum", "id": 3970387}]}

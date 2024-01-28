@@ -1,0 +1,1 @@
+{"name": "Psychiatrie", "id": 64435, "predecessors": [{"name": "Medisch_beroep", "id": 623852}], "successors": [{"name": "Psychische_aandoening", "id": 85853}, {"name": "Psychotherapie", "id": 369011}]}

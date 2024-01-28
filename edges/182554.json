@@ -1,0 +1,1 @@
+{"name": "Farmacie", "id": 182554, "predecessors": [{"name": "Biochemie", "id": 67081}, {"name": "Diergeneeskunde", "id": 260043}, {"name": "Geneeskunde", "id": 63397}], "successors": [{"name": "Geneesmiddel", "id": 63460}, {"name": "Farmacologie", "id": 410629}, {"name": "Farmaceutisch_bedrijf", "id": 423517}]}

@@ -1,0 +1,1 @@
+{"name": "Wind", "id": 80719, "predecessors": [{"name": "Meteorologie", "id": 63469}], "successors": [{"name": "Molen", "id": 67284}, {"name": "Zeilschip", "id": 136925}]}

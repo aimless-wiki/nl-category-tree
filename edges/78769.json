@@ -1,0 +1,1 @@
+{"name": "Bouwmateriaal", "id": 78769, "predecessors": [{"name": "Bouwkunde", "id": 80509}, {"name": "Materiaal", "id": 80367}], "successors": [{"name": "Hout", "id": 80845}, {"name": "Beton", "id": 233075}, {"name": "Stalen_achtbaan", "id": 1734186}, {"name": "Baksteenarchitectuur", "id": 4436343}]}

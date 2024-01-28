@@ -1,0 +1,1 @@
+{"name": "Kunstevenement", "id": 192826, "predecessors": [{"name": "Kunst", "id": 63472}, {"name": "Alles", "id": 63579}], "successors": [{"name": "Muziekfestival", "id": 81688}, {"name": "Concert", "id": 1705582}]}

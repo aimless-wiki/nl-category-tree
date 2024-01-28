@@ -1,0 +1,1 @@
+{"name": "Elektrisch_voertuig", "id": 1559340, "predecessors": [{"name": "Duurzaamheid", "id": 1154619}, {"name": "Elektriciteit", "id": 63866}, {"name": "Werktuig", "id": 94143}], "successors": [{"name": "Tram", "id": 63308}, {"name": "Elektrische_locomotief", "id": 1559337}]}

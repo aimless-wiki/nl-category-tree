@@ -1,0 +1,1 @@
+{"name": "Akkerbouw", "id": 67120, "predecessors": [{"name": "Landbouw", "id": 67118}], "successors": [{"name": "Plantenziekte", "id": 100912}, {"name": "Meststof", "id": 865503}, {"name": "Vrucht-als-groente", "id": 278811}, {"name": "Bladgroente", "id": 1700180}, {"name": "Landbouwwerktuig", "id": 205397}]}
