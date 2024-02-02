@@ -139,6 +139,7 @@
 66242 Indiaas_persoon
 66246 Geschiedenis_van_India
 66389 Romeins_schrijver
+66470 Europese_Unie
 66484 Muzieknotatie
 66488 Dichtkunst
 66575 Zang
@@ -995,7 +996,6 @@
 147961 Natuur_in_Nederland
 148133 Natuur_in_Australië
 148176 Nationaal_park_van_de_Verenigde_Staten
-148565 Oudenaarde
 148658 Literaire_stroming
 148828 Hardcore_punk
 148839 Filosofische_stroming
@@ -1652,7 +1652,6 @@
 268524 Jacht
 268612 Alphen-Chaam
 268655 Communicatie
-268706 Cultuur_in_Rotterdam
 268710 Geschiedenis_van_Rotterdam
 269166 Homecomputer
 269170 Macintosh-computer
@@ -1921,6 +1920,7 @@
 316609 Nederlands_recht
 317149 Linux-spel
 317834 Finse_voetbalclub
+317990 Restaurant
 318482 Voormalige_Nederlandse_politieke_partij
 318486 Archeologisch_museum
 318806 Vredesbeweging
@@ -1928,6 +1928,7 @@
 319458 Bulgaarse_voetbalclub
 319460 IJslandse_voetbalclub
 319789 Universiteit_van_Amsterdam
+320151 Klooster_in_Vlaams-Brabant
 320204 Klooster_in_Oost-Vlaanderen
 320222 Klooster_in_West-Vlaanderen
 320434 Pomp
@@ -3303,6 +3304,7 @@
 686182 Rechtspraak_van_het_Europees_Hof_van_Justitie
 686394 Arbeidsrecht
 686416 Rechtsgeschiedenis
+686461 Archeologische_plaats_in_Egypte
 686826 Sega_Master_System-spel
 686944 Conceptauto
 687009 Hotel_in_Nederland
@@ -3428,6 +3430,7 @@
 709769 Meeuwen-Gruitrode
 709928 Krabben
 710029 Nederlands_geoloog
+710046 Brits_geoloog
 710112 Amerikaans_ingenieur
 710303 Frans_uitvinder
 710530 Amerikaans_triatleet
@@ -3554,6 +3557,7 @@
 750071 VVD-politicus
 750251 Schaatsen_in_Duitsland
 750263 Schaatsen_in_Noorwegen
+750282 Schaatsen_in_de_Verenigde_Staten
 750532 Jazzrock
 750565 Salesianen
 750622 Karmelieten
@@ -4639,6 +4643,7 @@
 1147402 Kerkgebouw_naar_patroonheilige
 1147682 Ambientalbum
 1148230 Gemeente_in_Paraná_(staat)
+1148559 Polen_op_de_Olympische_Spelen
 1148614 Vlaamse_overheidsinstantie
 1149363 Krediet
 1149489 Polyommatus
@@ -4812,6 +4817,7 @@
 1232254 Belgisch_filmregisseur
 1233142 Elektrische_gitaar
 1233197 Audiobewerking
+1234986 Nederlands_symfonieorkest
 1235810 Milaan-San_Remo
 1237731 Beklimming_in_de_wielersport_in_Nederland
 1237742 Beklimming_in_de_wielersport_in_Frankrijk
@@ -6966,6 +6972,7 @@
 2061721 Muziekalbum_uit_2011
 2062166 Joods_persoon
 2062498 Hollands-classicistisch_bouwwerk
+2062506 Geschiedenis_van_Suriname_voor_1975
 2063269 Atlantikwall
 2063967 Voetbal_in_2022
 2064458 Film_gebaseerd_op_een_computerspel
@@ -7025,6 +7032,7 @@
 2086716 Oktober
 2086727 November
 2086739 December
+2087160 Bisdom_in_Colombia
 2087168 Democraat_(Verenigde_Staten)
 2087169 Republikein_(Verenigde_Staten)
 2087243 Wierde
@@ -7089,6 +7097,7 @@
 2122727 Plaats_in_Koejavië-Pommeren
 2122968 Romeins_heilige_of_zalige
 2123068 Lijsten_van_voetbalinterlands_Italië
+2123228 GP_La_Marseillaise
 2124341 Spoorlijn_in_Oise
 2124434 Papoea-Nieuw-Guinees_eiland
 2125252 Spoorlijn_in_Somme
@@ -8164,6 +8173,7 @@
 2852837 Wapen_van_voormalige_Zuid-Hollandse_gemeente
 2853857 Televisieserie_gebaseerd_op_een_radioprogramma
 2856316 PEC_Zwolle_naar_seizoen
+2856801 Golden_Raspberry_Award
 2857033 Amt_in_Sleeswijk-Holstein
 2857160 Projectvliegtuig_in_de_Tweede_Wereldoorlog
 2857199 Tibetaanse_diaspora
@@ -8393,7 +8403,6 @@
 2980240 Wikipedia:Sjablonen_Turkije
 2980244 Wikipedia:Sjablonen_Uruguay
 2980248 Wikipedia:Sjablonen_Venezuela
-2980250 Wikipedia:Sjablonen_Verenigd_Koninkrijk
 2980251 Wikipedia:Sjablonen_Verenigde_Arabische_Emiraten
 2980252 Wikipedia:Sjablonen_Verenigde_Staten
 2980254 Wikipedia:Sjablonen_Vietnam
@@ -9805,10 +9814,10 @@
 4031946 Belgische_regeringsformatie_naar_jaar
 4032415 Basculebrug_in_Nederland
 4033976 Wii_U_Virtual_Console-spel
-4034924 Hybride_plant
 4035200 Levenscyclus
 4037895 Geografie_van_West-Australië
 4037994 Rivier_in_West-Australië
+4038383 Geschiedenis_van_Amersfoort
 4038582 Post-apocalyptische_film
 4038931 Nummer_van_Piet_Veerman
 4039692 Aardkundig_monument
@@ -11300,7 +11309,6 @@
 5179227 Sabellidae
 5179296 Polder_in_Westerkwartier
 5179778 Predikant_van_de_Nederlandse_Hervormde_Kerk
-5180169 Brouwerij_in_Oost-Vlaanderen
 5181011 Polynoidae
 5181079 Eunicidae
 5181147 Dorvilleidae
@@ -11499,14 +11507,10 @@
 5300701 Lid_van_de_Kantonsraad_(Zwitserland)
 5300702 Voorzitter_van_de_Kantonsraad_(Zwitserland)
 5302238 Lid_van_de_Nationale_Raad_(Zwitserland)
-5302643 Plaats_in_Viken
 5302704 Plaats_in_Agder
-5302708 Plaats_in_Troms_og_Finnmark
-5302709 Plaats_in_Vestfold_og_Telemark
 5302714 Plaats_in_Innlandet
 5302759 Plaats_in_Vestland
 5303028 Spoorwegstation_in_Innlandet
-5303033 Spoorwegstation_in_Viken
 5303087 Nederlandse_adel_in_de_19e_eeuw
 5303621 Wikipedia:Beginnetje_klassieke_muziek
 5303672 Belgische_Gouden_Schoen
@@ -11548,6 +11552,7 @@
 5336774 Wikipedia:Sjablonen_zijbalk_Olympische_Winterspelen
 5336775 Wikipedia:Sjablonen_zijbalk_Olympische_Zomerspelen
 5339914 Kalkkokerwormen
+5340412 Afgelast,_uitgesteld_of_alternatief_evenement_vanwege_de_coronapandemie
 5340706 Dactylogyridea
 5340994 Sphaeromatidae
 5341167 Persoon_in_de_1e_eeuw_v.Chr.
@@ -11936,7 +11941,6 @@
 5450587 Supereeuweling
 5450608 Kerkgebouw_in_het_aartsbisdom_Rijsel
 5450662 Kerkgebouw_in_het_bisdom_Atrecht
-5450881 Wikipedia:Sjablonen_verkeer_en_vervoer_Nederland
 5450902 Wikipedia:Sjablonen_verkeer_en_vervoer_Verenigde_Staten
 5450934 Wikipedia:Sjablonen_sport_Verenigde_Staten
 5451094 Wikipedia:Sjablonen_sport_Servië
@@ -12246,6 +12250,7 @@
 5559810 Parazoanthidae
 5560055 Pentanchidae
 5562686 Rooms-katholiek_kerkgebouw_in_Oostenrijk
+5563812 Catalaanse_voetbalclub
 5564647 Sportevenement_in_Stockholm
 5564653 Sportevenement_in_Boedapest
 5564667 Sportevenement_in_Montreal
@@ -13581,6 +13586,7 @@
 5774897 Deelnemer_aan_de_Amerikaanse_presidentsverkiezingen
 5775084 Vlag_van_voormalig_Nederlands_waterschap
 5777361 Wikipedia:Sjablonen_verkeer_en_vervoer_Spanje
+5777659 Russula
 5777792 Vlag_van_Antwerpse_gemeente
 5777794 Vlag_van_Henegouwse_gemeente
 5777797 Vlag_van_Oost-Vlaamse_gemeente
@@ -14690,3 +14696,9 @@
 5828987 Software_geschreven_in_GTK
 5830879 Wikipedia:Sjablonen_voetbalelftal_Engeland
 5831476 Vrouwenrechtenactivist
+5834559 Plaats_in_Østfold
+5834585 Plaats_in_Telemark
+5834812 Plaats_in_Akershus
+5834870 Plaats_in_Buskerud
+5834901 Spoorwegstation_in_Buskerud
+5834932 Spoorwegstation_in_Akershus
