@@ -49,7 +49,6 @@
 63660 Gereedschap
 63663 Kernfysica
 63697 Munteenheid
-63716 Filmfestival
 63720 Oppervlaktewater
 63736 Overheid
 63745 Tunnel
@@ -87,7 +86,6 @@
 64260 Esoterie
 64281 Nederlands_schrijver
 64343 Hindoeïsme
-64390 Rotterdam
 64422 Universiteit
 64426 Nederlands_componist
 64435 Psychiatrie
@@ -101,7 +99,6 @@
 64603 Stad_in_Israël
 64679 Italiaans_schrijver
 64680 Engels_schrijver
-64696 Wapen
 64710 Geschiedenis_van_de_Verenigde_Staten
 64858 Stad_in_Albanië
 64940 Bedrijfskunde
@@ -435,7 +432,6 @@
 80717 Gitaarbouwer
 80719 Wind
 80782 Historische_stad
-80833 Historisch_wapen
 80845 Hout
 80850 Voertuigtechniek
 80952 Frans_beeldhouwer
@@ -926,7 +922,6 @@
 135426 Dierenanatomie
 135474 Planetologie
 135539 Geschiedenis_van_het_Verenigd_Koninkrijk
-135540 Railvervoer
 135562 Vulkanologie
 135585 Rivier_in_Spanje
 135620 Rivier_in_Engeland
@@ -2325,6 +2320,7 @@
 408310 Korte_film
 408455 Lijsten_van_gemeentevlaggen
 408909 Pantsermeervallen
+409712 Jenever
 409998 Nederlandse_stripreeks
 410013 Duitse_adel
 410062 Indonesische_keuken
@@ -2424,6 +2420,7 @@
 426966 Geschiedenis_van_Drenthe
 426991 Gemeente_in_Tarn
 428165 Gemeente_in_Pyrénées-Orientales
+430345 Mayastad
 430350 Weg_in_Noord-Brabant
 430351 Weg_in_Gelderland
 430353 Weg_in_Noord-Holland
@@ -2780,6 +2777,7 @@
 569539 Duits_rechtsgeleerde
 569751 Busbouwer
 569754 Busmodel
+570249 Oostzee
 570265 Noordzee
 570455 Grote_Oceaan
 570503 Hommels
@@ -3299,6 +3297,7 @@
 683675 Amerikaans_antropoloog
 684278 Danainae
 684689 Radioprogramma_van_3FM
+684696 Radioprogramma_van_Radio_538
 686052 Nederlands_bestuurder
 686091 Rechterlijke_macht_in_België
 686182 Rechtspraak_van_het_Europees_Hof_van_Justitie
@@ -3783,6 +3782,7 @@
 813320 Molen_in_Zeeland
 813398 Voetbalstadion_in_Tsjechië
 813794 Gemeente_in_Karlsbad_(district)
+813921 Nederlandse_verzekeringsmaatschappij
 814312 Nederlandse_winkelketen
 814326 Amerikaanse_organisatie
 814868 Indeling_van_de_Aarde
@@ -3842,6 +3842,7 @@
 836146 Bouwwerk_in_Heerlen
 836635 Real-time_strategy
 836830 Spoorlijn_in_Zwitserland
+836834 Spoorlijn_in_Oostenrijk
 836835 Spoorlijn_in_Noorwegen
 836845 Spoorlijn_in_Nederland
 836853 Spoorlijn_in_Japan
@@ -4176,6 +4177,7 @@
 941700 LPF-politicus
 942433 Onderscheiding_in_Nederland
 942804 Gemeente_in_Mato_Grosso_do_Sul
+943524 Nederlandse_vakbond
 943886 Partido_in_Buenos_Aires_(provincie)
 944023 Departement_van_Argentinië
 944806 Premier_van_Hongarije
@@ -4191,7 +4193,6 @@
 945442 Weg_in_Limburg_(Nederland)
 945469 Kasteel_in_Antwerpen_(provincie)
 945517 Plaats_in_Antwerpen_(provincie)
-946051 Antwerpen_(stad)
 946143 Portaal:Romeinse_Rijk
 946187 Duits_Europarlementariër
 946207 Israëlisch_parlementslid
@@ -4290,6 +4291,7 @@
 978232 County_in_Georgia
 978635 County_in_Illinois
 978644 Cultuur_in_Groningen_(provincie)
+978652 Geografie_van_Groningen_(provincie)
 978804 County_in_Indiana
 979088 Opensourcesoftware_en_vrije_software
 979279 County_in_Kansas
@@ -4635,7 +4637,6 @@
 1145091 Gemenebest_van_Naties
 1146330 1660-1669
 1146334 1650-1659
-1146335 1640-1649
 1146336 1630-1639
 1146374 Belgisch_adellijk_huis
 1146376 Duits_adellijk_huis
@@ -5753,6 +5754,7 @@
 1644445 Rijksweg_7
 1645630 Geschiedenis_van_Istanbul
 1645639 Bouwwerk_in_Istanbul
+1646130 Tweede_Kamerverkiezingen
 1646166 Voetbal_in_2013
 1646222 Lijsten_van_Tweede_Kamerleden_naar_zittingsperiode
 1646230 Lijsten_van_Eerste_Kamerleden_naar_zittingsperiode
@@ -6218,6 +6220,7 @@
 1762209 Software_geschreven_in_C
 1762239 Gemeente_in_de_Dominicaanse_Republiek
 1762512 County_Galway
+1763783 Burgemeester_van_Groningen
 1763881 Gemeente_in_Tolima
 1764629 Nationaal_handbalteam
 1764646 Gemeente_in_Bulgarije
@@ -6411,6 +6414,7 @@
 1819872 Onvoltooide_compositie
 1820019 Kerkgebouw_in_Moskou
 1820452 Nederlands_literatuuronderzoeker
+1820465 ATP_World_Tour_Finals
 1821269 Bouwwerk_in_San_Francisco
 1821740 Psychedelische_muziek
 1821849 Sport_in_Californië
@@ -6790,7 +6794,6 @@
 1952006 Substitutiereactie
 1952024 Additiereactie
 1952360 Zombiefilm
-1954551 Belegeringswapen
 1954689 Heer_(Wehrmacht)
 1955123 Lijsten_van_voetbalinternationals
 1955543 Land_op_de_Europese_kampioenschappen_atletiek_2010
@@ -6967,7 +6970,6 @@
 2056371 Vereenigde_Oostindische_Compagnie
 2056391 Islamitische_titulatuur
 2056551 Multivariate_statistiek
-2058520 Mes
 2059897 Gotische_kathedraal
 2061721 Muziekalbum_uit_2011
 2062166 Joods_persoon
@@ -7175,6 +7177,7 @@
 2147987 Lijsten_van_voetbalinterlands_Colombia
 2148843 E3_Harelbeke
 2150470 Paramilitaire_organisatie
+2153010 Historisch_sultanaat
 2153104 Lijsten_van_pretparkattracties
 2153628 Brits_kabinet
 2154264 Gemeente_in_Mallorca
@@ -7494,6 +7497,7 @@
 2326644 Lijsten_van_voetbalinterlands_Ethiopië
 2326645 Lijsten_van_voetbalinterlands_Malawi
 2327147 Intellectuele-eigendomsrecht
+2327156 Popart
 2327835 Lijsten_van_voetbalinterlands_Montenegro
 2328049 Pijlwormen
 2328207 Lijsten_van_voetbalinterlands_Cyprus
@@ -7521,6 +7525,7 @@
 2333901 Oorlog_in_de_Nederlanden_in_de_middeleeuwen
 2334230 Eigenlijke_karpers
 2334478 Antennariidae
+2334505 Wereldkampioenschappen_boogschieten
 2335235 Ophidiidae
 2335277 Scorpaenidae
 2335280 Sebastidae
@@ -7680,7 +7685,6 @@
 2550485 Militair_in_de_Verenigde_Provinciën
 2550690 Vlinderhaften
 2551324 Geografie_van_Barneveld
-2551413 Geografie_van_Renkum
 2551469 Parachela
 2552319 Echiniscoidea
 2552779 Arthrotardigrada
@@ -8160,6 +8164,7 @@
 2842769 Film_van_Frank_Lloyd
 2842788 Lijsten_van_voetbalinterlands_Oeganda
 2842910 Lijsten_van_voetbalinterlands_Burkina_Faso
+2844034 Lijsten_van_voetbalinterlands_Aruba
 2844535 Franse_parlementsverkiezingen
 2844914 Scheepvaartterminologie
 2845884 Geschiedenis_van_de_radio
@@ -9584,7 +9589,6 @@
 3872745 Europees_kampioenschap_in_Nederland
 3872770 Wereldkampioenschap_in_Nederland
 3872869 Sport_in_Hokkaido
-3872882 Lijsten_van_IJslandse_ambassadeurs
 3873612 Film_uit_2014
 3876042 Duits_lied
 3876063 Frans_lied
@@ -9969,6 +9973,7 @@
 4092178 Vissersschip_naar_lettercode
 4093143 Browserspel
 4096187 PlayStation_Network-spel
+4097162 Brug_in_Haarlem
 4097202 Schip_gebouwd_in_de_Verenigde_Staten
 4097215 Schip_gebouwd_in_Duitsland
 4097241 Schip_gebouwd_in_het_Verenigd_Koninkrijk
@@ -10462,6 +10467,7 @@
 4614871 Kampgevangene_in_Buchenwald
 4614890 Kampgevangene_in_Dachau
 4615031 Kampgevangene_in_Mauthausen
+4618498 Risorgimento
 4619265 Lironobidae
 4619279 Megalomastomatidae
 4619796 Sovjet_Top_Liga
@@ -10585,6 +10591,7 @@
 4764017 Spaans_deelnemer_aan_het_Eurovisiesongfestival
 4764018 Spanje_op_het_Eurovisiesongfestival
 4764022 Fins_deelnemer_aan_het_Eurovisiesongfestival
+4764024 Finland_op_het_Eurovisiesongfestival
 4764451 Portugees_deelnemer_aan_het_Eurovisiesongfestival
 4764529 Iers_deelnemer_aan_het_Eurovisiesongfestival
 4764532 Ierland_op_het_Eurovisiesongfestival
@@ -11144,6 +11151,7 @@
 5051376 Monument_in_Suriname
 5052953 Buurt_in_Haarlem
 5053003 Geschiedenis_van_Westerwolde
+5054682 Haarlem-Centrum
 5057879 Franse_jeugdserie
 5061294 Computerspel_uit_2019
 5062430 Weg_in_Neder-Oostenrijk
@@ -12103,6 +12111,7 @@
 5512658 Stad_in_Guangdong
 5512729 Geografie_van_Savoie
 5513032 Wikipedia:Sjablonen_sport_Ierland
+5513437 Bryaceae
 5513535 Oppervlaktewater_in_De_Friese_Meren
 5513685 Geografie_van_Opsterland
 5514019 Braziliaans_competitievoetbal_2021
@@ -12242,6 +12251,7 @@
 5557741 Tetragonicipitidae
 5558088 Halicyclopidae
 5558416 Voetbalfinale_in_Engeland
+5559134 Sportevenement_in_München
 5559253 Ophiacanthidae
 5559351 Ophiodermatidae
 5559361 Ophiocomidae
@@ -12250,7 +12260,6 @@
 5559810 Parazoanthidae
 5560055 Pentanchidae
 5562686 Rooms-katholiek_kerkgebouw_in_Oostenrijk
-5563812 Catalaanse_voetbalclub
 5564647 Sportevenement_in_Stockholm
 5564653 Sportevenement_in_Boedapest
 5564667 Sportevenement_in_Montreal
@@ -13531,6 +13540,7 @@
 5717517 Film_uit_2023
 5718164 Interlandvoetbal_2000-2009
 5718372 Single_uit_2023
+5718518 ATP-toernooi_in_2023
 5718886 WTA-toernooi_in_2023
 5719378 Albanese_adel
 5719470 Vlaams_romanschrijver
@@ -13599,6 +13609,7 @@
 5791510 Hoogleraar_aan_de_Universiteit_van_Heidelberg
 5793041 Lid_van_de_Academia_Europaea
 5796155 Aardbeving_in_de_21e_eeuw
+5797430 Lijsten_van_Europa
 5799292 Film_van_Golan-Globus
 5799299 Film_van_The_Cannon_Group,_Inc.
 5799300 Wielerploeg_in_2024
@@ -13608,6 +13619,7 @@
 5807806 Vrouwelijk_personage_uit_spel
 5810122 Boek_in_het_publiek_domein
 5810558 Piteå
+5813459 Studentenorganisatie_in_Groningen_(stad)
 5813879 Aegeria
 5813897 Bembecia
 5813920 Carmenta_(geslacht)
@@ -14702,3 +14714,5 @@
 5834870 Plaats_in_Buskerud
 5834901 Spoorwegstation_in_Buskerud
 5834932 Spoorwegstation_in_Akershus
+5837240 Bisdom_in_Peru
+5838588 Wielersport_op_de_Paralympische_Zomerspelen_2020

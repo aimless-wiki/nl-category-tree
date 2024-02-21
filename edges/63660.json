@@ -1,1 +1,1 @@
-{"name": "Gereedschap", "id": 63660, "predecessors": [{"name": "Werktuig", "id": 94143}], "successors": [{"name": "Keukengerei", "id": 177492}, {"name": "Tuingereedschap", "id": 205273}, {"name": "Zaag", "id": 80213}, {"name": "Mes", "id": 2058520}]}
+{"name": "Gereedschap", "id": 63660, "predecessors": [{"name": "Werktuig", "id": 94143}], "successors": [{"name": "Keukengerei", "id": 177492}, {"name": "Tuingereedschap", "id": 205273}, {"name": "Zaag", "id": 80213}]}

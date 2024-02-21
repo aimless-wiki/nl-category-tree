@@ -1,1 +1,1 @@
-{"name": "Toerisme", "id": 67085, "predecessors": [{"name": "Recreatie", "id": 68304}, {"name": "Mens_en_maatschappij", "id": 176685}], "successors": [{"name": "Recreatiegebied", "id": 403970}, {"name": "Hotelketen", "id": 687107}, {"name": "Efteling", "id": 833139}]}
+{"name": "Toerisme", "id": 67085, "predecessors": [{"name": "Recreatie", "id": 68304}, {"name": "Verkeer_en_vervoer", "id": 80542}], "successors": [{"name": "Recreatiegebied", "id": 403970}, {"name": "Hotelketen", "id": 687107}]}
