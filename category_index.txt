@@ -452,7 +452,6 @@
 82394 Wapenfabrikant
 82611 Criminele_organisatie
 82922 Vlaamse_Primitieven
-83233 Filmbedrijf
 83340 Musical
 83389 Vorst_in_het_Duitse_Rijk
 83790 Antibioticum
@@ -1789,7 +1788,6 @@
 296008 Drieduizender
 296384 Champions_Trophy
 296391 Europees_kampioenschap_hockey
-296897 Botanicus
 296927 Voeren
 297021 Voormalige_gemeente_in_Zuid-Holland
 297234 Vrij_besturingssysteem
@@ -5406,7 +5404,6 @@
 1451977 Grand_Prix_van_Brazilië
 1453185 Nederlands_hockeycoach
 1453583 Italiaans_olympisch_deelnemer
-1453612 Jachthaven
 1454519 Koeienkaas
 1454647 Station_van_RandstadRail
 1455055 Energietechniek
@@ -7068,7 +7065,6 @@
 2103329 Uitgestorven_Crocodylomorpha
 2103724 Russisch_voetbalcoach
 2105665 Gevangenisfilm
-2107415 Kanton_van_Gard
 2109962 Instant_messenger
 2110876 Fantasycomputerspel
 2111663 Gemeente_in_Bolivia
@@ -7216,6 +7212,7 @@
 2180410 Type_M-hoofdreeksster
 2180593 Geografie_van_Kampen
 2181457 Popmuziek-platenlabel
+2182032 Endemisch_dier_uit_Frans-Polynesië
 2182700 Rector_magnificus_van_de_Universiteit_Utrecht
 2182710 Rector
 2182712 Rector_magnificus_van_de_Universiteit_van_Amsterdam
@@ -8030,6 +8027,7 @@
 2750366 15e-eeuws_bisschop
 2750453 Nederlandse_supermarktketen
 2750460 Duitse_winkelketen
+2750773 Lijsten_van_voetbalinterlands_Kirgizië
 2754037 UCI_Europe_Tour_2012
 2760923 Lijsten_van_voetbalinterlands_Bangladesh
 2761061 Film_van_The_Asylum
@@ -8072,6 +8070,7 @@
 2780682 Wapen_van_voormalige_Noord-Hollandse_gemeente
 2785517 Watermolen_in_Oost-Vlaanderen
 2785620 Game_Boy-spel
+2787248 Bouwwerk_in_Birmingham
 2788575 Atari_5200-spel
 2789197 Cdi-spel
 2789768 Bedrijventerrein_in_Nederland
@@ -8114,6 +8113,7 @@
 2813064 Wapen_van_voormalige_Overijsselse_gemeente
 2813291 Historisch_vorstendom
 2813636 Lijsten_van_voetbalinterlands_Tadzjikistan
+2813645 Lijsten_van_voetbalinterlands_Pakistan
 2813909 Experimentele_muziek
 2813956 Cypriotisch_voetbalseizoen
 2813977 Lijsten_van_voetbalinterlands_Myanmar
@@ -8469,6 +8469,7 @@
 2980494 Wikipedia:Sjablonen_Taiwan
 2980497 Wikipedia:Sjablonen_Sovjet-Unie
 2980501 Wikipedia:Sjablonen_Servië_en_Montenegro
+2980502 Wikipedia:Sjablonen_Schotland
 2980511 Wikipedia:Sjablonen_Rotterdam
 2980523 Wikipedia:Sjablonen_Oost-Vlaanderen
 2980539 Wikipedia:Sjablonen_geschiedenis_op_datum
@@ -8616,6 +8617,7 @@
 2981345 Wikipedia:Sjablonen_voetbalseizoenen_Duitsland
 2981347 Wikipedia:Sjablonen_wereldkampioen_atletiek
 2981348 Wikipedia:Sjablonen_voetbal_Turkije
+2981436 Lijsten_van_voetbalinterlands_Sri_Lanka
 2982103 Groefkopadders
 2982240 Gemeentelijk_monument_in_Zuid-Holland
 2982245 Gemeentelijk_monument_in_Noord-Holland
@@ -9557,6 +9559,7 @@
 3839536 Economie_van_Californië
 3839579 Muziekalbum_uit_2014
 3840301 Synoniem
+3840332 Pottiaceae
 3841220 Werk_van_Willem_Frederik_Hermans
 3842635 Wikipedia:School_met_mailcontact
 3845264 Wikipedia:Sjablonen_vlag_met_nationaal_basketbalteam
@@ -10084,6 +10087,7 @@
 4377857 Kamsterren
 4377873 Vlag_van_Gelderse_gemeente
 4378920 Vlag_van_Zuid-Hollandse_gemeente
+4386237 Nederlands_tuin-_of_landschapsarchitect
 4386692 Amerikaans_romanschrijver
 4386695 Nederlands_romanschrijver
 4387511 Rijksmonument_in_Baarn
@@ -11084,6 +11088,7 @@
 4906211 Naams_schepen
 4912213 Nederlandse_belangenorganisatie
 4915495 Bloeiwijze
+4915573 Televisieproductiebedrijf
 4915695 Amerikaans_televisiebedrijf
 4916092 Amerikaans_computerbedrijf
 4916191 17e-eeuws_abt
@@ -12036,6 +12041,7 @@
 5465047 Renaissancebouwwerk_in_Italië
 5465983 Cribrilinidae
 5466781 Muziek_in_2021
+5466866 Orthotrichales
 5466954 Verlichting_in_Japan
 5468088 Rijksmonument_in_Eemsdelta
 5468123 Geografie_van_Eemsdelta
@@ -12251,7 +12257,6 @@
 5557741 Tetragonicipitidae
 5558088 Halicyclopidae
 5558416 Voetbalfinale_in_Engeland
-5559134 Sportevenement_in_München
 5559253 Ophiacanthidae
 5559351 Ophiodermatidae
 5559361 Ophiocomidae
@@ -13619,6 +13624,7 @@
 5807806 Vrouwelijk_personage_uit_spel
 5810122 Boek_in_het_publiek_domein
 5810558 Piteå
+5813321 Film_uit_2024
 5813459 Studentenorganisatie_in_Groningen_(stad)
 5813879 Aegeria
 5813897 Bembecia
