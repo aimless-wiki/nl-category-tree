@@ -1,1 +1,1 @@
-{"name": "Nederlands_radiopresentator", "id": 468412, "predecessors": [{"name": "Radio", "id": 63965}, {"name": "Recreatie", "id": 68304}, {"name": "Overheid", "id": 63736}], "successors": [{"name": "Nederlands_radio-dj", "id": 330341}, {"name": "Paul_de_Leeuw", "id": 3976141}]}
+{"name": "Nederlands_radiopresentator", "id": 468412, "predecessors": [{"name": "Nederlands_presentator", "id": 70258}, {"name": "Radio", "id": 63965}, {"name": "Recreatie", "id": 68304}], "successors": [{"name": "Nederlands_radio-dj", "id": 330341}, {"name": "Paul_de_Leeuw", "id": 3976141}]}

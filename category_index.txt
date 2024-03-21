@@ -37,7 +37,6 @@
 63546 Nederlandse_politieke_partij
 63551 Schilderstijl
 63564 Schildertechniek
-63571 Hoekse_en_Kabeljauwse_twisten
 63579 Alles
 63593 Duitse_Bond
 63600 Economie
@@ -179,6 +178,7 @@
 67183 Stijlfiguur
 67187 Trojaanse_Oorlog
 67188 Scheepvaart
+67192 Getal
 67193 Insecten
 67196 Paleontologie
 67197 Geschiedenis_van_Engeland
@@ -290,6 +290,7 @@
 70235 Nederlands_kunstenaar
 70239 Nederlands_schaatser
 70255 Nederlands_atleet
+70258 Nederlands_presentator
 70260 Nederlands_voetballer
 70276 Nederlands_architect
 70278 Belgisch_architect
@@ -435,6 +436,7 @@
 80845 Hout
 80850 Voertuigtechniek
 80952 Frans_beeldhouwer
+81019 Combinatoriek
 81245 Vuurwapentechniek
 81303 Logica
 81378 Polymeerchemie
@@ -2962,7 +2964,6 @@
 596886 Autosnelweg_in_Duitsland
 596942 Endemisch_dier_uit_de_Salomonseilanden
 596955 Endemisch_dier_uit_Griekenland
-596965 Keulen
 596997 Endemisch_dier_uit_Bolivia
 596998 Endemisch_dier_uit_Chili
 597003 Endemisch_dier_uit_Brazilië
@@ -3762,7 +3763,6 @@
 806237 Zuid-Koreaans_langebaanschaatser
 807028 Nederlands_mountainbiker
 807036 Pakistaans_hockeyer
-807260 Democratie
 807616 Duurzame_energie
 807738 Gemeente_in_Beroun
 807943 Heuvel_in_de_Vlaamse_Ardennen
@@ -4244,6 +4244,7 @@
 961778 Benedictijn
 962472 Metrostation_in_Praag
 962705 Kerkgebouw_in_Oost-Vlaanderen
+963293 Belgische_familie
 963319 Natuurgebied_in_Overijssel
 963323 Natuurgebied_in_Friesland
 963349 Natuurgebied_in_Gelderland
@@ -5229,6 +5230,7 @@
 1390007 Grasmineermotten
 1390024 Mineermotten
 1390029 Wortelboorders
+1390037 Dikkopjes
 1390040 Spinners
 1390042 Donsvlinders
 1390067 Uilen_(vlinders)
@@ -5329,6 +5331,7 @@
 1405946 Lithostratigrafie_van_België
 1406673 Provincie_van_Marokko
 1407303 Plaats_in_Estland
+1408551 Algebraïsche_meetkunde
 1409326 Kaardertjes
 1409893 Fluweelspinnen
 1409896 Krabspinnen
@@ -5404,6 +5407,7 @@
 1451977 Grand_Prix_van_Brazilië
 1453185 Nederlands_hockeycoach
 1453583 Italiaans_olympisch_deelnemer
+1453612 Jachthaven
 1454519 Koeienkaas
 1454647 Station_van_RandstadRail
 1455055 Energietechniek
@@ -5606,6 +5610,7 @@
 1579693 Bouwwerk_in_Luik_(stad)
 1579950 Museum_in_West-Vlaanderen
 1579958 Museum_in_Limburg_(België)
+1580895 Bouwwerk_in_Keulen
 1581401 Plaats_in_Lampung
 1581405 Plaats_in_West-Sumatra
 1581411 Plaats_in_Noord-Sumatra
@@ -5891,7 +5896,6 @@
 1683183 Lijsten_van_oorlogsschepen
 1683387 Single_uit_1959
 1683997 Vestingwerk_in_Nederland
-1684018 Voormalig_bouwwerk_in_Zuid-Holland
 1684114 Wikipedia:Gebruiker_pt-1
 1685698 Belgisch_jezuïet
 1686100 Nederlands_schout
@@ -6411,7 +6415,7 @@
 1819872 Onvoltooide_compositie
 1820019 Kerkgebouw_in_Moskou
 1820452 Nederlands_literatuuronderzoeker
-1820465 ATP_World_Tour_Finals
+1820465 ATP_Finals
 1821269 Bouwwerk_in_San_Francisco
 1821740 Psychedelische_muziek
 1821849 Sport_in_Californië
@@ -7206,6 +7210,7 @@
 2174669 Isostictidae
 2176021 Darkride_in_de_Verenigde_Staten
 2176138 Eetbare_paddenstoel
+2176149 Plopsaland_De_Panne
 2177014 Europese_kampioenschappen_judo
 2177460 Chileens_voetbalseizoen
 2180404 Type_K-hoofdreeksster
@@ -7694,6 +7699,7 @@
 2553467 Lijsten_van_voetbalinterlands_Armenië
 2553477 Lijsten_van_voetbalinterlands_Zuid-Afrika
 2553479 Lijsten_van_voetbalinterlands_Verenigde_Staten
+2553491 Lijsten_van_voetbalinterlands_Barbados
 2553506 Lijsten_van_voetbalinterlands_Bolivia
 2553527 Lijsten_van_voetbalinterlands_Singapore
 2553531 Lijsten_van_voetbalinterlands_Canada
@@ -8151,6 +8157,7 @@
 2832682 Weg_in_Namibië
 2834004 Lijsten_van_voetbalinterlands_Equatoriaal-Guinea
 2834026 Lijsten_van_voetbalinterlands_Botswana
+2834328 Lijsten_van_voetbalinterlands_Amerikaanse_Maagdeneilanden
 2834809 Muziek_in_Amsterdam
 2834827 Lijsten_van_voetbalinterlands_Mauritanië
 2835080 Lijsten_van_voetbalinterlands_Mozambique
@@ -8243,6 +8250,7 @@
 2883638 Onbewoond_Canadees_eiland
 2883674 Noors_parlementslid
 2886815 Lijsten_van_olympische_medaillewinnaars
+2889116 Frans_gouverneur
 2889152 BSP-politicus_(België)
 2889369 Mtscheta-Mtianeti
 2889696 BWP-politicus
@@ -8656,9 +8664,9 @@
 2994870 Neoromaans_kerkgebouw
 2994934 Orange_County_(Californië)
 2995173 Koraalslangachtigen
-2995906 Fytocoenon
 2996314 Hopvariëteit
 2998435 Informaticatijdschrift
+2999093 Gemeentelijk_monument_in_Amstelveen
 2999853 Fins_eiland_in_een_rivier_of_een_binnenmeer
 2999856 Zweeds_eiland_in_een_rivier_of_een_binnenmeer
 3000039 Open_access-tijdschrift
@@ -9558,6 +9566,7 @@
 3838688 Berg_in_Piëmont
 3839536 Economie_van_Californië
 3839579 Muziekalbum_uit_2014
+3840285 Brachytheciaceae
 3840301 Synoniem
 3840332 Pottiaceae
 3841220 Werk_van_Willem_Frederik_Hermans
@@ -9796,6 +9805,7 @@
 4027541 Attractie_in_Bobbejaanland
 4027557 Rijksmonument_in_Zaanstad
 4027686 Wikipedia:Sjablonen_Zootaxa
+4029372 Belgische_regeringsformatie
 4029621 Spionagefilm
 4030230 Wikipedia:Sjablonen_selectie_wielerploeg
 4030468 Wapen_van_voormalig_Nederlands_waterschap
@@ -9818,14 +9828,13 @@
 4031739 Gemeente_in_Atsimo-Atsinanana
 4031740 Gemeente_in_Menabe
 4031746 Gemeente_in_Analanjirofo
-4031946 Belgische_regeringsformatie_naar_jaar
 4032415 Basculebrug_in_Nederland
 4033976 Wii_U_Virtual_Console-spel
 4035200 Levenscyclus
 4037895 Geografie_van_West-Australië
 4037994 Rivier_in_West-Australië
 4038383 Geschiedenis_van_Amersfoort
-4038582 Post-apocalyptische_film
+4038582 Postapocalyptische_film
 4038931 Nummer_van_Piet_Veerman
 4039692 Aardkundig_monument
 4040735 Wikipedia:Sjablonen_voetbal_Brazilië
@@ -10115,6 +10124,7 @@
 4422076 Archeologische_terminologie
 4424443 Muziekalbum_uitgegeven_door_Virgin_Records
 4424814 Wielerploeg_in_2016
+4424861 Zilveren_Bal
 4424915 PDC_Pro_Tour
 4424967 Wikipedia:Sjablonen_vlag_met_nationaal_curlingteam
 4427880 Voormalig_spoorwegstation_in_Polen
@@ -11548,6 +11558,7 @@
 5317410 Interlandvoetbal_2020-2029
 5319436 Beeld_in_Amsterdam-Oost
 5320082 Super_Bowl
+5321339 Belgisch_persoon_in_de_20e_eeuw
 5321350 Luxemburgs_persoon_in_de_20e_eeuw
 5321620 Zuid-Afrikaans_persoon_in_de_20e_eeuw
 5323386 PlayStation_5-spel
@@ -12283,6 +12294,7 @@
 5569197 Sportevenement_in_Kopenhagen
 5569208 Sportevenement_in_Helsinki
 5569225 Sportevenement_in_Oslo
+5569923 Belgisch_kajakker
 5571042 Voormalige_Duitse_voetbalclub
 5571054 Voormalige_Vlaamse_voetbalclub
 5571063 Voormalige_Waalse_voetbalclub
@@ -13483,7 +13495,6 @@
 5669625 Dorp_in_Georgië
 5670686 Persoon_in_het_Manhattanproject
 5671234 Lijsten_van_afleveringen_in_de_Law_&_Order-franchise
-5671760 Videokunstenaar
 5671988 Nederlands_langeafstandsloper
 5671995 Nederlands_middellangeafstandsloper
 5672007 Nederlands_veldloper
@@ -13516,6 +13527,7 @@
 5692127 Wikipedia:Sjablonen_treinserie_Zwitserland
 5695505 Schaakgrootmeester
 5697174 Spoorlijn_in_Calvados
+5697177 Spoorlijn_in_Eure-et-Loir
 5697193 Nationaal_voetbalelftal_onder_16
 5700794 Wikipedia:Uitgelicht_op_hoofdpagina_sinds_2021
 5703494 Hoorspel_van_de_KRO
@@ -13568,6 +13580,7 @@
 5738675 Wikipedia:Sjablonen_selectie_wielerploeg/2023
 5741066 Spoorlijn_in_Baden-Württemberg
 5741167 Spoorlijn_in_Beieren
+5741937 Wikipedia:Uitgelicht_op_hoofdpagina_sinds_2024
 5745001 Schaken_in_Amsterdam
 5745332 Spoorlijn_in_Sleeswijk-Holstein
 5747260 Spoorlijn_in_Nedersaksen
@@ -13732,6 +13745,7 @@
 5815385 Lethe_(vlinder)
 5815387 Mycalesis
 5815395 Satyrus_(geslacht)
+5815400 Bicyclus
 5815405 Boloria
 5815408 Elymnias
 5815412 Erebia
@@ -14722,3 +14736,11 @@
 5834932 Spoorwegstation_in_Akershus
 5837240 Bisdom_in_Peru
 5838588 Wielersport_op_de_Paralympische_Zomerspelen_2020
+5846325 Gebeurtenis_in_het_graafschap_Vlaanderen
+5849515 Verbond
+5849517 Orde
+5849518 Klasse
+5850298 Plaats_in_Veszprém_(comitaat)
+5850657 Plaats_in_Bács-Kiskun
+5850673 Plaats_in_Somogy
+5852262 Subassociatie
