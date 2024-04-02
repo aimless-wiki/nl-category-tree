@@ -1,1 +1,1 @@
-{"name": "Dimensieloos_getal", "id": 81826, "predecessors": [{"name": "Getal", "id": 67192}, {"name": "Grootheid", "id": 514156}], "successors": []}
+{"name": "Dimensieloos_getal", "id": 81826, "predecessors": [{"name": "Grootheid", "id": 514156}, {"name": "Getaltheorie", "id": 67077}], "successors": []}

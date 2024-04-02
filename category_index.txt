@@ -178,7 +178,6 @@
 67183 Stijlfiguur
 67187 Trojaanse_Oorlog
 67188 Scheepvaart
-67192 Getal
 67193 Insecten
 67196 Paleontologie
 67197 Geschiedenis_van_Engeland
@@ -513,7 +512,6 @@
 89247 Geschiedenis_van_Litouwen
 89303 Muppet
 89400 Fictieve_soort
-89541 Studievereniging
 90011 Webbrowser
 90071 Internetbedrijf
 90072 Internetprovider
@@ -648,7 +646,6 @@
 105063 VOC-schip
 105154 Vrucht
 105216 Planetoïde
-105257 Internationale_hulptaal
 105463 Chinees_acteur
 105549 Koning_van_Denemarken
 105630 Western
@@ -3255,6 +3252,7 @@
 671082 Straat_in_Brugge
 671175 Nationaal_park_van_Nieuw-Zuid-Wales
 671268 Bloemmorfologie
+671424 Moleculaire_biologie
 671478 Programma_van_Jetix
 671628 Nederlandse_voormalig_betaaldvoetbalclub
 671905 Belgische_rockband
@@ -3366,6 +3364,7 @@
 696818 Amerikaans_modeontwerper
 696856 Amerikaans_activist
 696960 Zweefvliegen_(dieren)
+697689 Hooiwagens
 697854 Superheldenfilm
 698053 Ridderorde_in_Frankrijk
 698480 Springspinnen
@@ -3537,6 +3536,7 @@
 747763 Redemptoristen
 748044 Elfstedentocht
 748087 Nummer_van_Prince
+748097 Nummer_van_BZN
 748104 Nummer_van_BLØF
 748120 Nummer_van_Coldplay
 748161 Nummer_van_Madonna
@@ -3763,6 +3763,7 @@
 806237 Zuid-Koreaans_langebaanschaatser
 807028 Nederlands_mountainbiker
 807036 Pakistaans_hockeyer
+807260 Democratie
 807616 Duurzame_energie
 807738 Gemeente_in_Beroun
 807943 Heuvel_in_de_Vlaamse_Ardennen
@@ -4557,6 +4558,7 @@
 1115479 Plaats_in_de_kraj_Primorje
 1116529 Endemisch_dier_uit_Hawaï
 1118141 Amerikaans_marineschip_in_de_Tweede_Wereldoorlog
+1118770 Dwars_door_Vlaanderen
 1119635 Zilveren_Anjer
 1119878 Partner_van_de_heerser_van_Oostenrijk
 1119945 Jamaicaans_voetballer
@@ -5005,6 +5007,7 @@
 1307289 Portaal:Turkije
 1307298 Portaal:Tweede_Wereldoorlog
 1307302 Portaal:Tweede_Wereldoorlog/Geschiedenis
+1307472 Portaal:Verenigd_Koninkrijk
 1307523 Portaal:Verkeer_&_Vervoer
 1307589 Portaal:Vlaggen_en_wapens
 1307612 Portaal:Voetbal
@@ -5343,7 +5346,6 @@
 1411024 Scholastisch_filosoof
 1411512 Schorpioenen
 1412215 TVB-acteur
-1414882 Pretparkattractie
 1416636 Groenwieren
 1417539 Geweer
 1417821 Kathedraal_in_Duitsland
@@ -5407,7 +5409,6 @@
 1451977 Grand_Prix_van_Brazilië
 1453185 Nederlands_hockeycoach
 1453583 Italiaans_olympisch_deelnemer
-1453612 Jachthaven
 1454519 Koeienkaas
 1454647 Station_van_RandstadRail
 1455055 Energietechniek
@@ -6859,6 +6860,7 @@
 2002740 Wapen_van_Zuid-Hollandse_gemeente
 2002744 Belgisch_wielerploegleider
 2002745 Nederlands_wielerploegleider
+2002751 Italiaans_wielerploegleider
 2003672 Personage_uit_Marvel_Comics
 2003678 Militaire_muziek
 2004072 Witvlekmotten
@@ -8728,7 +8730,6 @@
 3023111 Vejle
 3023334 Varde
 3024948 Bosnisch-Kroatisch_persoon
-3026147 Belgisch_voedingsmiddelenfabrikant
 3026620 Lijsten_van_Belgische_adel
 3027518 Krekels
 3027954 Rijksmonument_in_Alkmaar
@@ -8860,6 +8861,7 @@
 3140191 Peltoperlidae
 3140192 Perlodidae
 3142143 Stonerrock
+3143939 Lijsten_van_voetbalinterlands_Cambodja
 3144179 21e-eeuws_componist
 3144745 Jazzplatenlabel
 3145644 Plaats_in_Gotlands_län
@@ -9807,6 +9809,7 @@
 4027686 Wikipedia:Sjablonen_Zootaxa
 4029372 Belgische_regeringsformatie
 4029621 Spionagefilm
+4029857 Belgisch_sopraan
 4030230 Wikipedia:Sjablonen_selectie_wielerploeg
 4030468 Wapen_van_voormalig_Nederlands_waterschap
 4030996 Eredoctoraat_Rijksuniversiteit_Groningen
@@ -10662,6 +10665,7 @@
 4791420 Surinaamse_stichting
 4792624 Tweede_Wereldoorlog_in_Den_Haag
 4795837 Lijsten_van_brutoformules
+4795946 Nederlandse_wetenschapsprijs
 4796175 Koolstof-elementbinding
 4796750 Gemeente_in_Zuid-Sardinië
 4797674 Nederlands_jeugdtijdschrift
@@ -14734,6 +14738,7 @@
 5834870 Plaats_in_Buskerud
 5834901 Spoorwegstation_in_Buskerud
 5834932 Spoorwegstation_in_Akershus
+5835562 Eendagswielerwedstrijd_in_2024
 5837240 Bisdom_in_Peru
 5838588 Wielersport_op_de_Paralympische_Zomerspelen_2020
 5846325 Gebeurtenis_in_het_graafschap_Vlaanderen
@@ -14743,4 +14748,7 @@
 5850298 Plaats_in_Veszprém_(comitaat)
 5850657 Plaats_in_Bács-Kiskun
 5850673 Plaats_in_Somogy
+5851216 Bisdom_in_India
 5852262 Subassociatie
+5852402 Plaats_in_Baranya_(comitaat)
+5852476 Plaats_in_Csongrád-Csanád

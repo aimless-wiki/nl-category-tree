@@ -1,1 +1,1 @@
-{"name": "Anime", "id": 322447, "predecessors": [{"name": "Afbeelding", "id": 581594}, {"name": "Filmreeks", "id": 1069901}, {"name": "Recreatie", "id": 68304}, {"name": "Cultuur_in_Japan", "id": 160962}], "successors": [{"name": "Shonen", "id": 4406150}, {"name": "Seinen", "id": 4406170}]}
+{"name": "Anime", "id": 322447, "predecessors": [{"name": "Afbeelding", "id": 581594}, {"name": "Recreatie", "id": 68304}, {"name": "Cultuur_in_Japan", "id": 160962}], "successors": [{"name": "Shonen", "id": 4406150}, {"name": "Seinen", "id": 4406170}]}

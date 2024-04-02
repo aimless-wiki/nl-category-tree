@@ -1,1 +1,1 @@
-{"name": "Getaltheorie", "id": 67077, "predecessors": [{"name": "Wiskunde", "id": 63315}], "successors": [{"name": "Getal", "id": 67192}, {"name": "Priemgetal", "id": 132541}, {"name": "Getaltheoreticus", "id": 2136677}]}
+{"name": "Getaltheorie", "id": 67077, "predecessors": [{"name": "Wiskunde", "id": 63315}], "successors": [{"name": "Priemgetal", "id": 132541}, {"name": "Getaltheoreticus", "id": 2136677}, {"name": "Dimensieloos_getal", "id": 81826}, {"name": "Nummer", "id": 128245}, {"name": "Natuurlijk_getal", "id": 133777}]}
