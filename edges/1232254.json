@@ -1,1 +1,1 @@
-{"name": "Belgisch_filmregisseur", "id": 1232254, "predecessors": [{"name": "Alles", "id": 63579}, {"name": "Beeldende_kunst", "id": 63471}], "successors": [{"name": "Vlaams_filmregisseur", "id": 1242497}]}
+{"name": "Belgisch_filmregisseur", "id": 1232254, "predecessors": [{"name": "Belgisch_kunstenaar", "id": 116932}, {"name": "Alles", "id": 63579}, {"name": "Beeldende_kunst", "id": 63471}], "successors": [{"name": "Vlaams_filmregisseur", "id": 1242497}]}

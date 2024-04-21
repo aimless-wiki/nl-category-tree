@@ -662,6 +662,7 @@
 107846 Chinees_schrijver
 108102 Amerikaanse_band
 108114 Muziekfilm
+109200 Oekraïens_politicus
 109314 Kinderlied
 109322 Franse_politieke_partij
 109459 Weg_in_Duitsland
@@ -730,6 +731,7 @@
 116892 Kiessysteem
 116897 Brits_componist
 116917 Wimbledon
+116932 Belgisch_kunstenaar
 117306 Brits_wetenschapper
 117309 Belgisch_zanger
 117313 Duits_musicus
@@ -1158,7 +1160,7 @@
 191542 Weginfrastructuur
 191664 Ronde_van_Italië
 191665 Ronde_van_Spanje
-191673 Nederlands_minister_van_Staat
+191673 Nederlands_minister_van_staat
 191881 Plaats_in_Noord-Brabant
 192826 Kunstevenement
 192916 Meer_in_Zweden
@@ -1337,6 +1339,7 @@
 226103 Museum_in_Amsterdam
 226458 Gebergte_in_Oostenrijk
 226848 Goes
+226857 Middelburg
 226911 Vulkaan_in_Indonesië
 227565 Constructieleer
 227928 Geldrop-Mierlo
@@ -1697,6 +1700,7 @@
 280762 Egyptische_god
 280776 Griekse_god
 280806 Plantaardige_olie
+281007 Surinaams_journalist
 281104 Oekraïens_voetballer
 281287 Bergen_op_Zoom
 281291 Bladel
@@ -1707,6 +1711,7 @@
 281690 Heester
 281828 Plant_naar_groeivorm
 281893 Plantenfamilie
+282116 Religieuze_film
 282227 Theaterzaal_in_Amsterdam
 282294 Waterplant
 282753 Huis_Oldenburg
@@ -2509,7 +2514,6 @@
 456617 Gemeente_in_Landes
 456643 Gemeente_in_Indre
 456652 Gemeente_in_Côte-d'Or
-456910 Belgisch_rechter
 457180 Deens_voetbalcoach
 457536 Plaats_in_Panama
 457546 Kuuroord
@@ -3088,6 +3092,7 @@
 625750 Gemeente_in_Bihor
 626596 Intertoto_Cup
 626866 Winnaar_van_de_Ronde_van_Frankrijk
+627293 Maffiafilm
 627934 Geschiedenis_van_Gent
 627966 Geschiedenis_van_Brugge
 628541 Tweede_Kamerlid
@@ -3161,6 +3166,7 @@
 649023 Regionalistische_of_separatistische_partij
 650400 Wii-spel
 650438 Satirisch_televisieprogramma
+651157 Canadees_kunstrijder
 651514 ZX_Spectrum-spel
 651598 Geschiedenis_van_Nijmegen
 652040 Zwitsers_ondernemer
@@ -3175,7 +3181,7 @@
 653134 Endemisch_dier_uit_Congo-Kinshasa
 653197 Pijlstaartroggen
 653846 Xbox-spel
-653864 Belgisch_minister_van_Staat
+653864 Belgisch_minister_van_staat
 654138 Canadees_componist
 654299 Paleis_in_Italië
 654425 Xbox_360-spel
@@ -3544,7 +3550,6 @@
 748178 Nummer_van_Queen
 748213 Nummer_van_The_Beatles
 748225 Nummer_van_U2
-749213 Levermossen
 749500 Slangenhalsschildpadden
 749542 Landschildpadden
 749599 Weekschildpadden
@@ -5136,6 +5141,7 @@
 1363795 Dicarbonzuur
 1363916 Duits_openbaarvervoerbedrijf
 1363932 Rivier_in_Norrbottens_län
+1364810 Zesduizender
 1365014 Britse_militaire_eenheid_in_de_Tweede_Wereldoorlog
 1367482 Metrostation_in_Madrid
 1367494 Metrostation_in_Barcelona
@@ -5158,7 +5164,6 @@
 1370033 İzmir
 1370258 Vietnamese_achternaam
 1371351 Sportevenement_in_Amsterdam
-1372734 TVB-serie
 1372985 Verfilmd_verhaal
 1373648 Amerikaans_olympisch_kampioen
 1373650 Argentijns_olympisch_kampioen
@@ -5546,7 +5551,6 @@
 1558022 Johnson-lichaam
 1559314 Stoomlocomotief
 1559337 Elektrische_locomotief
-1559340 Elektrisch_voertuig
 1559377 Diesellocomotief
 1559620 Internationale_handel
 1560229 Wikipedia:Beginnetje_geschiedenis
@@ -5655,7 +5659,7 @@
 1603108 Israëlisch_kabinet
 1603205 Nederlandse_kampioenschappen_schaatsen_sprint
 1604358 Nederlands_meubelontwerper
-1605252 Overkoepelende_studentenorganisatie
+1605252 Studentenkoepelorganisatie
 1605810 Verkiezingen_in_Oostenrijk
 1605966 Rijksweg_1
 1607782 Rijksweg_10
@@ -5787,6 +5791,7 @@
 1655500 Liturgisch_voorwerp_in_de_katholieke_kerk
 1655544 Weg_in_Groningen_(provincie)
 1655981 Geschiedenis_van_de_katholieke_kerken
+1656052 Nederlandse_kabinetsformatie
 1656145 Noors_olympisch_deelnemer
 1657337 Nederlands_staatsraad
 1657684 Amerikaanse_zangers
@@ -5960,6 +5965,7 @@
 1692870 Wikipedia:Gebruiker_it-1
 1692871 Wikipedia:Gebruiker_it
 1692920 Wikipedia:Gebruiker_grc-1
+1692940 Wikipedia:Gebruiker_fy-2
 1692941 Wikipedia:Gebruiker_fy-1
 1692947 Wikipedia:Gebruiker_fr-M
 1692948 Wikipedia:Gebruiker_fr-4
@@ -6027,6 +6033,7 @@
 1700643 Civil_parish_in_West_Sussex
 1700841 Koek
 1701854 Neolatijns_schrijver
+1702341 Chinese_televisieserie
 1702402 Wikipedia:Archief_te_beoordelen_objecten
 1702421 Fantasystrip
 1702426 Sciencefictionstrip
@@ -6305,6 +6312,7 @@
 1790899 Dogmatiek
 1791086 Gemeente_in_Hunedoara
 1793324 Europese_Senior_Tour
+1793581 Motorfietslijsten
 1793966 Polyamine
 1794037 Lybiidae
 1794046 Baardkoekoeken
@@ -6398,6 +6406,7 @@
 1812199 Fysische_optica
 1813264 Berg_in_de_Beierse_Alpen
 1814292 Vermoord_journalist
+1815111 Zweeds_televisieacteur
 1815290 Waffen-SS
 1815295 Plaats_in_Isère
 1815298 Plaats_in_Savoie
@@ -6854,7 +6863,7 @@
 2000279 Metrostation_in_Osaka
 2000287 Spoorwegstation_in_de_prefectuur_Osaka
 2000926 Liberale_Unie-politicus
-2001436 Algemeene_Bond_(RKSP)-politicus
+2001436 Algemeene_Bond-politicus
 2002730 Wapen_van_Gelderse_gemeente
 2002733 Wapen_van_Noord-Brabantse_gemeente
 2002740 Wapen_van_Zuid-Hollandse_gemeente
@@ -7357,7 +7366,6 @@
 2279958 Kerkgebouw_in_Súdwest-Fryslân
 2279994 Film_van_Raoul_Walsh
 2281520 Film_van_Lloyd_Bacon
-2281659 Rondrit
 2281844 Mierwespen
 2282069 Frans_alpineskiër
 2282168 Italiaans_alpineskiër
@@ -7702,6 +7710,7 @@
 2553477 Lijsten_van_voetbalinterlands_Zuid-Afrika
 2553479 Lijsten_van_voetbalinterlands_Verenigde_Staten
 2553491 Lijsten_van_voetbalinterlands_Barbados
+2553500 Lijsten_van_voetbalinterlands_Bermuda
 2553506 Lijsten_van_voetbalinterlands_Bolivia
 2553527 Lijsten_van_voetbalinterlands_Singapore
 2553531 Lijsten_van_voetbalinterlands_Canada
@@ -7877,7 +7886,6 @@
 2685438 Perm
 2690544 Ruwbladigenfamilie
 2690644 Lijsten_van_Nederlandse_burgemeesters
-2690680 Burgemeester_van_een_voormalige_Vlaamse_gemeente
 2691977 Martelaar
 2694022 Wakefield_(district)
 2694989 Watergaasvliegen
@@ -8228,7 +8236,6 @@
 2870004 Kamratten
 2870009 Echte_roofbuideldieren
 2870011 Didelphidae
-2870013 Jerboa's
 2870018 Wangzakmuizen
 2870022 Hazen_en_konijnen
 2870023 Kangoeroes
@@ -8326,7 +8333,6 @@
 2941411 Oeververbinding_over_het_Albertkanaal
 2962315 Muziekalbum_uitgegeven_door_Groove_Unlimited
 2963775 Isle_of_Man_TT
-2963889 Vestingwerk_van_Venlo
 2964979 Weg_in_Andalusië
 2966290 Nummer_van_Elvis_Presley
 2967075 Omloop_van_het_Waasland
@@ -8729,6 +8735,7 @@
 3022473 Verdwenen_molen
 3023111 Vejle
 3023334 Varde
+3023798 Lijsten_van_voetbalinterlands_Benin
 3024948 Bosnisch-Kroatisch_persoon
 3026620 Lijsten_van_Belgische_adel
 3027518 Krekels
@@ -9557,7 +9564,7 @@
 3809473 Hardstyle-dj
 3828284 Fictieve_hond
 3829410 Lid_van_het_Huis_van_Afgevaardigden_(Verenigde_Staten)
-3829443 Station_van_Réseau_Express_Régional
+3829443 Station_van_Réseau_express_régional
 3829589 Portaal:Leiden
 3831717 Gemeentelijk_monument_in_Baarn
 3833393 Waterslangen
@@ -9571,6 +9578,7 @@
 3840285 Brachytheciaceae
 3840301 Synoniem
 3840332 Pottiaceae
+3841202 Bouwwerk_in_Piëmont
 3841220 Werk_van_Willem_Frederik_Hermans
 3842635 Wikipedia:School_met_mailcontact
 3845264 Wikipedia:Sjablonen_vlag_met_nationaal_basketbalteam
@@ -9757,7 +9765,6 @@
 3974452 Film_van_Henry_King
 3974717 Brits_partijvoorzitter
 3976141 Paul_de_Leeuw
-3981517 Likoed-politicus
 3982153 Muziekalbum_van_The_Cats
 3982154 Nummer_van_The_Cats
 3984819 Kerkgebouw_in_het_bisdom_Gent
@@ -9804,6 +9811,7 @@
 4025028 Baantjer_(roman)
 4025593 Fontein_in_Nederland
 4025703 Plantengeografie
+4026720 Student_aan_de_Rijksuniversiteit_Leuven
 4027541 Attractie_in_Bobbejaanland
 4027557 Rijksmonument_in_Zaanstad
 4027686 Wikipedia:Sjablonen_Zootaxa
@@ -10118,6 +10126,7 @@
 4406864 Toekomstige_zonsverduistering
 4412913 Gletsjer_op_Groenland
 4414642 Programma_van_AVROTROS
+4415420 Animeserie
 4416057 Plaats_in_de_Hebreeuwse_Bijbel
 4419188 Compositie_van_Neil_Young
 4419813 Lijsten_van_zonsverduisteringen
@@ -10610,6 +10619,7 @@
 4764022 Fins_deelnemer_aan_het_Eurovisiesongfestival
 4764024 Finland_op_het_Eurovisiesongfestival
 4764451 Portugees_deelnemer_aan_het_Eurovisiesongfestival
+4764456 Portugal_op_het_Eurovisiesongfestival
 4764529 Iers_deelnemer_aan_het_Eurovisiesongfestival
 4764532 Ierland_op_het_Eurovisiesongfestival
 4765520 Israël_op_het_Eurovisiesongfestival
@@ -11121,7 +11131,7 @@
 4929284 WTA-toernooi_in_2018
 4929631 Diersoort_beschreven_in_2018
 4929660 Rijksmonument_in_Midden-Groningen
-4930578 Nederlandse_studentenorganisatie
+4930578 Studentenorganisatie_in_Nederland
 4932096 Rijksmonument_in_Waadhoeke
 4932771 Plaats_in_Trøndelag
 4933537 Spoorwegstation_in_Trøndelag
@@ -12233,6 +12243,7 @@
 5552948 Sportevenement_in_Barcelona
 5552959 Sportevenement_in_Parijs
 5552965 Sportevenement_in_Berlijn
+5552972 Sportevenement_in_New_York_(stad)
 5552977 Sportevenement_in_Londen
 5553158 Sportevenement_in_China
 5553197 Geografie_van_West-Kaap
@@ -13609,6 +13620,7 @@
 5761546 Voormalige_gemeente_in_Wallis
 5761557 Voormalige_gemeente_in_Vaud
 5769134 Land_op_de_Olympische_Zomerspelen_2024
+5769247 Europees_Erfgoed
 5771658 Deelgemeente_in_Midden-Bohemen
 5772250 Friese_dorpsvlag
 5772472 Wikipedia:Sjablonen_navigatie_kandidatenlijsten_verkiezingen_Nederland
@@ -13784,7 +13796,6 @@
 5815828 Eudarcia
 5815833 Infurcitinea
 5815838 Monopis
-5815844 Myrmecozela
 5815847 Nemapogon
 5815851 Opogona
 5815861 Perissomastix
@@ -14752,3 +14763,4 @@
 5852262 Subassociatie
 5852402 Plaats_in_Baranya_(comitaat)
 5852476 Plaats_in_Csongrád-Csanád
+5856040 Mossengeslacht
