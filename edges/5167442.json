@@ -1,1 +1,1 @@
-{"name": "Brood", "id": 5167442, "predecessors": [{"name": "Voeding", "id": 66072}, {"name": "Dag", "id": 80350}], "successors": []}
+{"name": "Brood", "id": 5167442, "predecessors": [{"name": "Voeding", "id": 66072}, {"name": "Maaltijd", "id": 1702042}], "successors": []}

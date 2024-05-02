@@ -1,1 +1,1 @@
-{"name": "Dag", "id": 80350, "predecessors": [{"name": "Tijdseenheid", "id": 114707}, {"name": "Alles", "id": 63579}], "successors": [{"name": "Datum", "id": 88416}, {"name": "Themadag_of_themaweek", "id": 1062985}, {"name": "Christelijke_feestdag", "id": 80352}, {"name": "Brood", "id": 5167442}]}
+{"name": "Dag", "id": 80350, "predecessors": [{"name": "Tijdseenheid", "id": 114707}, {"name": "Alles", "id": 63579}], "successors": [{"name": "Datum", "id": 88416}, {"name": "Themadag_of_themaweek", "id": 1062985}, {"name": "Christelijke_feestdag", "id": 80352}]}

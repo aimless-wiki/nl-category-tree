@@ -1938,7 +1938,6 @@
 322126 Finse_metalband
 322366 Schots_zanger
 322429 Koning_van_Babylonië
-322447 Anime
 322523 Organel
 322629 Noorse_metalband
 322633 Britse_metalband
@@ -4517,6 +4516,7 @@
 1097218 Gemeente_in_Prievidza
 1097450 Mactridae
 1097935 Gemeente_in_Nové_Zámky
+1099213 Propagandafilm
 1101367 Bisdom_in_Argentinië
 1101369 Bisdom_in_Frankrijk
 1101437 Bisdom_in_Italië
@@ -4763,7 +4763,6 @@
 1204887 Natuurgebied_in_Limburg_(België)
 1205622 Online_database
 1206262 Meubilair
-1206716 Kanton_van_Hérault
 1206985 Frans_heilige_of_zalige
 1206987 Italiaans_heilige_of_zalige
 1206988 Duits_heilige_of_zalige
@@ -6033,6 +6032,7 @@
 1700643 Civil_parish_in_West_Sussex
 1700841 Koek
 1701854 Neolatijns_schrijver
+1702042 Maaltijd
 1702341 Chinese_televisieserie
 1702402 Wikipedia:Archief_te_beoordelen_objecten
 1702421 Fantasystrip
@@ -8723,7 +8723,7 @@
 3020407 Nationale_weg_in_Oostenrijk
 3021360 Aabenraa
 3021376 Motorfiets_van_Norton
-3021626 Metrostation_in_Montreal
+3021626 Metrostation_in_Montréal
 3021751 Motorfiets_van_Associated_Motor_Cycles
 3021839 Frederikshavn
 3021845 Esbjerg
@@ -12293,7 +12293,7 @@
 5562686 Rooms-katholiek_kerkgebouw_in_Oostenrijk
 5564647 Sportevenement_in_Stockholm
 5564653 Sportevenement_in_Boedapest
-5564667 Sportevenement_in_Montreal
+5564667 Sportevenement_in_Montréal
 5565645 Film_over_kunstmatige_intelligentie
 5566967 Metro_naar_plaats
 5567102 Sportclub_in_Hamburg
@@ -12454,6 +12454,7 @@
 5607350 Voormalig_klooster_in_Wallonië
 5607523 Belgisch_Franstalig_dichter
 5608283 Grote_Magelhaense_Wolk
+5608535 Mycosphaerellaceae
 5609115 Geschiedenis_van_Veendam
 5609199 Suikerrietplantage_in_Suriname
 5609205 Katoenplantage_in_Suriname
@@ -13502,7 +13503,6 @@
 5661843 Plaats_in_Vojnik
 5661849 Plaats_in_Zagorje_ob_Savi
 5661857 Plaats_in_Žužemberk
-5665093 Guido_Gezelle
 5666006 NUTS-3-regio
 5666079 Japans_kabinet
 5667791 Lijsten_van_nummer_1-hits_in_Duitsland
@@ -14764,3 +14764,4 @@
 5852402 Plaats_in_Baranya_(comitaat)
 5852476 Plaats_in_Csongrád-Csanád
 5856040 Mossengeslacht
+5860471 Animefilm
