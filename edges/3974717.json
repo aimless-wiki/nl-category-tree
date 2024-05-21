@@ -1,1 +1,1 @@
-{"name": "Brits_partijvoorzitter", "id": 3974717, "predecessors": [{"name": "Beroep", "id": 63395}], "successors": []}
+{"name": "Brits_partijvoorzitter", "id": 3974717, "predecessors": [{"name": "Brits_politicus", "id": 69488}, {"name": "Beroep", "id": 63395}], "successors": []}

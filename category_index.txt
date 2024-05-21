@@ -254,6 +254,7 @@
 69302 Verslaving
 69356 Metaaltechniek
 69427 Motortechniek
+69488 Brits_politicus
 69496 Vegetatiekunde
 69517 Achternaam
 69523 Gebak
@@ -1056,6 +1057,7 @@
 166363 Engels_voetballer
 166424 Rooms-katholieke_sacramenten_en_gebruiken
 166713 Idols
+167314 Brug_in_Frankrijk
 167339 Zweeds_kunstschilder
 167344 Pools_kunstschilder
 167389 Rooms-katholiek_persoon
@@ -1719,6 +1721,7 @@
 283951 Relatievorm
 284245 Romeinse_religie
 284426 Duits_journalist
+284431 Russisch_journalist
 284651 Brits_presentator
 284659 Duits_presentator
 284720 Nederlands_videojockey
@@ -2494,6 +2497,7 @@
 450064 Gemeente_in_Cantal
 450078 Verkeer_en_vervoer_in_Moskou
 451022 Gemeente_in_Corrèze
+451055 Spaanse_provinciale_vlag
 451060 Gemeente_in_Dordogne
 451164 Nederlands_ontwerper
 452368 Homonieme_Franse_gemeentenaam
@@ -3264,6 +3268,7 @@
 671923 Britse_popgroep
 671967 Belgische_popgroep
 671992 Spaans_dirigent
+672126 Geschiedenis_van_Libië
 672504 Vleerhonden
 672762 Amerikaanse_jazzband
 672766 Duitse_rockband
@@ -3529,7 +3534,6 @@
 738574 Monarchen
 738637 Buulbuuls
 743418 Samtgemeinde_in_Nedersaksen
-743807 Tuinarchitectuur
 743836 Single_uit_1969
 744489 Brits_model
 745492 Haven_in_Rotterdam
@@ -5085,6 +5089,7 @@
 1335939 Overzeese_Chinese_groep
 1335946 Bouwwerk_in_Valkenburg_aan_de_Geul
 1338421 Turks_voetbalcoach
+1338459 Voetbalbondscoach
 1338815 Lijsten_van_voetballers_van_Nederlandse_clubs
 1339499 Geschiedenis_van_Tilburg
 1340074 Wikipedia:Incomplete_lijsten
@@ -5193,6 +5198,7 @@
 1375466 Bundesliga_(mannenvoetbal)
 1376072 Trans-Atlantisch_schip
 1377571 Dijkgraaf
+1377795 Werk_van_Annie_M.G._Schmidt
 1377808 Werk_van_Agatha_Christie
 1378034 Nederlandstalig_literair_tijdschrift
 1378333 Duitse_brouwerij
@@ -5327,6 +5333,7 @@
 1404760 Koning_van_Georgië
 1405120 Onderwijsvorm
 1405649 Plaats_in_Salerno
+1405679 Plaats_in_Florence
 1405700 Plaats_in_Grosseto
 1405704 Plaats_in_Perugia
 1405716 Plaats_in_Lecce
@@ -5455,6 +5462,7 @@
 1488691 Berg_in_Norrbottens_län
 1489401 Luchtvervuiling
 1489543 Persoon_in_de_Dertigjarige_Oorlog
+1491219 Mohammed
 1491368 Canadees_freestyleskiër
 1491890 Master_of_Sports
 1492079 Çankırı_(district)
@@ -5519,6 +5527,7 @@
 1535479 Italiaans_muziekpedagoog
 1535494 Nederlands_muziekpedagoog
 1535497 Frans_muziekpedagoog
+1535819 Segunda_División
 1536328 Nederlands_admiraal
 1537118 Kanton_van_Réunion
 1538203 Vlaamse_vereniging
@@ -5621,7 +5630,6 @@
 1581418 Plaats_in_Atjeh
 1581426 Plaats_in_Riau
 1581650 Chemisch_proces
-1581837 YouTube
 1582340 Belgisch_bestuurder
 1582846 Schildwantsen
 1583195 Wikipedia:Archief_stemmingen
@@ -5703,6 +5711,7 @@
 1622453 Landgoed_in_Noord-Brabant
 1622456 Landgoed_in_Gelderland
 1622460 Landgoed_in_Noord-Holland
+1622951 Landschapsarchitectuur
 1623261 WTA-toernooi_in_2009
 1623266 WTA-toernooi_in_2008
 1623329 WTA-toernooi_in_2007
@@ -6089,6 +6098,7 @@
 1711823 Begraafplaats_van_de_Eerste_Wereldoorlog
 1711827 Begraafplaats_van_de_Tweede_Wereldoorlog
 1712017 Belgische_kampioenschappen_atletiek
+1712645 Punk-platenlabel
 1712809 Corrosieve_stof
 1714427 Luchtmacht_naar_land
 1714727 Nederlands_feminist
@@ -6390,6 +6400,7 @@
 1807820 Vlaams_stemacteur
 1807869 Belgisch_televisieacteur
 1807902 Frans_televisieacteur
+1808101 Belgisch_musicalacteur
 1808798 Single_uit_2010
 1809438 SS-lid
 1809466 NSDAP-lid
@@ -6945,6 +6956,7 @@
 2030333 Europese_Challenge_Tour
 2031364 Kerkgebouw_in_Gent
 2032065 Newwaveband
+2032902 Belgische_winkelketen
 2034271 Metrostation_in_Rome
 2034683 Frans_minister_van_Defensie
 2034738 Frans_minister_van_Financiën
@@ -7332,6 +7344,7 @@
 2257859 Amerikaans_feminist
 2260080 Baai_van_de_Grote_Oceaan
 2260412 Amerikaans_ornitholoog
+2260414 Duits_ornitholoog
 2260417 Brits_ornitholoog
 2261337 Spoorwegstation_in_Subkarpaten
 2270694 Lijsten_van_Alarmschijven_naar_jaar
@@ -7962,6 +7975,7 @@
 2718119 Calyptraeidae
 2718121 Planaxidae
 2718124 Capulidae
+2718132 Nederlands_militair_omgekomen_in_de_Tweede_Wereldoorlog
 2718988 Autosnelweg_in_Denemarken
 2720800 Mantispidae
 2720828 Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2012
@@ -8072,6 +8086,7 @@
 2776071 Militaire_geschiedenis_van_de_islam
 2776923 Bath_and_North_East_Somerset
 2776924 North_Somerset
+2777337 Lijsten_van_voetbalinterlands_Nepal
 2778085 Wereldkampioenschappen_moderne_vijfkamp
 2778965 Gemeente_in_Argeș
 2778966 Gemeente_in_Bistrița-Năsăud
@@ -8209,6 +8224,7 @@
 2862801 Amerikaanse_golfclub
 2862843 Vertaler_naar_het_Nederlands
 2862871 Portaal:Molens
+2863067 Burgeroorlog_in_Afrika
 2863328 Atlantisch_orkaanseizoen
 2863409 Sclerosomatidae
 2863411 Kaphooiwagens
@@ -8531,6 +8547,7 @@
 2980675 Wikipedia:Sjablonen_oude_Rome
 2980680 Wikipedia:Sjablonen_professioneel_worstelen
 2980682 Wikipedia:Sjablonen_staatshoofden_en_regeringsleiders
+2980696 Wikipedia:Sjablonen_scheepvaart
 2980698 Wikipedia:Sjablonen_songfestival
 2980699 Wikipedia:Sjablonen_tram
 2980703 Wikipedia:Sjablonen_spoorwegen_Nederland
@@ -8737,6 +8754,7 @@
 3023334 Varde
 3023798 Lijsten_van_voetbalinterlands_Benin
 3024948 Bosnisch-Kroatisch_persoon
+3026147 Belgisch_voedingsmiddelenfabrikant
 3026620 Lijsten_van_Belgische_adel
 3027518 Krekels
 3027954 Rijksmonument_in_Alkmaar
@@ -9726,6 +9744,7 @@
 3961723 Single_uit_2014
 3962095 Nederlandstalige_dichtbundel
 3962144 Historische_wet_in_Nederland
+3962160 Mariposa_County
 3962406 Amerikaans_jazztubaïst
 3962733 Mens-en-maatschappijlijsten
 3962893 Phường_van_Ho_Chi_Minhstad
@@ -10010,6 +10029,7 @@
 4098374 Schip_gebouwd_in_Denemarken
 4098378 Schip_gebouwd_in_Frankrijk
 4098941 Villa_in_Baarn
+4099222 Economie_in_Haarlem
 4102073 Heuvel_in_Zuid-Limburg_(Nederland)
 4103408 Programma_van_Netflix
 4104685 Bouwwerk_in_Tallinn
@@ -10634,7 +10654,13 @@
 4769032 Notomyotida
 4769170 Velatida
 4769231 Valvatida
+4769917 Stripverhaal_uit_1979
+4769918 Stripverhaal_uit_1980
+4769919 Stripverhaal_uit_1981
+4769920 Stripverhaal_uit_1982
+4769921 Stripverhaal_uit_1984
 4769974 Deelnemer_aan_het_Eurovisiesongfestival_2009
+4770035 Stripverhaal_uit_1983
 4770370 Nintendo_Switch-spel
 4770383 Boophis
 4770418 Deelnemer_aan_het_Eurovisiesongfestival_2008
@@ -14765,3 +14791,4 @@
 5852476 Plaats_in_Csongrád-Csanád
 5856040 Mossengeslacht
 5860471 Animefilm
+5866387 Nederlands_non-fictieschrijver
