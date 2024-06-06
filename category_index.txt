@@ -146,7 +146,6 @@
 66841 Neurologie
 66843 Psychologie
 66844 Sprookje
-66845 Vlag
 66860 Stad_in_Turkije
 66891 Stad_in_Polen
 66970 Tweede_Wereldoorlog
@@ -795,6 +794,7 @@
 125093 Frans_fotograaf
 125109 Belgische_overheidsinstantie
 125302 Mexicaans_militair
+125414 Belgisch_bedrijf
 125423 Italiaans_bedrijf
 125434 Duits_bedrijf
 125440 Brits_bedrijf
@@ -1721,7 +1721,6 @@
 283951 Relatievorm
 284245 Romeinse_religie
 284426 Duits_journalist
-284431 Russisch_journalist
 284651 Brits_presentator
 284659 Duits_presentator
 284720 Nederlands_videojockey
@@ -1925,6 +1924,7 @@
 318486 Archeologisch_museum
 318806 Vredesbeweging
 319148 Belgisch_tijdschrift
+319448 Albanese_voetbalclub
 319458 Bulgaarse_voetbalclub
 319460 IJslandse_voetbalclub
 319789 Universiteit_van_Amsterdam
@@ -2053,6 +2053,7 @@
 342440 Voetbal_in_2004
 342640 Fylosilicaat
 342810 Pterosauriërs
+342976 Gefrituurd_voedsel
 343232 Doodstraf
 343327 Nesosilicaat
 343330 Inosilicaat
@@ -3132,6 +3133,7 @@
 637260 Film_van_TriStar_Pictures
 637262 Film_van_United_Artists
 637282 Haven_in_Nederland
+637404 Embryophyta
 637707 Mutaties
 638088 Endemisch_dier_uit_Nieuw-Caledonië
 638093 Gladneuzen
@@ -3268,7 +3270,6 @@
 671923 Britse_popgroep
 671967 Belgische_popgroep
 671992 Spaans_dirigent
-672126 Geschiedenis_van_Libië
 672504 Vleerhonden
 672762 Amerikaanse_jazzband
 672766 Duitse_rockband
@@ -3366,6 +3367,7 @@
 696466 Oliekevers
 696470 Bladkevers
 696477 Zwartlijven
+696554 Amerikaanse_keuken
 696573 Waterjuffers
 696615 Pantserjuffers
 696620 Glazenmakers
@@ -3588,6 +3590,7 @@
 759476 District_van_Tsjechië
 759900 Nederlands_stedenbouwkundige
 759949 Europacup_hockey
+760746 Meer_in_Noord-Holland
 761710 Belgische_danceact
 761711 Britse_danceact
 761714 Duitse_danceact
@@ -5854,6 +5857,7 @@
 1664570 Oekraïens_olympisch_deelnemer
 1664578 Braziliaans_olympisch_deelnemer
 1664792 Wit-Russisch_olympisch_deelnemer
+1664916 Servisch_olympisch_deelnemer
 1664935 Bulgaars_olympisch_deelnemer
 1665016 Mexicaans_olympisch_deelnemer
 1665262 Tsjechisch_olympisch_deelnemer
@@ -6829,6 +6833,7 @@
 1966478 Nummer_van_10cc
 1968163 Voorzitter_van_een_Nederlandse_betaaldvoetbalclub
 1968172 AFC_Ajax
+1968972 Lets_basketballer
 1970289 Rijksmonument_in_Dordrecht
 1970519 Russisch_basketbalcoach
 1970568 Station_van_London_Overground
@@ -7628,7 +7633,7 @@
 2465660 Nederlands_marineofficier
 2465726 Kamperfoeliefamilie
 2471648 Watertreders
-2471980 Persoon_in_de_Atjeh-oorlog
+2471980 Persoon_in_de_Atjehoorlog
 2471986 Cipresfamilie
 2472049 Dennenfamilie
 2472056 Belgisch_persoon_in_de_19e_eeuw
@@ -8138,7 +8143,6 @@
 2808980 Film_van_Lions_Gate_Entertainment
 2809510 Marvel_Cinematic_Universe
 2809589 Wapen_van_voormalige_Limburgse_gemeente_(Nederland)
-2809624 Geografie_van_Peel_en_Maas
 2811183 Film_van_Henry_Hathaway
 2811924 Overstroming_in_Nederland
 2813064 Wapen_van_voormalige_Overijsselse_gemeente
@@ -8400,6 +8404,7 @@
 2980028 Wikipedia:Sjablonen_Ecuador
 2980029 Wikipedia:Sjablonen_Egypte
 2980037 Wikipedia:Sjablonen_Estland
+2980038 Wikipedia:Sjablonen_Ethiopië
 2980044 Wikipedia:Sjablonen_Filipijnen
 2980046 Wikipedia:Sjablonen_Frankrijk
 2980051 Wikipedia:Sjablonen_Ghana
@@ -8673,7 +8678,6 @@
 2987872 Hoogleraar_aan_de_Universiteit_Utrecht
 2987878 Hoogleraar_aan_Wageningen_University
 2988140 Overgangsklasse_hockey
-2989923 Straat_in_Venlo_binnenstad
 2990575 Italiaans_gymnast
 2991158 Lijsten_van_voetbalinterlands_Namibië
 2991694 Wikipedia:Over_gebruikers
@@ -9308,7 +9312,6 @@
 3416638 Lijsten_van_gemeentelijke_monumenten_in_Limburg_(Nederland)
 3416815 Metarbelidae
 3416844 Lijsten_van_gemeentelijke_monumenten_in_Noord-Holland
-3418851 Lijsten_van_gemeentelijke_monumenten_in_Zuid-Holland
 3419584 Lijsten_van_gemeentelijke_monumenten_in_Noord-Brabant
 3437423 Onderscheiding_in_de_Russische_Federatie
 3438720 Megalopygidae
@@ -9934,6 +9937,7 @@
 4078498 Echte_spinners
 4078634 Apatelodidae
 4079082 Plaats_in_Kern_County
+4079618 Campeonato_Goiano
 4080477 Sportvereniging_in_Gelderland
 4080481 Sportvereniging_in_Limburg_(Nederland)
 4080610 NGC-object_in_Achtersteven
@@ -10381,6 +10385,7 @@
 4591009 Godshuis_in_Brugge
 4592414 Britse_baron_voor_het_leven
 4593075 Surinaamse_overheidsinstantie
+4593558 Wikipedia:Sjablonen_luchtvaartmaatschappij
 4593653 VN-resolutie_over_UNIFIL
 4593948 Brits_onderminister
 4595195 Geophilomorpha
@@ -12200,7 +12205,6 @@
 5529401 Tramlijn_in_Duitsland
 5529564 Found_footage
 5529834 Metrostation_in_Milaan
-5530293 Wielerwedstrijd_in_Spanje
 5530587 Wikipedia:Sjablonen_basketbal_Nederland
 5531092 Amerikaanse_presidentsverkiezingen
 5532833 Commune_associée_in_Meuse
@@ -12384,6 +12388,7 @@
 5578872 Geschiedenislijsten_van_België
 5579025 Wikipedia:Sjablonen_sport_Slovenië
 5579950 Inslagkrater_op_Venus
+5580496 Lijsten_van_Britse_personen
 5580986 Wikipedia:Sjablonen_sport_Bulgarije
 5581678 Wikipedia:Sjablonen_voetbalseizoenen_Brazilië
 5582521 Geografie_van_Eijsden-Margraten
@@ -14778,6 +14783,7 @@
 5835562 Eendagswielerwedstrijd_in_2024
 5837240 Bisdom_in_Peru
 5838588 Wielersport_op_de_Paralympische_Zomerspelen_2020
+5840948 UCI_Europe_Tour_2024
 5846325 Gebeurtenis_in_het_graafschap_Vlaanderen
 5849515 Verbond
 5849517 Orde
@@ -14791,4 +14797,6 @@
 5852476 Plaats_in_Csongrád-Csanád
 5856040 Mossengeslacht
 5860471 Animefilm
+5861968 K-popgroep
 5866387 Nederlands_non-fictieschrijver
+5866601 Mineraal_met_een_monoklien_kristalstelsel

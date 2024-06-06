@@ -1,1 +1,1 @@
-{"name": "Belgisch_bankier", "id": 546565, "predecessors": [{"name": "Overheid", "id": 63736}, {"name": "Bedrijfskunde", "id": 64940}], "successors": []}
+{"name": "Belgisch_bankier", "id": 546565, "predecessors": [{"name": "Overheid", "id": 63736}, {"name": "Belgisch_bedrijf", "id": 125414}, {"name": "Bedrijfskunde", "id": 64940}], "successors": []}
