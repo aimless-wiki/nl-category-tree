@@ -567,6 +567,7 @@
 94020 E-mail
 94143 Werktuig
 94648 Frans_filosoof
+94765 Napoleontische_tijd
 94824 A-Z_lijsten
 94888 Vlaams_zanger
 95524 Gehandicaptenzorg
@@ -1455,6 +1456,7 @@
 235765 Kasteel_in_Frankrijk
 235775 Kasteel_in_West-Vlaanderen
 235780 Plaats_in_West-Vlaanderen
+235783 Roeselare
 236082 Muziekalbum_uit_2002
 236083 Muziekalbum_uit_2000
 236101 Georgisch_voetballer
@@ -3722,6 +3724,7 @@
 798213 Historische_wet
 799526 Meerdaagse_wielerwedstrijd
 799629 Parijs-Roubaix
+799884 Amerikaans_motorcoureur
 799886 Amerikaans_autocoureur
 799928 Australisch_autocoureur
 800028 Belgisch_autocoureur
@@ -3774,7 +3777,6 @@
 806237 Zuid-Koreaans_langebaanschaatser
 807028 Nederlands_mountainbiker
 807036 Pakistaans_hockeyer
-807260 Democratie
 807616 Duurzame_energie
 807738 Gemeente_in_Beroun
 807943 Heuvel_in_de_Vlaamse_Ardennen
@@ -5212,7 +5214,6 @@
 1380731 Belgisch_hockeyer
 1381668 Station_van_de_Rotterdamse_metro
 1382402 Tibetaanse_film
-1382470 Natuurbeschermingsorganisatie
 1382885 Amerikaans_freestyleskiër
 1382977 Belgisch_kunstenaarscollectief
 1383036 Drie_Koninkrijken
@@ -5564,6 +5565,7 @@
 1559337 Elektrische_locomotief
 1559377 Diesellocomotief
 1559620 Internationale_handel
+1559762 Filipijns_journalist
 1560229 Wikipedia:Beginnetje_geschiedenis
 1560232 Wikipedia:Beginnetje_kunst_&_cultuur
 1560234 Wikipedia:Beginnetje_mens_&_maatschappij
@@ -5595,6 +5597,7 @@
 1561748 Niet-draaivaardige_molen
 1562784 Medeklinker
 1562922 Wikipedia:Wikiproject_zonder_activiteit
+1563422 Japans_tafeltennisser
 1564103 Trochidae
 1564318 Nederlands_provinciaal_politicus
 1564347 Gedeputeerde_van_Drenthe
@@ -7277,7 +7280,6 @@
 2201466 Duitse_streektaal_of_dialect
 2202571 Plaats_op_de_Azoren
 2203257 An_Giang
-2211154 Gemeentelijk_monument_in_Venlo
 2211434 Amerikaanse_jeugdserie
 2219256 Schietmot_uit_het_Neotropisch_gebied
 2219257 Schietmot_uit_het_Afrotropisch_gebied
@@ -8387,6 +8389,7 @@
 2979950 Wikipedia:Sjablonen_positiekaart
 2979954 Wikipedia:Sjablonen_Afghanistan
 2979958 Wikipedia:Sjablonen_Albanië
+2979966 Wikipedia:Sjablonen_Argentinië
 2979969 Wikipedia:Sjablonen_Armenië
 2979970 Wikipedia:Sjablonen_Australië
 2979980 Wikipedia:Sjablonen_België
@@ -9370,7 +9373,6 @@
 3555589 Vrachtluchtvaartmaatschappij
 3558284 Plaats_in_Uppsala_län
 3558363 Rivier_in_Beieren
-3559942 Belgische_destilleerderij
 3562214 Protestants_kerkgebouw_in_Nederland
 3562217 Protestants_kerkgebouw_in_Duitsland
 3564763 CDU-politicus_(Bondsrepubliek)
@@ -10034,6 +10036,7 @@
 4098378 Schip_gebouwd_in_Frankrijk
 4098941 Villa_in_Baarn
 4099222 Economie_in_Haarlem
+4101166 Nederlandse_voetbalclub_1956/57
 4102073 Heuvel_in_Zuid-Limburg_(Nederland)
 4103408 Programma_van_Netflix
 4104685 Bouwwerk_in_Tallinn
@@ -10138,7 +10141,7 @@
 4390321 Wikipedia:Gebruikers/JP001
 4391856 Wapen_van_Vlaams-Brabantse_gemeente
 4395243 Oudste_mens
-4395522 Dameswielrennen
+4395522 Vrouwenwielrennen
 4395523 Dameswielerploeg
 4400460 Amerikaans_punkmusicus
 4400746 Kasteelruïne_in_Schotland
@@ -11606,6 +11609,7 @@
 5321339 Belgisch_persoon_in_de_20e_eeuw
 5321350 Luxemburgs_persoon_in_de_20e_eeuw
 5321620 Zuid-Afrikaans_persoon_in_de_20e_eeuw
+5323273 Wikipedia:Sjablonen_met_TemplateStyles
 5323386 PlayStation_5-spel
 5323388 Xbox_Series-spel
 5323755 4e-eeuws_bisschop
@@ -12380,6 +12384,7 @@
 5576917 Lijsten_van_het_Verenigd_Koninkrijk
 5576928 Hydridae
 5576967 Campanulariidae
+5577004 Lijsten_van_Canada
 5577007 Aglaopheniidae
 5577190 Corymorphidae
 5577191 Lafoeidae
@@ -12596,6 +12601,7 @@
 5636274 Plaats_in_Nieuw-Zeeland_(Zuidereiland)
 5636277 Plaats_in_Nieuw-Zeeland_(Noordereiland)
 5637254 Wikipedia:Sjablonen_vlag_met_nationaal_vrouwenvoetbalelftal_(omgekeerd)
+5638709 Lid_van_de_Provinciale_Staten_van_Gelderland
 5638711 Lid_van_de_Provinciale_Staten_van_Friesland
 5638783 Lid_van_de_Provinciale_Staten_van_Noord-Brabant
 5638788 Lid_van_de_Provinciale_Staten_van_Noord-Holland
@@ -14771,6 +14777,7 @@
 5827391 Neomochtherus
 5827472 Bisdom_in_Mexico
 5827700 Korte_animatiefilm
+5827874 Single_uit_2024
 5828987 Software_geschreven_in_GTK
 5830879 Wikipedia:Sjablonen_voetbalelftal_Engeland
 5831476 Vrouwenrechtenactivist
@@ -14800,3 +14807,6 @@
 5861968 K-popgroep
 5866387 Nederlands_non-fictieschrijver
 5866601 Mineraal_met_een_monoklien_kristalstelsel
+5872751 Voormalige_Nederlandse_lokale_politieke_partij
+5875897 Nederlandse_natuurbeschermingsorganisatie
+5875985 Voormalige_destilleerderij_in_Vlaanderen
