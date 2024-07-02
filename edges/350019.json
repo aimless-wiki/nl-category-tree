@@ -1,1 +1,1 @@
-{"name": "Mobiele_telefonie", "id": 350019, "predecessors": [{"name": "Telefonie", "id": 242160}], "successors": [{"name": "Software_voor_Android", "id": 2068300}, {"name": "Software_voor_iOS", "id": 4835500}, {"name": "Mobieletelefoon-spel", "id": 3970553}]}
+{"name": "Mobiele_telefonie", "id": 350019, "predecessors": [{"name": "Telefonie", "id": 242160}], "successors": [{"name": "Android-telefoon_van_Samsung", "id": 3079796}, {"name": "Software_voor_Android", "id": 2068300}, {"name": "Software_voor_iOS", "id": 4835500}, {"name": "Mobieletelefoon-spel", "id": 3970553}]}

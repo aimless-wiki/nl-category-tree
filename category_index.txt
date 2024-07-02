@@ -40,6 +40,7 @@
 63579 Alles
 63593 Duitse_Bond
 63600 Economie
+63602 Schaken
 63610 Balsport
 63611 Habsburg
 63647 Islam
@@ -85,6 +86,7 @@
 64260 Esoterie
 64281 Nederlands_schrijver
 64343 Hindoeïsme
+64390 Rotterdam
 64422 Universiteit
 64426 Nederlands_componist
 64435 Psychiatrie
@@ -505,7 +507,6 @@
 88759 Filatelie
 88876 Saus
 88878 Specerij
-88879 Kruid_(keuken)
 88987 Elektronische_muziek
 89103 Frans_dichter
 89109 Brits_acteur
@@ -1193,7 +1194,6 @@
 195948 Ierse_band
 196018 Zweeds_componist
 196547 Vestingwerk_tijdens_de_Tweede_Wereldoorlog
-196829 Vliegveld_in_de_Verenigde_Staten
 196915 Belgisch_beeldhouwer
 197275 Handel
 197310 Noors_voetballer
@@ -1462,6 +1462,7 @@
 236101 Georgisch_voetballer
 236115 Kasteel_in_Gelderland
 236128 Kasteel_in_Zuid-Holland
+236133 Kasteel_in_Zeeland
 236596 Evenement_in_Amsterdam
 237175 Kortrijk
 237180 Harelbeke
@@ -2316,6 +2317,7 @@
 407215 Gemeente_in_Ticino
 407263 Televisielijsten
 407303 Grafische_software
+407327 Oostenrijks_voetbalcoach
 407470 Film_uit_1918
 408017 Ierse_film
 408030 Luxemburgse_film
@@ -3038,7 +3040,6 @@
 607569 Programma_van_de_NPS
 607570 Programma_van_Veronica
 607575 Programma_van_BNN
-607577 Programma_van_de_VPRO
 607585 Programma_van_de_AVRO
 607588 Programma_van_de_KRO
 607597 Programma_van_Net5
@@ -3155,6 +3156,7 @@
 641756 Plaats_in_Florida
 641758 Plaats_in_Michigan
 641969 Thriller_(boek)
+641975 Dystopie
 643719 Mutant_uit_Marvel_Comics
 645019 Geschiedenis_van_Londen
 645028 Geschiedenis_van_Parijs
@@ -3204,7 +3206,6 @@
 657014 Programma_van_Nickelodeon
 657017 Programma_van_MTV
 657023 Programma_van_RTL_5
-657039 Programma_van_de_NOS
 657283 Single_uit_2007
 657542 Surinaams_ondernemer
 657548 Duits_ondernemer
@@ -3213,7 +3214,6 @@
 657595 Nederlands_ondernemer
 657602 Russisch_ondernemer
 657954 Rijksmonument_in_Delft
-658624 Programma_van_de_EO
 658798 Merknaam_van_Unilever
 659355 Huis_van_der_Mark
 659596 Thriller_(film)
@@ -3978,7 +3978,6 @@
 882397 Tuibrug
 882436 Boogbrug
 882477 Hangbrug
-883280 Programma_van_MAX
 883316 Rijksmonument_in_Leiden
 883329 Rijksmonument_in_'s-Hertogenbosch
 883331 Rijksmonument_in_Maastricht
@@ -4594,6 +4593,7 @@
 1125003 Vijfduizender
 1125437 School_in_het_voortgezet_onderwijs_in_Nederland
 1125480 Heuvel_in_Henegouwen
+1125682 Berg_in_Graubünden
 1126057 Zwembad_in_Nederland
 1126114 NUTS-2-regio
 1126150 Paleoceen
@@ -5642,6 +5642,8 @@
 1584574 Nederlands_lithograaf
 1584586 Wereldkampioenschap_handbal
 1584621 New_age
+1584657 Belgisch_lithograaf
+1584659 Belgisch_etser
 1584835 Russisch_olympisch_deelnemer
 1585734 Glimwormen
 1586435 Rijksweg_2
@@ -5734,6 +5736,7 @@
 1623712 ATP-toernooi_in_1994
 1623866 Geschiedenis_van_de_Rooms-Katholieke_Kerk_in_Nederland
 1624081 Antivrijmetselarij
+1625024 Nederlandse_musical
 1625599 Lijsten_van_machthebbers_in_de_6e_eeuw_v.Chr.
 1626184 Wereldkampioenschappen_schaatsen_sprint
 1626185 Wereldkampioenschappen_schaatsen_allround
@@ -7483,7 +7486,6 @@
 2306495 Thị_trấn_in_Vietnam
 2306497 Xã_in_Vietnam
 2306566 Phường_in_Vietnam
-2308314 Programma_van_de_NTR
 2309012 Kerkgebouw_in_Leeuwarden
 2309184 Hoofdplaats_van_een_Vietnamees_district
 2310784 Scheikundig_tijdschrift
@@ -8018,6 +8020,7 @@
 2728697 Rijksmonument_in_Stichtse_Vecht
 2728900 Amerikaans_paleontoloog
 2729249 Tuamotu
+2729366 Horrorprogramma
 2729871 Zwamkevers
 2729874 Plaats_in_Stiermarken
 2729875 Boomzwamkevers
@@ -8222,7 +8225,6 @@
 2857199 Tibetaanse_diaspora
 2858848 House_(muziekstijl)
 2859682 Stomiidae
-2860766 Lijsten_van_bruggen_in_Nederland
 2861428 Creu_de_Sant_Jordi
 2861838 Wapen_van_voormalige_Zeeuwse_gemeente
 2861950 Historisch_land_in_de_middeleeuwen
@@ -8875,6 +8877,7 @@
 3064547 Hoogrugzalmen
 3071104 Brede_zalmen
 3072589 Walvismeervallen
+3079796 Android-telefoon_van_Samsung
 3123851 Arhynchobatidae
 3138532 16e-eeuws_componist
 3138710 17e-eeuws_componist
@@ -11144,6 +11147,7 @@
 4900425 Vicepresident_van_de_Hoge_Raad_der_Nederlanden
 4906206 Luiks_schepen_(provincie)
 4906211 Naams_schepen
+4909787 Hoed
 4912213 Nederlandse_belangenorganisatie
 4915495 Bloeiwijze
 4915573 Televisieproductiebedrijf
@@ -11152,6 +11156,7 @@
 4916191 17e-eeuws_abt
 4916208 18e-eeuws_abt
 4917703 Vereniging_zonder_winstoogmerk
+4918012 Rechter_bij_de_Rechtbank_Den_Haag
 4919450 Film_uit_2018
 4919742 Land_op_de_Olympische_Winterspelen_2018
 4920725 Lijsten_van_rijksmonumenten_in_Maastricht
@@ -11211,7 +11216,6 @@
 5049250 Buurtschap_in_Friesland
 5049291 Buurtschap_in_Groningen
 5049405 Somerville_College
-5051376 Monument_in_Suriname
 5052953 Buurt_in_Haarlem
 5053003 Geschiedenis_van_Westerwolde
 5054682 Haarlem-Centrum
@@ -11726,6 +11730,7 @@
 5367996 Styelidae
 5370429 Zuid-Nederlands_schepen_(voor_1830)
 5370453 Zuid-Nederlands_burgemeester_(voor_1830)
+5370563 Schepen_van_Amsterdam
 5370564 Ancylodiscoididae
 5370630 Ancyrocephalidae
 5371516 Zwitsers_feminist
@@ -13581,7 +13586,6 @@
 5697174 Spoorlijn_in_Calvados
 5697177 Spoorlijn_in_Eure-et-Loir
 5697193 Nationaal_voetbalelftal_onder_16
-5700794 Wikipedia:Uitgelicht_op_hoofdpagina_sinds_2021
 5703494 Hoorspel_van_de_KRO
 5703498 Hoorspel_van_de_VARA
 5703500 Hoorspel_van_de_NCRV
@@ -13649,6 +13653,7 @@
 5757641 Kinderboek_uit_2000-2009
 5757643 Kinderboek_uit_2010-2019
 5757649 Kinderboek_uit_1990-1999
+5758978 Logovlag
 5759144 Spoorlijn_in_Maine-et-Loire
 5760161 Voormalige_gemeente_in_Graubünden
 5760239 Voormalige_gemeente_in_Ticino
@@ -14810,3 +14815,8 @@
 5872751 Voormalige_Nederlandse_lokale_politieke_partij
 5875897 Nederlandse_natuurbeschermingsorganisatie
 5875985 Voormalige_destilleerderij_in_Vlaanderen
+5877046 Monument_in_Paramaribo
+5877756 Televisieprogramma_van_de_VPRO
+5877757 Televisieprogramma_van_de_NTR
+5878938 Televisieprogramma_van_MAX
+5879054 Televisieprogramma_van_de_EO

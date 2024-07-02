@@ -1,1 +1,1 @@
-{"name": "Schaken_in_Amsterdam", "id": 5745001, "predecessors": [{"name": "Bordspel", "id": 71860}, {"name": "Cultuur_in_Amsterdam", "id": 266626}, {"name": "Recreatie", "id": 68304}], "successors": []}
+{"name": "Schaken_in_Amsterdam", "id": 5745001, "predecessors": [{"name": "Schaken", "id": 63602}, {"name": "Cultuur_in_Amsterdam", "id": 266626}, {"name": "Recreatie", "id": 68304}], "successors": []}
