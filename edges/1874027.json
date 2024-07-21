@@ -1,1 +1,1 @@
-{"name": "Professioneel_worsteltrainer", "id": 1874027, "predecessors": [{"name": "Beroep", "id": 63395}], "successors": []}
+{"name": "Professioneel_worsteltrainer", "id": 1874027, "predecessors": [{"name": "Beroep", "id": 63395}, {"name": "Gezondheid", "id": 80097}], "successors": []}

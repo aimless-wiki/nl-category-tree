@@ -1,1 +1,1 @@
-{"name": "VRT-journalist", "id": 5172857, "predecessors": [{"name": "VRT", "id": 1089535}, {"name": "Vlaams_journalist", "id": 581558}], "successors": [{"name": "BRT-journalist", "id": 5172856}]}
+{"name": "VRT-journalist", "id": 5172857, "predecessors": [{"name": "Vlaams_journalist", "id": 581558}, {"name": "Bedrijfskunde", "id": 64940}], "successors": [{"name": "BRT-journalist", "id": 5172856}]}

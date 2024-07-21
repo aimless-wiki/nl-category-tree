@@ -1,1 +1,1 @@
-{"name": "Meerkamper", "id": 995496, "predecessors": [{"name": "Recreatie", "id": 68304}], "successors": [{"name": "Belgisch_meerkamper", "id": 5630024}, {"name": "Nederlands_meerkamper", "id": 5672066}]}
+{"name": "Meerkamper", "id": 995496, "predecessors": [{"name": "Gezondheid", "id": 80097}], "successors": [{"name": "Belgisch_meerkamper", "id": 5630024}, {"name": "Nederlands_meerkamper", "id": 5672066}]}

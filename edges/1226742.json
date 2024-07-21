@@ -1,1 +1,1 @@
-{"name": "Sportcommentator", "id": 1226742, "predecessors": [{"name": "Beroep", "id": 63395}], "successors": []}
+{"name": "Sportcommentator", "id": 1226742, "predecessors": [{"name": "Gezondheid", "id": 80097}, {"name": "Beroep", "id": 63395}], "successors": []}

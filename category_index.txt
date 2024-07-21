@@ -1504,7 +1504,6 @@
 242740 Trammaterieel
 243108 Hiv/aids
 243229 Plaats_in_Henegouwen
-243624 Muziekonderwijs
 244664 Amerikaans_bokser
 244889 Durbuy
 245085 Griekse_voetbalclub
@@ -2133,6 +2132,7 @@
 363680 Belgisch_Franstalig_schrijver
 363828 Internetfolklore
 363960 Chinese_literatuur
+364336 Venezolaans_voetballer
 364597 Voetbal_in_2000
 364690 Voetbal_in_1999
 365090 Literatuur_in_het_Afrikaans
@@ -3036,11 +3036,8 @@
 606708 Belgisch_missionaris
 607052 Noors_pianist
 607185 Endemisch_dier_uit_Zimbabwe
-607568 Programma_van_de_VARA
 607569 Programma_van_de_NPS
 607570 Programma_van_Veronica
-607575 Programma_van_BNN
-607585 Programma_van_de_AVRO
 607588 Programma_van_de_KRO
 607597 Programma_van_Net5
 607599 Programma_van_de_NCRV
@@ -3306,7 +3303,7 @@
 683198 Wikipedia:Pagina_weg
 683675 Amerikaans_antropoloog
 684278 Danainae
-684689 Radioprogramma_van_3FM
+684689 Radioprogramma_van_NPO_3FM
 684696 Radioprogramma_van_Radio_538
 686052 Nederlands_bestuurder
 686091 Rechterlijke_macht_in_België
@@ -3369,7 +3366,6 @@
 696466 Oliekevers
 696470 Bladkevers
 696477 Zwartlijven
-696554 Amerikaanse_keuken
 696573 Waterjuffers
 696615 Pantserjuffers
 696620 Glazenmakers
@@ -3787,6 +3783,7 @@
 810647 Passagiersschip
 810744 Anne_Frank
 811612 Personage_uit_Power_Rangers
+811987 Minister-president_van_Nederland
 812194 Brits_hoogleraar
 812222 Chinees_kunstschilder
 812524 Portaal:Sciencefiction/Uitgelicht
@@ -3798,8 +3795,8 @@
 814312 Nederlandse_winkelketen
 814326 Amerikaanse_organisatie
 814868 Indeling_van_de_Aarde
-815252 Radioprogramma_van_Radio_1_(Nederland)
-815253 Radioprogramma_van_Radio_2_(Nederland)
+815252 Radioprogramma_van_NPO_Radio_1
+815253 Radioprogramma_van_NPO_Radio_2
 816371 Frans_verzetsstrijder_in_de_Tweede_Wereldoorlog
 816378 Technische_wetenschappen
 816625 Oceanische_en_Afrikaanse_auto
@@ -4315,6 +4312,7 @@
 980536 Wereldkampioenschappen_roeien
 981035 County_in_Missouri
 981370 Spoorwegstation_in_Denemarken
+981373 Bouwwerk_in_Kopenhagen
 981452 County_in_Montana
 981568 Luthers_persoon
 981623 Herning
@@ -4505,7 +4503,6 @@
 1086309 Gemeente_in_Veľký_Krtíš
 1086781 Wetenschappelijke_literatuur
 1087398 Persoon_in_Nieuw-Spanje
-1089535 VRT
 1090399 Frans_schermer
 1091366 Homo-organisatie
 1093567 Gemeente_in_Nitra
@@ -4544,6 +4541,7 @@
 1105431 Superschurk_uit_DC_Comics
 1105434 Veldslag_in_België
 1105436 Veldslag_in_de_14e_eeuw
+1105437 Veldslag_in_de_13e_eeuw
 1105448 Veldslag_in_Frankrijk
 1105474 Veldslag_in_Duitsland
 1105535 Atletiekwedstrijd_in_Nederland
@@ -5642,8 +5640,6 @@
 1584574 Nederlands_lithograaf
 1584586 Wereldkampioenschap_handbal
 1584621 New_age
-1584657 Belgisch_lithograaf
-1584659 Belgisch_etser
 1584835 Russisch_olympisch_deelnemer
 1585734 Glimwormen
 1586435 Rijksweg_2
@@ -7009,7 +7005,6 @@
 2061721 Muziekalbum_uit_2011
 2062166 Joods_persoon
 2062498 Hollands-classicistisch_bouwwerk
-2062506 Geschiedenis_van_Suriname_voor_1975
 2063269 Atlantikwall
 2063967 Voetbal_in_2022
 2064458 Film_gebaseerd_op_een_computerspel
@@ -7102,6 +7097,7 @@
 2100406 Lijsten_van_voetbalinterlands_Moldavië
 2103329 Uitgestorven_Crocodylomorpha
 2103724 Russisch_voetbalcoach
+2104580 Beschermd_erfgoed_van_nationaal_belang
 2105665 Gevangenisfilm
 2109962 Instant_messenger
 2110876 Fantasycomputerspel
@@ -7125,6 +7121,7 @@
 2117953 Voetbalinterland_Spanje
 2117957 Lijsten_van_voetbalinterlands_Spanje
 2118272 Lijsten_van_voetbalinterlands_Zwitserland
+2118345 Voetbalinterland_Engeland
 2118346 Lijsten_van_voetbalinterlands_Engeland
 2118609 Voormalig_arrondissement_van_Frankrijk
 2118641 Lijsten_van_voetbalinterlands_Zweden
@@ -7887,6 +7884,7 @@
 2629876 Wikipedia:Doorverwijzing_haakjes
 2630639 Straatmeubilair
 2631976 Staurozoa
+2632861 Geëxecuteerd_persoon_in_de_Franse_Revolutie
 2635164 Endemische_plant_uit_Macaronesië
 2635567 Hydroïdpoliepen
 2639474 Bruine_gaasvliegen
@@ -8028,6 +8026,7 @@
 2731439 Muziekalbum_van_The_Beatles
 2731786 Lijsten_van_voetbalinterlands_Oezbekistan
 2732429 Goniodorididae
+2732555 Muziekorganisatie
 2733375 Turritellidae
 2733383 Assimineidae
 2733387 Naticidae
@@ -8339,6 +8338,7 @@
 2914269 Plaats_in_Varaždin
 2914290 Plaats_in_Karlovac
 2914298 Split-Dalmatië
+2915095 Vrachtwagen_van_DAF
 2918206 Plaats_in_Virovitica-Podravina
 2924823 Spaceshuttlemissie
 2926912 Secundaire_weg_in_Estland
@@ -10040,6 +10040,7 @@
 4098941 Villa_in_Baarn
 4099222 Economie_in_Haarlem
 4101166 Nederlandse_voetbalclub_1956/57
+4101169 Nederlandse_voetbalclub_1957/58
 4102073 Heuvel_in_Zuid-Limburg_(Nederland)
 4103408 Programma_van_Netflix
 4104685 Bouwwerk_in_Tallinn
@@ -10155,12 +10156,10 @@
 4406532 Atleet_uit_de_Sovjet-Unie
 4406864 Toekomstige_zonsverduistering
 4412913 Gletsjer_op_Groenland
-4414642 Programma_van_AVROTROS
 4415420 Animeserie
 4416057 Plaats_in_de_Hebreeuwse_Bijbel
 4419188 Compositie_van_Neil_Young
 4419813 Lijsten_van_zonsverduisteringen
-4420220 Programma_van_KRO-NCRV
 4421541 Saros-cyclus
 4422029 Film_uit_2016
 4422076 Archeologische_terminologie
@@ -11265,7 +11264,6 @@
 5098625 Wikipedia:Wikiproject_Wiki_goes_Caribbean
 5099139 Straat_in_Paramaribo
 5099763 Scincinae
-5099957 Programma_van_BNNVARA
 5104044 Bos_in_Limburg_(Nederland)
 5104983 Tweede_Wereldoorlog-monument_in_Amsterdam
 5107291 Spoorwegmaterieel_in_het_Spoorwegmuseum
@@ -11418,6 +11416,7 @@
 5231007 Wikipedia:Sjablonen_voetbalelftal_Spanje
 5233963 Baai_van_Newfoundland_en_Labrador
 5234481 Friedrichshain-Kreuzberg
+5235665 Beeld_in_Amsterdam-Noord
 5237236 Film_uit_2020
 5241485 Geografie_van_Stichtse_Vecht
 5241789 Nationale_vlag
@@ -11593,6 +11592,7 @@
 5303783 Nederlands_conservator
 5304199 Single_uit_2020
 5305195 Tweeling
+5305420 Computerspel_uit_2020
 5305833 Geografie_van_het_Noorderdepartement
 5306002 Militaire_sociologie
 5306291 Wikipedia:Beginnetje_computerspellen
@@ -11625,6 +11625,7 @@
 5328990 15e-eeuws_kunstenaar
 5328996 18e-eeuws_kunstenaar
 5335726 Afvalverwerkingsbedrijf
+5335766 Vrouwenrechten
 5336263 Amerikaanse_countryband
 5336774 Wikipedia:Sjablonen_zijbalk_Olympische_Winterspelen
 5336775 Wikipedia:Sjablonen_zijbalk_Olympische_Zomerspelen
@@ -11725,7 +11726,7 @@
 5367084 16e-eeuws_militair
 5367086 19e-eeuws_militair
 5367383 15e-eeuws_militair
-5367896 Militair_van_Napoleon
+5367896 Frans_militair_in_de_napoleontische_oorlogen
 5367959 Militair_van_de_Unie_in_de_Amerikaanse_Burgeroorlog
 5367996 Styelidae
 5370429 Zuid-Nederlands_schepen_(voor_1830)
@@ -12229,6 +12230,7 @@
 5539062 Natuurgebied_in_Siberië
 5539262 NASCAR-coureur
 5539360 Milieukwestie
+5541746 Italiaans_politicus_in_de_19e_eeuw
 5542095 Geografie_van_Jakoetië
 5542100 Geografie_van_Tsjoekotka
 5542611 Wikipedia:Beginnetje_eten_en_drinken
@@ -12352,6 +12354,7 @@
 5571042 Voormalige_Duitse_voetbalclub
 5571054 Voormalige_Vlaamse_voetbalclub
 5571063 Voormalige_Waalse_voetbalclub
+5571471 Sportevenement_in_Engeland
 5571515 Sport_in_East_Midlands
 5571528 Sport_in_East_of_England
 5571553 Sport_in_South_East_England
@@ -12448,6 +12451,7 @@
 5600332 Sportvereniging_in_Vlaams-Brabant
 5600337 Sportevenement_in_Antwerpen_(provincie)
 5600354 Plantage-eigenaar_in_Suriname
+5600431 Diersoort_beschreven_in_2022
 5600624 Sportvereniging_in_Luik_(provincie)
 5600626 Sportvereniging_in_Henegouwen
 5601549 Schimmelorde
@@ -12571,6 +12575,7 @@
 5630035 Belgisch_hordeloper
 5630036 Belgisch_verspringer
 5630037 Belgisch_sprinter_(atletiek)
+5630212 Pruisisch_Landdaglid
 5630382 Belgisch_speerwerper
 5630448 Belgisch_middellangeafstandsloper
 5630449 Belgisch_veldloper
@@ -13569,6 +13574,7 @@
 5673903 Keniaans_middellangeafstandsloper
 5675300 Spoorlijn_in_Yvelines
 5677292 Uitgestorven_Procolophonomorpha
+5677978 Geografie_van_Tynaarlo
 5678029 Koninklijke_Academie_voor_Nederlandse_Taal_en_Letteren
 5678753 Barokbeeldhouwkunst
 5680279 Vlaamse_radiozender
@@ -13645,6 +13651,7 @@
 5750372 Spoorlijn_in_Hessen
 5750971 Spoorlijn_in_Saarland
 5751826 Braziliaans_competitievoetbal_2023
+5754102 Spoorlijnen_in_Slowakije
 5755064 Canon_van_Vlaanderen
 5757637 Kinderboek_uit_1950-1959
 5757638 Kinderboek_uit_1960-1969
@@ -13749,6 +13756,7 @@
 5814553 Cerodirphia
 5814579 Hemileuca
 5814625 Oreta
+5814630 Acalyptris
 5814633 Ectoedemia
 5814637 Nepticula
 5814673 Stigmella
@@ -14783,6 +14791,7 @@
 5827472 Bisdom_in_Mexico
 5827700 Korte_animatiefilm
 5827874 Single_uit_2024
+5828059 WTA-toernooi_in_2024
 5828987 Software_geschreven_in_GTK
 5830879 Wikipedia:Sjablonen_voetbalelftal_Engeland
 5831476 Vrouwenrechtenactivist
@@ -14820,3 +14829,8 @@
 5877757 Televisieprogramma_van_de_NTR
 5878938 Televisieprogramma_van_MAX
 5879054 Televisieprogramma_van_de_EO
+5879718 Nederlands_artistiek_leider
+5880843 Televisieprogramma_van_AVROTROS
+5881872 Televisieprogramma_van_de_AVRO
+5883253 Televisieprogramma_van_BNN
+5883267 Televisieprogramma_van_de_VARA

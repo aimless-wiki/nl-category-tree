@@ -1,1 +1,1 @@
-{"name": "Sportevenement_in_Melbourne", "id": 5557268, "predecessors": [{"name": "Melbourne", "id": 670012}, {"name": "Recreatie", "id": 68304}], "successors": [{"name": "Australian_Open", "id": 90410}]}
+{"name": "Sportevenement_in_Melbourne", "id": 5557268, "predecessors": [{"name": "Melbourne", "id": 670012}, {"name": "Gezondheid", "id": 80097}], "successors": [{"name": "Australian_Open", "id": 90410}]}
