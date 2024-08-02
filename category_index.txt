@@ -86,7 +86,6 @@
 64260 Esoterie
 64281 Nederlands_schrijver
 64343 Hindoeïsme
-64390 Rotterdam
 64422 Universiteit
 64426 Nederlands_componist
 64435 Psychiatrie
@@ -986,6 +985,7 @@
 146194 Romeins_ambt
 146566 Romeins_leger
 146908 Franse_kaas
+146916 Nederlandse_televisiezender
 146977 Plaats_in_Overijssel
 147037 Carbonzuur
 147082 Tsjechisch_schrijver
@@ -1194,6 +1194,7 @@
 195948 Ierse_band
 196018 Zweeds_componist
 196547 Vestingwerk_tijdens_de_Tweede_Wereldoorlog
+196829 Vliegveld_in_de_Verenigde_Staten
 196915 Belgisch_beeldhouwer
 197275 Handel
 197310 Noors_voetballer
@@ -1695,6 +1696,7 @@
 279252 Zoöloog
 279712 Bruinwieren
 279843 Sedimentair_gesteente
+280143 Surinaams_toneelschrijver
 280178 Uitgestorven_reptielen
 280509 Devoon
 280722 Bergeijk
@@ -2464,6 +2466,7 @@
 442815 Gemeente_in_Meurthe-et-Moselle
 443697 Film_uit_1948
 443732 Voetbal_in_1991
+443802 Frans_econoom
 443879 Pools_zanger
 444570 Gemeente_in_Côtes-d'Armor
 445000 Werelderfgoed_in_België
@@ -3442,6 +3445,7 @@
 710303 Frans_uitvinder
 710530 Amerikaans_triatleet
 710571 Nederlands_meteoroloog
+711013 Japanse_subnationale_vlag
 711318 Belgisch_pedagoog
 712305 Belgisch_volksvertegenwoordiger
 712335 Belgisch_senator
@@ -3511,6 +3515,7 @@
 736881 Spechten
 736964 Meeuwen
 737007 Plevieren
+737726 Propaganda
 737739 Rechtshistoricus
 738309 Emberiza
 738344 Klauwieren
@@ -3579,6 +3584,7 @@
 754281 Nationalistische_partij
 754499 Nederlands_rechter
 754594 Barokmuziek
+754836 Nederlands_verzet_in_de_Tweede_Wereldoorlog
 755480 Evenement_in_Vlaanderen
 756106 Strafrecht_in_België
 756108 Strafrecht_in_Nederland
@@ -3938,6 +3944,7 @@
 866896 Zwitsers_atleet
 867138 Verdronken_Dollarddorp
 867993 Lacton
+868189 Hanze
 868453 Aroma
 868484 Polysacharide
 868703 Benzeenderivaat
@@ -4201,6 +4208,7 @@
 945442 Weg_in_Limburg_(Nederland)
 945469 Kasteel_in_Antwerpen_(provincie)
 945517 Plaats_in_Antwerpen_(provincie)
+946055 Bouwwerk_in_Antwerpen_(stad)
 946143 Portaal:Romeinse_Rijk
 946187 Duits_Europarlementariër
 946207 Israëlisch_parlementslid
@@ -4818,6 +4826,7 @@
 1225941 Spoorwegrijtuig
 1226568 Engels_snookerspeler
 1226742 Sportcommentator
+1226829 Amerikaanse_Burgeroorlog
 1226859 Veldslag_tijdens_de_Amerikaanse_Burgeroorlog
 1227683 Aflevering_van_The_Twilight_Zone
 1227899 Zwitsers_burgemeester
@@ -6351,6 +6360,7 @@
 1798464 Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_1999
 1798570 Amerikaans_stemacteur
 1798646 Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2009
+1798791 Tityridae
 1799335 Duits_deelstaatminister
 1799355 Bondsdaglid
 1799706 Italiaans_filmacteur
@@ -6898,6 +6908,7 @@
 2007368 Cultuur_in_Antwerpen_(stad)
 2008700 Nederlandse_zwemvereniging
 2009129 Computerrollenspel
+2009223 Rollenspel_(spel)
 2009227 PVV-politicus_(Nederland)
 2009389 Langpootmuggen
 2009469 Snavelvliegen
@@ -7081,6 +7092,7 @@
 2094518 Nederlands_honderdplusser
 2094540 Tata_Steel-toernooi
 2094691 Martialartsfilm
+2095177 Database
 2095351 Onderscheiding_in_nazi-Duitsland
 2096819 Europese_PGA_Tour_2011
 2096823 Europese_PGA_Tour_2010
@@ -7636,6 +7648,7 @@
 2471648 Watertreders
 2471980 Persoon_in_de_Atjehoorlog
 2471986 Cipresfamilie
+2472003 Onderscheiding_in_de_Sovjet-Unie
 2472049 Dennenfamilie
 2472056 Belgisch_persoon_in_de_19e_eeuw
 2472064 Luxemburgs_persoon_in_de_19e_eeuw
@@ -8355,6 +8368,7 @@
 2939944 Zandsterrenkijkers
 2940135 Ballon_d'Or
 2941411 Oeververbinding_over_het_Albertkanaal
+2941740 Sociale_psychologie
 2962315 Muziekalbum_uitgegeven_door_Groove_Unlimited
 2963775 Isle_of_Man_TT
 2964979 Weg_in_Andalusië
@@ -9944,7 +9958,6 @@
 4079082 Plaats_in_Kern_County
 4079618 Campeonato_Goiano
 4080477 Sportvereniging_in_Gelderland
-4080481 Sportvereniging_in_Limburg_(Nederland)
 4080610 NGC-object_in_Achtersteven
 4080741 Campeonato_Sergipano
 4080798 Campeonato_Mato-Grossense
@@ -10041,6 +10054,7 @@
 4099222 Economie_in_Haarlem
 4101166 Nederlandse_voetbalclub_1956/57
 4101169 Nederlandse_voetbalclub_1957/58
+4101170 Nederlandse_voetbalclub_1958/59
 4102073 Heuvel_in_Zuid-Limburg_(Nederland)
 4103408 Programma_van_Netflix
 4104685 Bouwwerk_in_Tallinn
@@ -11547,6 +11561,7 @@
 5257097 Syllitus
 5257101 Tetraophthalmus
 5259490 Spirurida
+5259491 Amerikaans_softwarebedrijf
 5259567 Ascaridida
 5260456 Brugse_School
 5261095 Amerikaans_bluesgitarist
@@ -12123,6 +12138,7 @@
 5475184 Film_uit_2021
 5476372 Politicus_voor_de_antirevolutionairen
 5476608 Roccellaceae
+5476623 Duits_Holocaustslachtoffer
 5476628 Nederlands_Holocaustslachtoffer
 5477413 Polder_in_Eemsdelta
 5478330 Sportvereniging_in_Den_Haag
@@ -13651,7 +13667,7 @@
 5750372 Spoorlijn_in_Hessen
 5750971 Spoorlijn_in_Saarland
 5751826 Braziliaans_competitievoetbal_2023
-5754102 Spoorlijnen_in_Slowakije
+5754102 Spoorlijn_in_Slowakije
 5755064 Canon_van_Vlaanderen
 5757637 Kinderboek_uit_1950-1959
 5757638 Kinderboek_uit_1960-1969
@@ -14834,3 +14850,5 @@
 5881872 Televisieprogramma_van_de_AVRO
 5883253 Televisieprogramma_van_BNN
 5883267 Televisieprogramma_van_de_VARA
+5883791 Filmlijsten_naar_jaar
+5885688 Buddyfilm
