@@ -1548,6 +1548,7 @@
 253496 Microsoft
 254519 Zeenaalden_en_zeepaardjes
 254626 Europese_auto
+255739 Handelsbeurs
 255745 Wereldtentoonstelling
 255917 Romantische_komedie
 255926 Toneelstukverfilming
@@ -2169,7 +2170,6 @@
 369155 Voetbal_in_1994
 369411 Zweeds_voetbalcoach
 369417 Waterbeheer
-369480 Muziek_in_2007
 369655 Migratie
 369723 Bosbouw
 369727 Zwitsers_Duitstalig_schrijver
@@ -2200,6 +2200,7 @@
 381739 Dier_uit_Wallacea
 382774 Ruimtetelescoop
 382810 Friese_taal
+384215 Nieuw-Zeelands_voetballer
 384409 Marxisme
 384744 Northumberland
 384800 North_Yorkshire
@@ -2321,6 +2322,7 @@
 407303 Grafische_software
 407327 Oostenrijks_voetbalcoach
 407470 Film_uit_1918
+407479 Pornografie
 408017 Ierse_film
 408030 Luxemburgse_film
 408048 Film_uit_1925
@@ -2986,6 +2988,7 @@
 597022 Endemisch_dier_uit_Colombia
 597024 Endemisch_dier_uit_de_Verenigde_Staten
 597026 Endemisch_dier_uit_Mexico
+597031 Endemisch_dier_uit_Italië
 597048 Endemisch_dier_uit_Peru
 597085 Endemisch_dier_uit_Nieuw-Zeeland
 597088 Endemisch_dier_uit_Venezuela
@@ -3838,7 +3841,6 @@
 830813 Verhalenbundel
 831576 Amstel_Gold_Race
 831962 Rechtsfilosoof
-831966 Hoofdstad_in_Europa
 832457 Kanaal_in_Friesland
 833139 Efteling
 834323 Pools_acteur
@@ -4601,7 +4603,6 @@
 1125480 Heuvel_in_Henegouwen
 1125682 Berg_in_Graubünden
 1126057 Zwembad_in_Nederland
-1126114 NUTS-2-regio
 1126150 Paleoceen
 1127929 Belgisch_volleyballer
 1128238 Oorlogsverslaggever
@@ -4783,6 +4784,7 @@
 1206988 Duits_heilige_of_zalige
 1206989 Brits_heilige_of_zalige
 1206994 Spaans_heilige_of_zalige
+1208103 Mangoesten
 1208268 Mollen
 1208515 Geschiedenis_van_Tibet
 1208520 Koning_van_Tibet
@@ -6414,6 +6416,7 @@
 1807758 Amerikaans_voetbalseizoen
 1807814 Brits_stemacteur
 1807820 Vlaams_stemacteur
+1807826 Canadees_stemacteur
 1807869 Belgisch_televisieacteur
 1807902 Frans_televisieacteur
 1808101 Belgisch_musicalacteur
@@ -6908,7 +6911,6 @@
 2007368 Cultuur_in_Antwerpen_(stad)
 2008700 Nederlandse_zwemvereniging
 2009129 Computerrollenspel
-2009223 Rollenspel_(spel)
 2009227 PVV-politicus_(Nederland)
 2009389 Langpootmuggen
 2009469 Snavelvliegen
@@ -6960,6 +6962,7 @@
 2023806 Portaal:Verpleegkunde
 2025075 Voormalige_eendagswielerwedstrijd
 2026114 Stabiele_isotoop
+2026117 Hoax
 2026887 Voormalige_gemeente_in_Nedersaksen
 2026936 Ridder_in_de_Orde_van_Malta
 2027356 Misjna
@@ -8204,6 +8207,7 @@
 2834004 Lijsten_van_voetbalinterlands_Equatoriaal-Guinea
 2834026 Lijsten_van_voetbalinterlands_Botswana
 2834328 Lijsten_van_voetbalinterlands_Amerikaanse_Maagdeneilanden
+2834745 Lijsten_van_voetbalinterlands_Dominicaanse_Republiek
 2834809 Muziek_in_Amsterdam
 2834827 Lijsten_van_voetbalinterlands_Mauritanië
 2835080 Lijsten_van_voetbalinterlands_Mozambique
@@ -8477,6 +8481,7 @@
 2980272 Wikipedia:Sjablonen_geschiedenis
 2980273 Wikipedia:Sjablonen_mens_en_maatschappij
 2980278 Wikipedia:Sjablonen_techniek
+2980284 Wikipedia:Sjablonen_positiekaart_Frankrijk
 2980286 Wikipedia:Sjablonen_positiekaart_Nederland
 2980288 Wikipedia:Sjablonen_positiekaart_Rusland
 2980290 Wikipedia:Sjablonen_positiekaart_Verenigd_Koninkrijk
@@ -8741,7 +8746,6 @@
 3009280 Amerikaans_sciencefictionschrijver
 3009363 Jazzstandard
 3010363 Single_uit_2013
-3010365 Muziek_in_2013
 3011751 Landkreis_Emsland
 3011758 Landkreis_in_Beieren
 3011764 Voormalige_Landkreis_in_Mecklenburg-Voor-Pommeren
@@ -9602,6 +9606,7 @@
 3804834 Straat_in_Baarn
 3805344 Compositie_van_Lennon-McCartney
 3809473 Hardstyle-dj
+3827317 Nederlands_rooms-katholiek_bisschop
 3828284 Fictieve_hond
 3829410 Lid_van_het_Huis_van_Afgevaardigden_(Verenigde_Staten)
 3829443 Station_van_Réseau_express_régional
@@ -9641,7 +9646,6 @@
 3863721 Golftoernooi_in_Spanje
 3864466 Wikipedia:Sjablonen_indeling_Vietnam
 3865067 Oude_Athene
-3868264 Muziek_in_2014
 3868993 Nederlands_sieraadontwerper
 3869777 Portaal:Zweden
 3869791 Argentijns_voetbalseizoen
@@ -10055,10 +10059,10 @@
 4101166 Nederlandse_voetbalclub_1956/57
 4101169 Nederlandse_voetbalclub_1957/58
 4101170 Nederlandse_voetbalclub_1958/59
+4101174 Nederlandse_voetbalclub_1962/63
 4102073 Heuvel_in_Zuid-Limburg_(Nederland)
 4103408 Programma_van_Netflix
 4104685 Bouwwerk_in_Tallinn
-4105621 Muziek_in_2015
 4105722 Computerspel_van_Namco
 4106622 Geografie_van_Leudal
 4109240 Film_uit_2015
@@ -12180,6 +12184,8 @@
 5501601 Vliegtuig_van_Aero
 5501811 Vliegtuig_van_Fokker
 5501890 Voormalige_spoorlijn_in_Henegouwen
+5501998 Fietssnelweg_in_Vlaanderen
+5502001 Fietsroute_in_Vlaanderen
 5502041 Spoortunnel_in_Wallonië
 5502245 Geografie_van_De_Wolden
 5502397 Vliegtuig_van_Messerschmitt
@@ -13464,6 +13470,7 @@
 5656234 Chydaeus
 5656353 Dicheirotrichus
 5656370 Dystrichothorax
+5656491 Belgisch_raadsheer_in_het_hof_van_beroep
 5656494 Belgisch_rechter_in_de_rechtbank_van_eerste_aanleg
 5656504 Hexagonia_(kever)
 5656631 Mesolestes
@@ -13648,6 +13655,7 @@
 5725418 Luxemburgs_beeldhouwer
 5726013 Voormalige_gemeente_in_Letland
 5728003 KAJ-KWB_Prijs
+5728491 Spoorlijn_in_Indre-et-Loire
 5731043 Duits_warenhuis
 5731058 Amerikaans_warenhuis
 5731071 Brits_warenhuis
@@ -13866,6 +13874,7 @@
 5815851 Opogona
 5815861 Perissomastix
 5815872 Tinea
+5815885 Acanthopsyche
 5815899 Narycia
 5815991 Typhonia
 5815999 Acrolepia
@@ -14846,6 +14855,7 @@
 5878938 Televisieprogramma_van_MAX
 5879054 Televisieprogramma_van_de_EO
 5879718 Nederlands_artistiek_leider
+5879962 Socotra_(eiland)
 5880843 Televisieprogramma_van_AVROTROS
 5881872 Televisieprogramma_van_de_AVRO
 5883253 Televisieprogramma_van_BNN

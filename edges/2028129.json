@@ -1,1 +1,1 @@
-{"name": "Spoorlijn_in_Moselle", "id": 2028129, "predecessors": [{"name": "Railinfrastructuur", "id": 80094}, {"name": "Overheid", "id": 63736}], "successors": [{"name": "Spoorlijn_Parijs_-_Strasbourg-Ville", "id": 5721583}]}
+{"name": "Spoorlijn_in_Moselle", "id": 2028129, "predecessors": [{"name": "Railinfrastructuur", "id": 80094}, {"name": "Europese_Unie", "id": 66470}], "successors": [{"name": "Spoorlijn_Parijs_-_Strasbourg-Ville", "id": 5721583}]}
