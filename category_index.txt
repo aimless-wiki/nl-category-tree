@@ -1323,6 +1323,7 @@
 224225 Plaats_in_Gelderland
 224393 Oorlog_in_de_18e_eeuw
 224396 Oorlog_in_de_20e_eeuw
+224402 Oorlog_in_de_16e_eeuw
 224403 Oorlog_in_Europa
 224406 Oorlog_in_Azië
 224411 Oorlog_in_de_19e_eeuw
@@ -1330,6 +1331,7 @@
 224421 Plaats_in_Zuid-Holland
 224471 Turks_voetballer
 224606 Weg_in_Frankrijk
+224620 Gebergte_in_Italië
 224657 Huis_Stuart
 224820 Lijm
 225156 Taal_in_Indonesië
@@ -2723,8 +2725,8 @@
 544961 Geschiedenis_van_Congo-Kinshasa
 545982 Piasten
 546017 Historiografie
-546425 Archeologische_plaats_in_Mexico
-546446 Archeologische_plaats_in_Turkije
+546425 Archeologische_vindplaats_in_Mexico
+546446 Archeologische_vindplaats_in_Turkije
 546565 Belgisch_bankier
 546834 Symfonie
 547105 Oud-Grieks_filosoof
@@ -2956,7 +2958,7 @@
 596423 Endemisch_dier_uit_Papoea-Nieuw-Guinea
 596424 Endemisch_dier_uit_Indonesië
 596425 Endemisch_dier_uit_Japan
-596435 Endemisch_dier_uit_Celebes
+596435 Endemisch_dier_uit_Sulawesi
 596437 Endemisch_dier_uit_Spanje
 596441 Endemisch_dier_uit_Borneo
 596444 Endemisch_dier_uit_Maleisië
@@ -3198,8 +3200,10 @@
 654299 Paleis_in_Italië
 654425 Xbox_360-spel
 654430 Italiaans_kardinaal
+654581 Zionist
 654645 Film_van_Miramax_Films
 655137 Bestelwagen
+655200 Wikipedia:Schrijfwedstrijd
 655915 G-Unit
 656397 Satelliettelevisie
 656572 Superschurk_uit_Marvel_Comics
@@ -3316,7 +3320,7 @@
 686182 Rechtspraak_van_het_Europees_Hof_van_Justitie
 686394 Arbeidsrecht
 686416 Rechtsgeschiedenis
-686461 Archeologische_plaats_in_Egypte
+686461 Archeologische_vindplaats_in_Egypte
 686826 Sega_Master_System-spel
 686944 Conceptauto
 687009 Hotel_in_Nederland
@@ -3372,6 +3376,7 @@
 696466 Oliekevers
 696470 Bladkevers
 696477 Zwartlijven
+696554 Amerikaanse_keuken
 696573 Waterjuffers
 696615 Pantserjuffers
 696620 Glazenmakers
@@ -3782,6 +3787,7 @@
 806237 Zuid-Koreaans_langebaanschaatser
 807028 Nederlands_mountainbiker
 807036 Pakistaans_hockeyer
+807260 Democratie
 807616 Duurzame_energie
 807738 Gemeente_in_Beroun
 807943 Heuvel_in_de_Vlaamse_Ardennen
@@ -4117,7 +4123,7 @@
 920238 Geschiedenis_van_Sleeswijk-Holstein
 920251 Geschiedenis_van_Hessen
 920254 Geschiedenis_van_Rijnland-Palts
-921617 Gemeente_in_Attika
+921617 Gemeente_in_Attica
 921664 Plaats_in_Kreta
 921818 Geschiedenis_van_Gelderland
 921840 Geschiedenis_van_Bretagne
@@ -4629,7 +4635,7 @@
 1135481 Filosofie_van_de_geest
 1135552 Dieen
 1135740 Portaal:Yoga
-1136999 Archeologische_plaats_in_Syrië
+1136999 Archeologische_vindplaats_in_Syrië
 1137058 Plaats_in_Alberta
 1137225 Historic_Scotland
 1137435 Gemeente_in_Bahia
@@ -4724,7 +4730,7 @@
 1169170 Voormalig_gemeentehuis_in_Nederland
 1170671 Lijsten_van_kantons_in_Frankrijk
 1171142 Inkomen
-1171830 Archeologische_plaats_in_Irak
+1171830 Archeologische_vindplaats_in_Irak
 1172610 Bronlibellen
 1172696 Beeldenroute
 1174073 VOC-bestuurder
@@ -5524,6 +5530,7 @@
 1525323 Plaats_in_Västerbottens_län
 1526598 Kantoorgebouw_in_Amsterdam
 1528305 Maattheorie
+1530011 Librettist
 1530142 IJzerhoudend_mineraal
 1535158 Amerikaans_muziekpedagoog
 1535164 Successieoorlog
@@ -6073,7 +6080,6 @@
 1703830 Britse_animatieserie
 1704051 Gouvernement_van_het_Keizerrijk_Rusland
 1704420 Onbewoond_Nederlands_eiland
-1705582 Concert
 1705699 Engels_golfer
 1705762 Streekproduct_met_beschermde_oorsprongsbenaming
 1705834 Personage_uit_Spoed
@@ -8726,6 +8732,7 @@
 3000362 Muziekalbum_uit_2013
 3003415 Fietsroute_in_Nederland
 3004558 1480-1489
+3004559 1420-1429
 3004560 1490-1499
 3004561 1430-1439
 3004563 1460-1469
@@ -8754,6 +8761,7 @@
 3012499 Gemeentelijk_monument_in_Amsterdam
 3013273 Marin_County
 3013462 Amerikaans_jazzzanger
+3013478 Nederlands_jazzzanger
 3014931 Celbiologisch_tijdschrift
 3017552 Gouden_Eeuw_(Nederland)
 3017734 Fictieve_vogel
@@ -10723,6 +10731,7 @@
 4784298 Bouwwerk_van_Piet_Kramer
 4785635 Echinothurioida
 4786547 Fabeldier
+4786832 Voormalige_Nederlandse_vereniging
 4787393 Endemisch_dier_uit_Californië
 4789324 Euryalida
 4790083 Ophiurida
@@ -12237,6 +12246,7 @@
 5529401 Tramlijn_in_Duitsland
 5529564 Found_footage
 5529834 Metrostation_in_Milaan
+5530293 Wielerwedstrijd_in_Spanje
 5530587 Wikipedia:Sjablonen_basketbal_Nederland
 5531092 Amerikaanse_presidentsverkiezingen
 5532833 Commune_associée_in_Meuse
@@ -13587,6 +13597,7 @@
 5672067 Nederlands_sprinter_(atletiek)
 5672069 Nederlands_hordeloper
 5672071 Nederlands_verspringer
+5672074 Nederlands_hoogspringer
 5673004 Spoorlijn_in_Eure
 5673731 Keniaans_marathonloper
 5673732 Keniaans_langeafstandsloper
@@ -13709,6 +13720,7 @@
 5777797 Vlag_van_Oost-Vlaamse_gemeente
 5777798 Vlag_van_Vlaams-Brabantse_gemeente
 5777799 Vlag_van_West-Vlaamse_gemeente
+5780062 Spoorlijn_in_Charente-Maritime
 5781572 Winnaar_van_de_Ronde_van_Italië
 5781722 Winnaar_van_de_Ronde_van_Spanje
 5785508 Treintechniek

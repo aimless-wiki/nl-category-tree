@@ -1,1 +1,1 @@
-{"name": "Vlaams_muziekprogramma", "id": 1945406, "predecessors": [{"name": "Concert", "id": 1705582}, {"name": "Vlaams_televisieprogramma", "id": 334475}, {"name": "Alles", "id": 63579}], "successors": []}
+{"name": "Vlaams_muziekprogramma", "id": 1945406, "predecessors": [{"name": "Vlaams_televisieprogramma", "id": 334475}, {"name": "Alles", "id": 63579}, {"name": "Kunstevenement", "id": 192826}], "successors": []}

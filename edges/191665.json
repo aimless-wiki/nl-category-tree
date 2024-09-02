@@ -1,1 +1,1 @@
-{"name": "Ronde_van_Spanje", "id": 191665, "predecessors": [{"name": "Meerdaagse_wielerwedstrijd", "id": 799526}, {"name": "Recreatie", "id": 68304}, {"name": "Gezondheid", "id": 80097}], "successors": [{"name": "Winnaar_van_de_Ronde_van_Spanje", "id": 5781722}]}
+{"name": "Ronde_van_Spanje", "id": 191665, "predecessors": [{"name": "Meerdaagse_wielerwedstrijd", "id": 799526}, {"name": "Wielerwedstrijd_in_Spanje", "id": 5530293}, {"name": "Recreatie", "id": 68304}], "successors": [{"name": "Winnaar_van_de_Ronde_van_Spanje", "id": 5781722}]}
