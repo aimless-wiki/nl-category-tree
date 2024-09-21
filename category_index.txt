@@ -40,7 +40,6 @@
 63579 Alles
 63593 Duitse_Bond
 63600 Economie
-63602 Schaken
 63610 Balsport
 63611 Habsburg
 63647 Islam
@@ -636,7 +635,6 @@
 103115 Industrie
 103159 Modelbouw
 103175 Brandweer
-103233 Paard
 103471 São_Paulo_(staat)
 103870 Natuurlijk_proces
 103880 Verwantschap
@@ -1419,7 +1417,6 @@
 233337 Plaats_in_Oost-Vlaanderen
 233363 Hasselt
 233374 Oekraïens_wielrenner
-233377 Oekraïens_atleet
 233385 Canadees_atleet
 233386 Canadees_wielrenner
 233388 Iers_wielrenner
@@ -1453,6 +1450,7 @@
 235649 Sportspel
 235709 Roosendaal
 235717 Plaats_in_Vlaams-Brabant
+235721 Grimbergen
 235730 Tienen_(België)
 235757 Kasteel_in_Vlaams-Brabant
 235758 Kasteel_in_Noord-Brabant
@@ -1810,7 +1808,6 @@
 297667 Bolvormige_sterrenhoop
 297774 Voormalige_gemeente_in_Noord-Holland
 297776 Voormalige_gemeente_in_Overijssel
-297894 Vrachtwagen
 297907 Kunstgeschiedenis
 298332 Straat_in_Rotterdam
 298547 Lid_van_de_Zwitserse_Bondsraad
@@ -3270,7 +3267,7 @@
 670751 Internationaal_recht_in_Den_Haag
 670786 Katholieke_school_in_Nederland
 671082 Straat_in_Brugge
-671175 Nationaal_park_van_Nieuw-Zuid-Wales
+671175 Nationaal_park_van_New_South_Wales
 671268 Bloemmorfologie
 671424 Moleculaire_biologie
 671478 Programma_van_Jetix
@@ -3531,7 +3528,7 @@
 738350 Endemisch_dier_uit_West-Australië
 738351 Endemisch_dier_uit_Queensland
 738353 Endemisch_dier_uit_Zuid-Australië
-738355 Endemisch_dier_uit_Nieuw-Zuid-Wales
+738355 Endemisch_dier_uit_New_South_Wales
 738359 Endemisch_dier_uit_Tasmanië
 738367 Kwikstaarten_en_piepers
 738378 Leeuweriken
@@ -4037,7 +4034,7 @@
 898185 Nummer_van_The_Supremes
 898227 Local_Government_Area_in_Zuid-Australië
 898324 Huis_Grimaldi
-898480 Local_Government_Area_in_Nieuw-Zuid-Wales
+898480 Local_Government_Area_in_New_South_Wales
 899749 Nederlands_landbouwkundige
 899842 Portaal:Biologie
 899868 Portaal:Dinosauriërs
@@ -4219,6 +4216,7 @@
 946055 Bouwwerk_in_Antwerpen_(stad)
 946143 Portaal:Romeinse_Rijk
 946187 Duits_Europarlementariër
+946190 Frans_Europarlementariër
 946207 Israëlisch_parlementslid
 946314 Kerkgebouw_in_Utrecht_(stad)
 946317 Cultuur_in_Utrecht_(stad)
@@ -4226,6 +4224,7 @@
 946324 Straat_in_Utrecht_(stad)
 946331 Subwijk_of_buurt_in_Utrecht_(stad)
 946386 Muziekuitgever
+946579 Brits_Europarlementariër
 947068 Frans_ingenieur
 947085 Noorwegen_op_de_Olympische_Spelen
 947835 Plaats_in_Luik_(provincie)
@@ -4393,6 +4392,7 @@
 1016476 Land_binnen_het_Heilige_Roomse_Rijk
 1018597 Voormalige_watertoren_in_Nederland
 1018634 Wijk_in_Praag
+1019119 Geschiedenis_van_Andalusië
 1019700 Narratologie
 1030843 Kerkgebouw_in_Vlaams-Brabant
 1030846 Kerkgebouw_in_Antwerpen_(provincie)
@@ -4780,6 +4780,7 @@
 1202326 Spoorwegstation_in_Zweden
 1202334 Spoorwegstation_in_Zwitserland
 1202709 Containerschip_op_naam
+1203413 Geschiedenis_van_Castilië
 1203839 Duits_geestelijke
 1204473 Geïntegreerde_schakeling
 1204887 Natuurgebied_in_Limburg_(België)
@@ -4921,7 +4922,7 @@
 1272194 Miniserie
 1272826 Plaats_in_Victoria
 1272828 Plaats_in_Queensland
-1272832 Plaats_in_Nieuw-Zuid-Wales
+1272832 Plaats_in_New_South_Wales
 1272840 Plaats_in_Tasmanië
 1272841 Plaats_in_Zuid-Australië
 1272843 Plaats_in_West-Australië
@@ -5458,7 +5459,7 @@
 1469428 Interstate_highway
 1470173 Australisch_olympisch_deelnemer
 1471085 Single_uit_2009
-1471616 Lijsten_van_Tweede_Kamerleden_naar_partij
+1471616 Lijsten_van_Tweede_Kamerleden_naar_fractie
 1471947 Gemeente_in_Turkije
 1473177 Çerkeş
 1473520 Draagraket
@@ -5481,7 +5482,6 @@
 1488691 Berg_in_Norrbottens_län
 1489401 Luchtvervuiling
 1489543 Persoon_in_de_Dertigjarige_Oorlog
-1491219 Mohammed
 1491368 Canadees_freestyleskiër
 1491890 Master_of_Sports
 1492079 Çankırı_(district)
@@ -5549,7 +5549,6 @@
 1535497 Frans_muziekpedagoog
 1535819 Segunda_División
 1536328 Nederlands_admiraal
-1537118 Kanton_van_Réunion
 1538203 Vlaamse_vereniging
 1539978 Operettecomponist
 1541941 Scheepsconstructie
@@ -5718,7 +5717,6 @@
 1611825 Voormalig_bouwwerk_in_Gelderland
 1612476 Rajidae
 1613309 Station_aan_de_Docklands_Light_Railway
-1614384 Veldslag_van_de_Habsburgse_monarchie
 1614771 Beek_in_Noord-Brabant
 1614966 Beek_in_Limburg_(Nederland)
 1615483 Varend_erfgoed
@@ -7885,6 +7883,7 @@
 2577252 Pruisisch_generaal
 2577520 Lijsten_van_voetbalinterlands_Oman
 2577524 Lijsten_van_voetbalinterlands_Qatar
+2577564 Lijsten_van_voetbalinterlands_Gambia
 2577749 Kalksponzen
 2578400 Gewone_sponzen
 2585261 Grand_Prix_naar_jaar
@@ -8090,6 +8089,7 @@
 2750460 Duitse_winkelketen
 2750773 Lijsten_van_voetbalinterlands_Kirgizië
 2754037 UCI_Europe_Tour_2012
+2760316 Lijsten_van_voetbalinterlands_Lesotho
 2760923 Lijsten_van_voetbalinterlands_Bangladesh
 2761061 Film_van_The_Asylum
 2761277 Cheshire_East
@@ -8213,6 +8213,7 @@
 2834004 Lijsten_van_voetbalinterlands_Equatoriaal-Guinea
 2834026 Lijsten_van_voetbalinterlands_Botswana
 2834328 Lijsten_van_voetbalinterlands_Amerikaanse_Maagdeneilanden
+2834368 Lijsten_van_voetbalinterlands_Saint_Kitts_en_Nevis
 2834745 Lijsten_van_voetbalinterlands_Dominicaanse_Republiek
 2834809 Muziek_in_Amsterdam
 2834827 Lijsten_van_voetbalinterlands_Mauritanië
@@ -8726,6 +8727,7 @@
 2996314 Hopvariëteit
 2998435 Informaticatijdschrift
 2999093 Gemeentelijk_monument_in_Amstelveen
+2999717 Fietsroute_in_Duitsland
 2999853 Fins_eiland_in_een_rivier_of_een_binnenmeer
 2999856 Zweeds_eiland_in_een_rivier_of_een_binnenmeer
 3000039 Open_access-tijdschrift
@@ -9587,6 +9589,7 @@
 3778868 Kerkgebouw_in_Peel_en_Maas
 3779654 Voormalige_Nederlandse_televisiezender
 3780617 Personage_uit_X-Men
+3781446 Tijdlijnen
 3781459 Provinciaal_monument_in_Noord-Holland
 3783879 Rechtspraak_in_Noorwegen
 3786112 Ottomaanse_veldslag
@@ -10067,6 +10070,8 @@
 4101166 Nederlandse_voetbalclub_1956/57
 4101169 Nederlandse_voetbalclub_1957/58
 4101170 Nederlandse_voetbalclub_1958/59
+4101171 Nederlandse_voetbalclub_1959/60
+4101172 Nederlandse_voetbalclub_1960/61
 4101174 Nederlandse_voetbalclub_1962/63
 4102073 Heuvel_in_Zuid-Limburg_(Nederland)
 4103408 Programma_van_Netflix
@@ -11440,6 +11445,7 @@
 5219459 Voetbal_in_2023
 5221592 Lijsten_van_Suriname
 5223208 Nederlands_korfbalcoach
+5225738 Surinaamse_belangenorganisatie
 5231007 Wikipedia:Sjablonen_voetbalelftal_Spanje
 5233963 Baai_van_Newfoundland_en_Labrador
 5234481 Friedrichshain-Kreuzberg
@@ -11965,7 +11971,6 @@
 5421221 Onroerend_erfgoed_in_Mechelen
 5421284 Onroerend_erfgoed_in_Sint-Truiden
 5421939 Geestelijke_uit_het_Huis_Nassau
-5422382 Important_Bird_Area
 5422390 Cultureel_erfgoed_in_Vlaanderen
 5422511 Auto_van_Opel
 5422815 Physaraceae
@@ -12307,6 +12312,7 @@
 5550920 Zijrivier_van_de_Torne
 5550946 Rivier_op_Gotland
 5551044 Stroomgebied_van_het_IJsselmeer
+5551490 EuroVelo
 5551514 Amphilepidida
 5551518 Ophiacanthida
 5551747 Anisolderivaat
@@ -12543,6 +12549,7 @@
 5609506 Bouwwerk_in_Amsterdam-Noord
 5609508 Bouwwerk_in_Amsterdam-Oost
 5609509 Bouwwerk_in_Amsterdam-West
+5609511 Bouwwerk_in_Amsterdam-Zuidoost
 5609549 Woning_in_Amsterdam
 5609662 Woning_in_Baarn
 5610772 Strabomantidae
@@ -13613,6 +13620,7 @@
 5678753 Barokbeeldhouwkunst
 5680279 Vlaamse_radiozender
 5680709 Vlaamse_barokschilder
+5681554 Belgische_basketbalclub_naar_seizoen
 5683217 Bedrijf_genoteerd_aan_Euronext_Paris
 5686053 Performancekunstenaar
 5686245 ATP-toernooi_in_2022
@@ -13626,12 +13634,14 @@
 5697174 Spoorlijn_in_Calvados
 5697177 Spoorlijn_in_Eure-et-Loir
 5697193 Nationaal_voetbalelftal_onder_16
+5703301 Amerikaans_sprinter_(atletiek)
 5703494 Hoorspel_van_de_KRO
 5703498 Hoorspel_van_de_VARA
 5703500 Hoorspel_van_de_NCRV
 5703506 Hoorspel_van_de_AVRO
 5703508 Hoorspel_van_de_TROS
 5704593 Wielerploeg_in_2023
+5704977 Amerikaans_hordeloper
 5708244 24_uur_van_Daytona
 5708923 Belgisch_kabinetschef
 5710527 Sint-Elooisprijs
@@ -14830,6 +14840,7 @@
 5827874 Single_uit_2024
 5828059 WTA-toernooi_in_2024
 5828987 Software_geschreven_in_GTK
+5830023 Wikipedia:Sjablonen_selectie_wielerploeg/2024
 5830879 Wikipedia:Sjablonen_voetbalelftal_Engeland
 5831476 Vrouwenrechtenactivist
 5834559 Plaats_in_Østfold
@@ -14874,3 +14885,5 @@
 5883267 Televisieprogramma_van_de_VARA
 5883791 Filmlijsten_naar_jaar
 5885688 Buddyfilm
+5892493 Atletiek_op_de_Paralympische_Zomerspelen_2024
+5896198 Important_Bird_Area_in_Nederland
