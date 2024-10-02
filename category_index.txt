@@ -85,6 +85,7 @@
 64260 Esoterie
 64281 Nederlands_schrijver
 64343 Hindoeïsme
+64390 Rotterdam
 64422 Universiteit
 64426 Nederlands_componist
 64435 Psychiatrie
@@ -635,6 +636,7 @@
 103115 Industrie
 103159 Modelbouw
 103175 Brandweer
+103233 Paard
 103471 São_Paulo_(staat)
 103870 Natuurlijk_proces
 103880 Verwantschap
@@ -1343,7 +1345,6 @@
 226103 Museum_in_Amsterdam
 226458 Gebergte_in_Oostenrijk
 226848 Goes
-226857 Middelburg
 226911 Vulkaan_in_Indonesië
 227565 Constructieleer
 227928 Geldrop-Mierlo
@@ -1799,6 +1800,7 @@
 296008 Drieduizender
 296384 Champions_Trophy
 296391 Europees_kampioenschap_hockey
+296897 Botanicus
 296927 Voeren
 297021 Voormalige_gemeente_in_Zuid-Holland
 297234 Vrij_besturingssysteem
@@ -3043,9 +3045,7 @@
 607185 Endemisch_dier_uit_Zimbabwe
 607569 Programma_van_de_NPS
 607570 Programma_van_Veronica
-607588 Programma_van_de_KRO
 607597 Programma_van_Net5
-607599 Programma_van_de_NCRV
 608027 Studio_100
 608086 Oud-Griekse_religie
 608431 Film_uit_1909
@@ -5089,10 +5089,10 @@
 1325114 Belgisch_archivaris
 1329122 Douane
 1329467 Circuit_in_de_Verenigde_Staten
+1330583 Woordspel
 1330719 1560-1569
 1330995 Eredivisie_(mannenvoetbal)
 1331016 Eerste_divisie_voetbal
-1331818 Lijsten_van_nummer_1-hits
 1331866 Wielerploeg_in_2009
 1332619 Lijsten_van_voetbalinterlands_Nederland
 1333184 Portaal:Den_Haag
@@ -8145,6 +8145,7 @@
 2799507 Rijksmonument_in_Heerlen
 2800024 Badmintonbond
 2800508 Peer-to-peer
+2801456 Amerikaanse_militaire_eenheid
 2801465 Nederlandse_militaire_eenheid
 2802245 Conservator
 2802585 GP_Denain
@@ -9962,6 +9963,7 @@
 4074982 Campeonato_Gaúcho
 4075090 Campeonato_Pernambucano
 4075305 Campeonato_Acreano
+4075469 Campeonato_Catarinense
 4076316 Campeonato_Brasiliense
 4076510 Braziliaans_competitievoetbal_2014
 4076801 Voetbalclub_uit_São_Paulo_(staat)
@@ -11374,6 +11376,7 @@
 5158468 Molen_in_Molenlanden
 5158925 Zwitsers_kunstschilder_in_de_20e_eeuw
 5159530 Bouwwerk_in_Maastricht-Centrum
+5159554 Kerkgebouw_in_Altena_(Nederland)
 5159560 Geschiedenis_van_Altena_(Nederland)
 5159593 Geschiedenis_van_Molenlanden
 5160125 Psilodercidae
@@ -12436,7 +12439,6 @@
 5577191 Lafoeidae
 5577819 Eirenidae
 5578871 Geschiedenislijsten_van_Nederland
-5578872 Geschiedenislijsten_van_België
 5579025 Wikipedia:Sjablonen_sport_Slovenië
 5579950 Inslagkrater_op_Venus
 5580496 Lijsten_van_Britse_personen
@@ -13731,12 +13733,14 @@
 5777798 Vlag_van_Vlaams-Brabantse_gemeente
 5777799 Vlag_van_West-Vlaamse_gemeente
 5780062 Spoorlijn_in_Charente-Maritime
+5780063 Spoorlijn_in_Gironde
 5781572 Winnaar_van_de_Ronde_van_Italië
 5781722 Winnaar_van_de_Ronde_van_Spanje
 5785508 Treintechniek
 5785945 Vlag_van_Luikse_gemeente
 5791510 Hoogleraar_aan_de_Universiteit_van_Heidelberg
 5793041 Lid_van_de_Academia_Europaea
+5795210 Luxemburgs_onderwijzer
 5796155 Aardbeving_in_de_21e_eeuw
 5797430 Lijsten_van_Europa
 5799292 Film_van_Golan-Globus
@@ -13749,7 +13753,6 @@
 5810122 Boek_in_het_publiek_domein
 5810558 Piteå
 5813321 Film_uit_2024
-5813459 Studentenorganisatie_in_Groningen_(stad)
 5813879 Aegeria
 5813897 Bembecia
 5813920 Carmenta_(geslacht)
@@ -14843,6 +14846,7 @@
 5830023 Wikipedia:Sjablonen_selectie_wielerploeg/2024
 5830879 Wikipedia:Sjablonen_voetbalelftal_Engeland
 5831476 Vrouwenrechtenactivist
+5831972 Braziliaans_competitievoetbal_2024
 5834559 Plaats_in_Østfold
 5834585 Plaats_in_Telemark
 5834812 Plaats_in_Akershus
@@ -14887,3 +14891,12 @@
 5885688 Buddyfilm
 5892493 Atletiek_op_de_Paralympische_Zomerspelen_2024
 5896198 Important_Bird_Area_in_Nederland
+5896569 Important_Bird_Area_in_Australië
+5896589 Important_Bird_Area_in_Griekenland
+5897284 Televisieprogramma_van_de_KRO
+5897308 Important_Bird_Area_in_België
+5897595 Lijsten_van_nummer_1-hits_in_Nederland
+5897659 Lijsten_van_nummer_1-hits_in_het_Verenigd_Koninkrijk
+5897719 Lijsten_van_nummer_1-hits_in_de_Radio_2_Top_30_naar_jaar
+5897804 Televisieprogramma_van_de_NCRV
+5898638 Historisch_koninkrijk_in_Europa
