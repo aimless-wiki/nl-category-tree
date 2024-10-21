@@ -878,7 +878,6 @@
 130587 Deens_componist
 130814 Inslagkrater_(Maan)
 130915 Frans_kunstenaar
-130938 Arabisch
 130977 Ronde_van_Frankrijk
 131038 Geschiedenis_van_Afghanistan
 131044 Deens_kunstschilder
@@ -1822,6 +1821,7 @@
 301253 Voormalig_district_van_Zwitserland
 301532 Belgische_adel
 301540 Nederlandse_adel
+301615 Muziekalbum_van_Bob_Dylan
 301798 Mystery
 302376 Reus
 302523 Nederlandse_basketbalclub
@@ -1833,7 +1833,6 @@
 303063 Wijk_in_Rotterdam
 303681 Barokschilder
 304370 Kunstverzamelaar
-304396 Soefisme
 304406 Ether
 304473 Naamreactie
 305025 Film_uit_1974
@@ -2823,7 +2822,6 @@
 574853 Nederlands_natuurbeschermer
 575265 Commodore_64-spel
 576250 Plaats_in_Indiana
-576596 Nederlandse_politieke_organisatie
 576603 Nederlands_kunsthistoricus
 576736 Russisch_natuurkundige
 576806 Brits_wiskundige
@@ -3043,7 +3041,6 @@
 606708 Belgisch_missionaris
 607052 Noors_pianist
 607185 Endemisch_dier_uit_Zimbabwe
-607569 Programma_van_de_NPS
 607570 Programma_van_Veronica
 607597 Programma_van_Net5
 608027 Studio_100
@@ -3382,7 +3379,6 @@
 696818 Amerikaans_modeontwerper
 696856 Amerikaans_activist
 696960 Zweefvliegen_(dieren)
-697689 Hooiwagens
 697854 Superheldenfilm
 698053 Ridderorde_in_Frankrijk
 698480 Springspinnen
@@ -4590,7 +4586,6 @@
 1119878 Partner_van_de_heerser_van_Oostenrijk
 1119945 Jamaicaans_voetballer
 1120376 Chinese_achternaam
-1121033 Geschiedenis_van_Transvaal
 1121250 Plaats_in_Vrijstaat
 1121255 Plaats_in_Oost-Kaap
 1121261 Plaats_in_West-Kaap
@@ -4869,6 +4864,7 @@
 1242228 Bulvleermuizen
 1242242 Bladneusvleermuizen_van_de_Oude_Wereld
 1242293 Plaats_in_Norrbottens_län
+1242401 Oorlog_van_het_Ottomaanse_Rijk
 1242497 Vlaams_filmregisseur
 1242517 Poppenspel
 1242971 Nederlands_beiaardier
@@ -6241,7 +6237,6 @@
 1756446 Sciencefictionverhaal
 1757454 Rijksmonument_in_Gouda
 1757629 Bisschop_van_Krakau
-1757737 Al-Andalus
 1758217 Propriëtaire_software
 1758639 Eschatologie
 1759109 Beveiligingssoftware
@@ -6439,6 +6434,7 @@
 1812145 Geometrische_optica
 1812199 Fysische_optica
 1813264 Berg_in_de_Beierse_Alpen
+1813784 Klooster_in_Noord-Brabant
 1814292 Vermoord_journalist
 1815111 Zweeds_televisieacteur
 1815290 Waffen-SS
@@ -6661,6 +6657,7 @@
 1888596 Loopspinnen
 1888597 Hexathelidae
 1888652 Museum_over_wetenschap_en_techniek
+1889772 Oorlogsmisdaad
 1891030 Amerikaans_producent
 1891711 Toneelmuziek
 1892535 Attractie_van_Vekoma
@@ -6690,6 +6687,7 @@
 1896830 PVV-politicus_(België)
 1896857 PRL-politicus
 1897341 Rijksmonument_in_Hoorn
+1897523 Basketbal_in_de_Sovjet-Unie
 1897547 15e-eeuws_boek
 1897548 16e-eeuws_boek
 1897657 Kaart
@@ -7517,6 +7515,7 @@
 2316653 Sauropoda
 2316719 Tetanurae
 2317368 Binnenstad_(Utrecht)
+2317372 Noordoost_(Utrecht)
 2317377 Oost_(Utrecht)
 2317725 Nederlands_persoon_in_de_19e_eeuw
 2317866 Amoebozoa
@@ -8813,6 +8812,7 @@
 3033513 Kantongerecht_in_Nederland
 3034397 Associatie
 3034510 Weeshuis
+3035139 Hoogspanningsleiding
 3035534 Roofvliegen
 3036194 Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2013
 3037196 Breedvoetvliegen
@@ -10074,6 +10074,7 @@
 4101170 Nederlandse_voetbalclub_1958/59
 4101171 Nederlandse_voetbalclub_1959/60
 4101172 Nederlandse_voetbalclub_1960/61
+4101173 Nederlandse_voetbalclub_1961/62
 4101174 Nederlandse_voetbalclub_1962/63
 4102073 Heuvel_in_Zuid-Limburg_(Nederland)
 4103408 Programma_van_Netflix
@@ -14892,6 +14893,7 @@
 5892493 Atletiek_op_de_Paralympische_Zomerspelen_2024
 5896198 Important_Bird_Area_in_Nederland
 5896569 Important_Bird_Area_in_Australië
+5896570 Important_Bird_Area_in_Frankrijk
 5896589 Important_Bird_Area_in_Griekenland
 5897284 Televisieprogramma_van_de_KRO
 5897308 Important_Bird_Area_in_België
@@ -14900,3 +14902,5 @@
 5897719 Lijsten_van_nummer_1-hits_in_de_Radio_2_Top_30_naar_jaar
 5897804 Televisieprogramma_van_de_NCRV
 5898638 Historisch_koninkrijk_in_Europa
+5899880 Important_Bird_Area_in_Brazilië
+5900739 Important_Bird_Area_in_Denemarken

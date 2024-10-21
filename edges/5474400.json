@@ -1,1 +1,1 @@
-{"name": "Persoon_overleden_door_zelfdoding", "id": 5474400, "predecessors": [{"name": "Dood", "id": 88294}], "successors": []}
+{"name": "Persoon_overleden_door_zelfdoding", "id": 5474400, "predecessors": [{"name": "Dood", "id": 88294}, {"name": "Persoon_naar_eigenschap", "id": 104784}], "successors": []}
