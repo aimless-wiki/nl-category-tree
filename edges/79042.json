@@ -1,1 +1,1 @@
-{"name": "Fonetiek", "id": 79042, "predecessors": [{"name": "Taalkunde", "id": 194166}, {"name": "Taal", "id": 63479}], "successors": [{"name": "Fonotaxis", "id": 194611}, {"name": "Medeklinker", "id": 1562784}]}
+{"name": "Fonetiek", "id": 79042, "predecessors": [{"name": "Taal", "id": 63479}, {"name": "Alles", "id": 63579}], "successors": [{"name": "Fonotaxis", "id": 194611}, {"name": "Medeklinker", "id": 1562784}]}

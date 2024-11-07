@@ -1,1 +1,1 @@
-{"name": "Bosbouw", "id": 369723, "predecessors": [{"name": "Bos", "id": 63842}, {"name": "Industrie", "id": 103115}], "successors": []}
+{"name": "Bosbouw", "id": 369723, "predecessors": [{"name": "Bos", "id": 63842}, {"name": "Landbouw", "id": 67118}, {"name": "Industrie", "id": 103115}], "successors": []}

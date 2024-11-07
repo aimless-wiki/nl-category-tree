@@ -1,1 +1,1 @@
-{"name": "Hout", "id": 80845, "predecessors": [{"name": "Bouwmateriaal", "id": 78769}, {"name": "Materiaal", "id": 80367}, {"name": "Biologie", "id": 63477}, {"name": "Bos", "id": 63842}], "successors": [{"name": "Houtsoort", "id": 537867}]}
+{"name": "Hout", "id": 80845, "predecessors": [{"name": "Boom_(plant)", "id": 2841567}, {"name": "Bouwmateriaal", "id": 78769}, {"name": "Materiaal", "id": 80367}, {"name": "Biologie", "id": 63477}], "successors": [{"name": "Houtsoort", "id": 537867}]}

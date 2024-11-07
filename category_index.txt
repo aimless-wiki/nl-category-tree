@@ -1352,7 +1352,6 @@
 227950 Chileens_voetballer
 227960 Colombiaans_voetballer
 227970 Lier_(België)
-227975 Coevorden
 227981 Hoogeveen
 228004 Ommen
 228048 Midden-Drenthe
@@ -1696,6 +1695,7 @@
 278811 Vrucht-als-groente
 279252 Zoöloog
 279712 Bruinwieren
+279736 Caesalpinioideae
 279843 Sedimentair_gesteente
 280143 Surinaams_toneelschrijver
 280178 Uitgestorven_reptielen
@@ -2902,6 +2902,7 @@
 588916 Nederlands_politicoloog
 589133 Frans_astronoom
 589226 Nederlands_ingenieur
+589394 Weg_in_Italië
 589398 Single_uit_1974
 589415 Single_uit_1977
 589498 Single_uit_1990
@@ -3157,6 +3158,7 @@
 641969 Thriller_(boek)
 641975 Dystopie
 643719 Mutant_uit_Marvel_Comics
+645014 Geschiedenis_van_New_York_(stad)
 645019 Geschiedenis_van_Londen
 645028 Geschiedenis_van_Parijs
 645052 Geschiedenis_van_Jeruzalem
@@ -3197,7 +3199,6 @@
 654581 Zionist
 654645 Film_van_Miramax_Films
 655137 Bestelwagen
-655200 Wikipedia:Schrijfwedstrijd
 655915 G-Unit
 656397 Satelliettelevisie
 656572 Superschurk_uit_Marvel_Comics
@@ -3353,6 +3354,7 @@
 691952 Vliesvleugeligen
 692080 Weimarrepubliek
 692297 Russisch_gymnast
+693446 Belgisch_socioloog
 693860 Worst
 693893 Vleesgerecht
 694267 Fictieve_organisatie
@@ -3553,6 +3555,7 @@
 748087 Nummer_van_Prince
 748097 Nummer_van_BZN
 748104 Nummer_van_BLØF
+748113 Marathonschaatswedstrijd
 748120 Nummer_van_Coldplay
 748161 Nummer_van_Madonna
 748164 Nummer_van_Muse
@@ -4209,7 +4212,6 @@
 945442 Weg_in_Limburg_(Nederland)
 945469 Kasteel_in_Antwerpen_(provincie)
 945517 Plaats_in_Antwerpen_(provincie)
-946055 Bouwwerk_in_Antwerpen_(stad)
 946143 Portaal:Romeinse_Rijk
 946187 Duits_Europarlementariër
 946190 Frans_Europarlementariër
@@ -4930,6 +4932,7 @@
 1277802 Amsterdamse_bus
 1278681 Nederlands_patriciërsgeslacht
 1278960 VDB-politicus
+1279396 Italiaans_rechtsgeleerde
 1279902 Plaats_in_Rogaland
 1280900 Veen
 1280961 Chemische_formules_en_nomenclatuur
@@ -5714,6 +5717,7 @@
 1612476 Rajidae
 1613309 Station_aan_de_Docklands_Light_Railway
 1614771 Beek_in_Noord-Brabant
+1614808 Beek_in_Gelderland
 1614966 Beek_in_Limburg_(Nederland)
 1615483 Varend_erfgoed
 1615492 Beek_in_Antwerpen_(provincie)
@@ -5765,6 +5769,7 @@
 1635711 Bà_Rịa-Vũng_Tàu
 1635891 Belgisch_baanwielrenner
 1636423 Bình_Dương
+1636619 Geografie_van_Apeldoorn
 1636986 Geschiedenis_van_het_christendom
 1637406 Liturgie_in_de_Rooms-Katholieke_Kerk
 1638338 ATP-toernooi_in_2001
@@ -6123,7 +6128,6 @@
 1716417 Wijk_in_Almere
 1716595 Britse_dramaserie
 1719384 Muziekalbum_van_Wishbone_Ash
-1719472 Gereformeerd_persoon
 1720534 Antropomorf_personage
 1728892 Heemraad
 1729251 Nederlands_gewestelijk_politicus
@@ -6619,6 +6623,7 @@
 1868666 Lijsten_van_landen
 1868678 Lijsten_van_landen_naar_jaar
 1870495 Autosnelweg_in_Italië
+1870656 Vlaamse_lokale_politieke_partij
 1872565 Lijsten_van_beelden_in_Nederland
 1872618 Bắc_Giang
 1873644 Voetbal_in_2018
@@ -7676,7 +7681,6 @@
 2500734 K-1-sporter
 2500913 Nederlands_minister_in_de_19e_eeuw
 2501085 Echte_uilen
-2501111 Gorzen
 2501117 Reigers
 2501118 Nederlands_beeldend_kunstenaar
 2501127 Belgisch_beeldend_kunstenaar
@@ -8223,6 +8227,7 @@
 2837809 Lijsten_van_voetbalinterlands_Kenia
 2838362 Sabelsprinkhanen
 2838390 Grieks_parlementslid
+2841567 Boom_(plant)
 2841888 WTA-toernooi_naar_plaats
 2842752 Film_van_Jack_Conway
 2842769 Film_van_Frank_Lloyd
@@ -8428,6 +8433,7 @@
 2980008 Wikipedia:Sjablonen_China
 2980009 Wikipedia:Sjablonen_Colombia
 2980014 Wikipedia:Sjablonen_Congo-Kinshasa
+2980015 Wikipedia:Sjablonen_Costa_Rica
 2980017 Wikipedia:Sjablonen_Cyprus
 2980019 Wikipedia:Sjablonen_Denemarken
 2980027 Wikipedia:Sjablonen_Duitsland
@@ -9348,6 +9354,7 @@
 3416815 Metarbelidae
 3416844 Lijsten_van_gemeentelijke_monumenten_in_Noord-Holland
 3419584 Lijsten_van_gemeentelijke_monumenten_in_Noord-Brabant
+3420153 Lijsten_van_gemeentelijke_monumenten_in_Utrecht_(provincie)
 3437423 Onderscheiding_in_de_Russische_Federatie
 3438720 Megalopygidae
 3447657 Plaats_in_Östergötlands_län
@@ -9524,6 +9531,7 @@
 3737973 Compositie_voor_koor
 3738969 Compositie_voor_symfonieorkest
 3739352 Compositie_voor_viool_en_piano
+3739798 Economie_in_San_Francisco
 3741183 Ceraphronidae
 3741193 Megaspilidae
 3741204 Figitidae
@@ -10076,6 +10084,8 @@
 4101172 Nederlandse_voetbalclub_1960/61
 4101173 Nederlandse_voetbalclub_1961/62
 4101174 Nederlandse_voetbalclub_1962/63
+4101175 Nederlandse_voetbalclub_1963/64
+4101176 Nederlandse_voetbalclub_1964/65
 4102073 Heuvel_in_Zuid-Limburg_(Nederland)
 4103408 Programma_van_Netflix
 4104685 Bouwwerk_in_Tallinn
@@ -10221,6 +10231,7 @@
 4434109 Geschiedenis_van_Gooise_Meren
 4434280 Skive
 4434363 Viborg
+4434790 Sociaal-liberale_partij
 4435374 Psittaculidae
 4435616 Kraakpand_in_Nederland
 4435891 Silkeborg
@@ -11212,6 +11223,7 @@
 4938402 Muziekalbum_uit_2018
 4938873 Nederlands_tenor
 4942598 Braziliaans_competitievoetbal_2018
+4943765 Resolutie_van_de_Veiligheidsraad_van_de_Verenigde_Naties_uit_2018
 4943957 Eendagswielerwedstrijd_in_2018
 4944229 Chthamalidae
 4944237 Balanidae
@@ -11349,7 +11361,6 @@
 5144159 Chaetonotidae
 5144418 Rivier_in_Jakoetië
 5147865 ATP-toernooi_in_2019
-5153449 Het_Hogeland
 5153508 Diersoort_beschreven_in_2019
 5154113 Rijksmonument_in_Het_Hogeland
 5154168 Geografie_van_Beekdaelen
@@ -11414,6 +11425,7 @@
 5174045 Amerikaans_youtuber
 5178107 Geografie_van_Westerkwartier
 5178222 Beeld_in_Amsterdam_Nieuw-West
+5179007 Geschiedenis_van_Het_Hogeland
 5179221 Acrocirridae
 5179227 Sabellidae
 5179296 Polder_in_Westerkwartier
@@ -14904,3 +14916,11 @@
 5898638 Historisch_koninkrijk_in_Europa
 5899880 Important_Bird_Area_in_Brazilië
 5900739 Important_Bird_Area_in_Denemarken
+5903526 Nederlands_gereformeerd_persoon
+5903721 Voormalig_Amerikaans_warenhuis
+5904160 Wikipedia:Sjablonen_vogels
+5904203 Wikipedia:Sjablonen_zoogdieren
+5904211 Wikipedia:Sjablonen_reptielen
+5904212 Wikipedia:Sjablonen_amfibieën
+5905919 Werkverschaffingsproject
+5905999 Amerikaanse_gorzen
