@@ -196,7 +196,6 @@
 67368 Toneelschrijver
 67379 Kinderfilm
 67381 Tachtigjarige_Oorlog
-67382 Openbaarvervoerbedrijf
 67408 Keizer_van_Byzantium
 67409 Byzantijnse_Rijk
 67421 Gezondheidszorg
@@ -1416,7 +1415,6 @@
 233337 Plaats_in_Oost-Vlaanderen
 233363 Hasselt
 233374 Oekraïens_wielrenner
-233385 Canadees_atleet
 233386 Canadees_wielrenner
 233388 Iers_wielrenner
 233391 Tsjechisch_wielrenner
@@ -1482,7 +1480,6 @@
 240850 The_Beatles
 241134 Brits_atleet
 241138 Fins_atleet
-241141 Cubaans_atleet
 241142 Australisch_atleet
 241147 Australisch_tennisser
 241185 Christelijke_organisatie
@@ -1809,6 +1806,7 @@
 297667 Bolvormige_sterrenhoop
 297774 Voormalige_gemeente_in_Noord-Holland
 297776 Voormalige_gemeente_in_Overijssel
+297894 Vrachtwagen
 297907 Kunstgeschiedenis
 298332 Straat_in_Rotterdam
 298547 Lid_van_de_Zwitserse_Bondsraad
@@ -3073,6 +3071,7 @@
 616574 Plaats_in_Alaska
 617051 Formule_1-team
 617188 Frans_begrip
+617628 Geschiedenis_van_Algerije
 617732 Amerikaanse_multinational
 617763 Prins_van_België
 618044 Brinkdorp
@@ -3555,7 +3554,6 @@
 748087 Nummer_van_Prince
 748097 Nummer_van_BZN
 748104 Nummer_van_BLØF
-748113 Marathonschaatswedstrijd
 748120 Nummer_van_Coldplay
 748161 Nummer_van_Madonna
 748164 Nummer_van_Muse
@@ -3580,6 +3578,7 @@
 751192 Popnummer
 751506 Opinietijdschrift
 751616 Elvis_Presley
+751658 Nummer_van_Bob_Dylan
 752075 Nederlands_cameraman
 752291 Staatssecretaris_in_de_Belgische_regering
 752798 Gregoriaanse_muziek
@@ -3696,6 +3695,7 @@
 786057 CDA-politicus
 786490 Ridderhofstad
 787104 CHU-politicus
+787429 Film_van_RKO_Radio_Pictures
 788841 Gemeente_in_Solothurn
 789677 KVP-politicus
 789936 Plaats_in_Maine
@@ -3760,6 +3760,7 @@
 802204 Voormalig_waterschap_in_Groningen
 802340 Voormalig_waterschap_in_Friesland
 802389 Voormalig_waterschap_in_Zuid-Holland
+803812 Duits_tafeltennisser
 804235 SDAP-politicus
 804414 Nederlandse_stichting
 804522 Nederlandse_lokale_omroep
@@ -4483,6 +4484,7 @@
 1062866 Gemeente_in_Písek
 1062976 Gemeente_in_Strakonice
 1062985 Themadag_of_themaweek
+1064083 Muziekspel
 1064105 Gemeente_in_Cuba
 1064214 Huis_Croÿ
 1065442 Baltische_Duitser
@@ -4579,6 +4581,7 @@
 1112902 Wereldkampioenschap_curling
 1113488 Fins_langlaufer
 1114236 Golfbaan_in_Nederland
+1114455 Geschiedenis_van_Jemen
 1115426 Krijgsmacht_van_Nederland
 1115479 Plaats_in_de_kraj_Primorje
 1116529 Endemisch_dier_uit_Hawaï
@@ -7241,6 +7244,7 @@
 2156382 Verkiezingen_in_Suriname
 2159279 Curaçaos_politicus
 2160831 Duo_(muziek)
+2160834 Duo_(cabaret)
 2161784 Deens_parlementslid
 2163290 Hiphop-platenlabel
 2163488 Rijksmonument_in_Oldambt
@@ -7424,6 +7428,7 @@
 2283466 Portaal:Televisie
 2283871 Amsterdam-Centrum
 2284268 Geografie_van_Berkelland
+2284490 Plaats_in_Lissabon
 2284820 Voormalig_Nederlands_busbedrijf
 2284888 Voormalig_Nederlands_trambedrijf
 2285124 Raderdieren
@@ -8707,6 +8712,7 @@
 2984454 Zweeds_gymnast
 2984459 Lijsten_van_voetbalinterlands_Madagaskar
 2984732 Gemeente_in_Mali
+2985665 Bpost_bank_trofee
 2986285 Compositie_van_Witold_Lutosławski
 2986775 Technisch_tijdschrift
 2986857 Lijsten_van_voetbalinterlands_Congo-Brazzaville
@@ -9353,6 +9359,7 @@
 3416638 Lijsten_van_gemeentelijke_monumenten_in_Limburg_(Nederland)
 3416815 Metarbelidae
 3416844 Lijsten_van_gemeentelijke_monumenten_in_Noord-Holland
+3418851 Lijsten_van_gemeentelijke_monumenten_in_Zuid-Holland
 3419584 Lijsten_van_gemeentelijke_monumenten_in_Noord-Brabant
 3420153 Lijsten_van_gemeentelijke_monumenten_in_Utrecht_(provincie)
 3437423 Onderscheiding_in_de_Russische_Federatie
@@ -11208,6 +11215,7 @@
 4921291 Nederlands_kickbokser
 4921792 H-II-gebied
 4923273 Geslachtsorgaan_(planten)
+4924545 Slaaf
 4924695 Klimsport
 4927188 Sint-Nicolaaskerk
 4928665 European_Museum_of_the_Year
@@ -11600,6 +11608,7 @@
 5259567 Ascaridida
 5260456 Brugse_School
 5261095 Amerikaans_bluesgitarist
+5261125 Verlaten_plaats_in_Newfoundland_en_Labrador
 5261445 Burgerlijk_recht_in_Nederland
 5264423 Amerikaans_liedschrijver
 5264845 Voormalig_kanton_van_Pas-de-Calais
@@ -12445,6 +12454,7 @@
 5576904 Sertularellidae
 5576917 Lijsten_van_het_Verenigd_Koninkrijk
 5576928 Hydridae
+5576947 Lijsten_van_Mexico
 5576967 Campanulariidae
 5577004 Lijsten_van_Canada
 5577007 Aglaopheniidae
@@ -12507,6 +12517,7 @@
 5600431 Diersoort_beschreven_in_2022
 5600624 Sportvereniging_in_Luik_(provincie)
 5600626 Sportvereniging_in_Henegouwen
+5600644 Kerkgebouw_in_Land_van_Cuijk
 5601549 Schimmelorde
 5601597 Single_uit_2022
 5602038 Spirularia
@@ -14897,6 +14908,8 @@
 5879718 Nederlands_artistiek_leider
 5879962 Socotra_(eiland)
 5880843 Televisieprogramma_van_AVROTROS
+5880913 Televisieprogramma_van_BNNVARA
+5880921 Televisieprogramma_van_KRO-NCRV
 5881872 Televisieprogramma_van_de_AVRO
 5883253 Televisieprogramma_van_BNN
 5883267 Televisieprogramma_van_de_VARA
