@@ -1,1 +1,1 @@
-{"name": "MotoGP-coureur", "id": 2991741, "predecessors": [{"name": "Gezondheid", "id": 80097}, {"name": "Geografie", "id": 63658}], "successors": []}
+{"name": "MotoGP-coureur", "id": 2991741, "predecessors": [{"name": "Wegrace", "id": 1896729}, {"name": "Gezondheid", "id": 80097}], "successors": []}

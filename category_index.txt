@@ -1451,6 +1451,7 @@
 235730 Tienen_(België)
 235757 Kasteel_in_Vlaams-Brabant
 235758 Kasteel_in_Noord-Brabant
+235762 Kasteel_in_Noord-Holland
 235765 Kasteel_in_Frankrijk
 235775 Kasteel_in_West-Vlaanderen
 235780 Plaats_in_West-Vlaanderen
@@ -2083,7 +2084,6 @@
 347595 Voetbal_in_2003
 347784 Japanse_keuken
 348485 Amerikaans_televisieprogramma
-348498 Brits_televisieprogramma
 348854 Hardcore_house
 348968 Frans_kabinet
 349512 Aardgas
@@ -2164,6 +2164,7 @@
 368493 Britse_televisieserie
 368507 Zwangerschap
 369011 Psychotherapie
+369046 Carrosseriebouwer
 369127 Retorica
 369155 Voetbal_in_1994
 369411 Zweeds_voetbalcoach
@@ -3628,7 +3629,6 @@
 765510 Brits_kinderboekenschrijver
 765512 Vlaams_kinderboekenschrijver
 765794 Wereldbeker_veldrijden
-766167 Gemeente_in_Zuid-Afrika
 766914 Schepen_van_Brugge
 768194 Spaans_kardinaal
 768316 Wikipedia_naar_taal
@@ -3771,6 +3771,7 @@
 805374 Molen_in_Gelderland
 805442 Amerikaans_hoogleraar
 805460 Amerikaans_socioloog
+805748 Amerikaans_choreograaf
 805902 Nummer_van_Led_Zeppelin
 806206 Nederlands_langebaanschaatser
 806214 Amerikaans_langebaanschaatser
@@ -4974,6 +4975,7 @@
 1298883 Kerkgebouw_in_Schotland
 1299925 Muziekalbum_uit_2009
 1301632 Portaal:'s-Hertogenbosch
+1302046 Geografie_van_Alaska
 1302324 Cultuur_in_Los_Angeles
 1302332 Bouwwerk_in_Los_Angeles
 1302423 Apple_II-spel
@@ -5659,6 +5661,7 @@
 1584574 Nederlands_lithograaf
 1584586 Wereldkampioenschap_handbal
 1584621 New_age
+1584657 Belgisch_lithograaf
 1584835 Russisch_olympisch_deelnemer
 1585734 Glimwormen
 1586435 Rijksweg_2
@@ -5832,6 +5835,7 @@
 1657788 Paradijsvogels
 1657798 Bastaardhoningvogels
 1657822 Ovenvogels
+1657970 Spotlijsters
 1657972 Latijns_manuscript
 1657975 Wielewalen_en_vijgvogels
 1658123 Honingzuigers
@@ -6690,6 +6694,7 @@
 1895769 PS-politicus_(Frankrijk)
 1896469 MR-politicus
 1896498 CdH-politicus
+1896729 Wegrace
 1896744 PSC-politicus
 1896759 CVP-politicus_(België)
 1896830 PVV-politicus_(België)
@@ -7133,6 +7138,7 @@
 2113309 Fraude
 2113459 Eendagswielerwedstrijd_in_2011
 2113476 Belgisch_live-dj
+2113817 Bouwwerk_in_Sicilië
 2115491 Restaurant_met_Michelinster
 2115685 Los_Angeles_County
 2116969 Hydrolase
@@ -8449,6 +8455,7 @@
 2980044 Wikipedia:Sjablonen_Filipijnen
 2980046 Wikipedia:Sjablonen_Frankrijk
 2980051 Wikipedia:Sjablonen_Ghana
+2980071 Wikipedia:Sjablonen_Honduras
 2980072 Wikipedia:Sjablonen_Hongarije
 2980076 Wikipedia:Sjablonen_India
 2980078 Wikipedia:Sjablonen_Indonesië
@@ -9603,6 +9610,7 @@
 3778458 Bouwwerk_in_Gulpen-Wittem
 3778487 Bouwwerk_in_Sittard-Geleen
 3778868 Kerkgebouw_in_Peel_en_Maas
+3779106 Willem_II_naar_seizoen
 3779654 Voormalige_Nederlandse_televisiezender
 3780617 Personage_uit_X-Men
 3781446 Tijdlijnen
@@ -9859,6 +9867,7 @@
 3995665 Symbiose
 3996166 Wikipedia:Sjablonen_militair_materieel
 3997391 Kerkgebouw_in_het_bisdom_Hasselt
+3997409 Neoclassicistisch_kerkgebouw
 3997415 Neoclassicistisch_bouwwerk
 3998146 Vlaams_Parlementslid
 3998152 Waals_Parlementslid
@@ -9941,6 +9950,7 @@
 4055917 Sciencefictionroman
 4057177 California_Historical_Landmark
 4058433 Wikipedia:Sjablonen_provincie_Turkije
+4058972 Nederlandse_voetbalclub_1965/66
 4059497 Markant_punt_van_de_Snaefell_Mountain_Course
 4060051 Geschiedenis_van_Schouwen-Duiveland
 4061381 Grand_Prix-wegrace_van_Spanje
@@ -10208,6 +10218,7 @@
 4406864 Toekomstige_zonsverduistering
 4412913 Gletsjer_op_Groenland
 4415420 Animeserie
+4415423 Mangaserie
 4416057 Plaats_in_de_Hebreeuwse_Bijbel
 4419188 Compositie_van_Neil_Young
 4419813 Lijsten_van_zonsverduisteringen
@@ -10361,6 +10372,7 @@
 4541952 1e_arrondissement_(Parijs)
 4542040 4e_arrondissement_(Parijs)
 4542041 5e_arrondissement_(Parijs)
+4542044 8e_arrondissement_(Parijs)
 4542058 13e_arrondissement_(Parijs)
 4542274 Biosfeerreservaat
 4544505 Onbewoond_Russisch_eiland
@@ -12730,6 +12742,7 @@
 5640862 Diadegma
 5640867 Diphyus
 5640869 Dusona
+5640879 Lid_van_de_Provinciale_Staten_van_Utrecht
 5640894 Endasys
 5640898 Exetastes
 5640901 Exochus
@@ -13552,6 +13565,7 @@
 5659296 Crocidophora
 5659305 Elophila
 5659364 Herpetogramma
+5659378 Lineodes
 5659470 Pseudocatharylla
 5659617 Acanthormius
 5659637 Aridelus
@@ -14920,6 +14934,7 @@
 5896569 Important_Bird_Area_in_Australië
 5896570 Important_Bird_Area_in_Frankrijk
 5896589 Important_Bird_Area_in_Griekenland
+5896709 Important_Bird_Area_in_Indonesië
 5897284 Televisieprogramma_van_de_KRO
 5897308 Important_Bird_Area_in_België
 5897595 Lijsten_van_nummer_1-hits_in_Nederland
@@ -14929,6 +14944,7 @@
 5898638 Historisch_koninkrijk_in_Europa
 5899880 Important_Bird_Area_in_Brazilië
 5900739 Important_Bird_Area_in_Denemarken
+5901995 Important_Bird_Area_in_Italië
 5903526 Nederlands_gereformeerd_persoon
 5903721 Voormalig_Amerikaans_warenhuis
 5904160 Wikipedia:Sjablonen_vogels
@@ -14937,3 +14953,4 @@
 5904212 Wikipedia:Sjablonen_amfibieën
 5905919 Werkverschaffingsproject
 5905999 Amerikaanse_gorzen
+5912116 Dokkum
