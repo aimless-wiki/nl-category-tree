@@ -178,6 +178,7 @@
 67183 Stijlfiguur
 67187 Trojaanse_Oorlog
 67188 Scheepvaart
+67192 Getal
 67193 Insecten
 67196 Paleontologie
 67197 Geschiedenis_van_Engeland
@@ -864,6 +865,7 @@
 129750 Elektrochemie
 129751 Frans_scheikundige
 130083 Boek_naar_type
+130253 Malmedy
 130342 Brits_filosoof
 130376 Indiaas_acteur
 130381 Nederlands_rechtsgeleerde
@@ -1448,7 +1450,6 @@
 235709 Roosendaal
 235717 Plaats_in_Vlaams-Brabant
 235721 Grimbergen
-235730 Tienen_(België)
 235757 Kasteel_in_Vlaams-Brabant
 235758 Kasteel_in_Noord-Brabant
 235762 Kasteel_in_Noord-Holland
@@ -2036,6 +2037,7 @@
 332673 Voetbalstadion_in_Italië
 332696 Voetbalstadion_in_Zweden
 333201 Film_uit_1929
+333332 Skelet
 334299 Gemeente_in_Bohol
 334475 Vlaams_televisieprogramma
 334779 Toponymie
@@ -2084,6 +2086,7 @@
 347595 Voetbal_in_2003
 347784 Japanse_keuken
 348485 Amerikaans_televisieprogramma
+348498 Brits_televisieprogramma
 348854 Hardcore_house
 348968 Frans_kabinet
 349512 Aardgas
@@ -2798,6 +2801,7 @@
 570535 Portaal:Amerika
 570610 Verschijnsel_van_de_zee
 570795 Plaats_in_Texas
+570838 Eiland_van_Alaska
 570940 Personage_uit_The_Simpsons
 571077 Schelde-_en_Maasdelta
 572208 Politicus_in_het_Verenigd_Koninkrijk_der_Nederlanden
@@ -4227,6 +4231,7 @@
 946579 Brits_Europarlementariër
 947068 Frans_ingenieur
 947085 Noorwegen_op_de_Olympische_Spelen
+947087 Roemenië_op_de_Olympische_Spelen
 947835 Plaats_in_Luik_(provincie)
 947838 Kasteel_in_Luik_(provincie)
 947843 Bouwwerk_in_Groningen_(stad)
@@ -4243,6 +4248,7 @@
 952104 Polder_in_Noord-Holland
 952576 Spaans_golfer
 953186 Rivier_in_Zuid-Holland
+953626 Missionaris_in_China
 954941 TT_Assen
 955078 Haagse_bus
 955973 Dominicaan
@@ -4811,6 +4817,7 @@
 1214919 Treindienst_in_Frankrijk
 1214945 EuroCity
 1214951 Treindienst_in_Zwitserland
+1215056 Treindienst_in_Nederland
 1216252 Golfbaanarchitect
 1216962 Onderscheiding_in_Duitsland
 1218256 Cycloalkeen
@@ -4864,6 +4871,7 @@
 1239432 Hemelmechanica
 1239613 Plaats_in_Nordland
 1240726 Uitgestorven_knaagdieren
+1240942 Bisdom_in_de_Filipijnen
 1240951 Schedestaartvleermuizen
 1241590 Tweede_Wereldoorlog_in_Nederlands-Indië
 1242190 Bladneusvleermuizen_van_de_Nieuwe_Wereld
@@ -4898,6 +4906,7 @@
 1250150 Liggerbrug
 1250185 Plaats_in_Guyana
 1250242 Geschiedenis_van_de_Verenigde_Staten_(1789-1849)
+1250245 Geschiedenis_van_de_Verenigde_Staten_(1865-1918)
 1250255 Geschiedenis_van_de_Verenigde_Staten_(1988-heden)
 1250335 Geschiedenis_van_Missouri
 1252897 Nederlands_medailleur
@@ -5941,6 +5950,7 @@
 1683387 Single_uit_1959
 1683997 Vestingwerk_in_Nederland
 1684114 Wikipedia:Gebruiker_pt-1
+1684209 Vestingwerk_in_België
 1685698 Belgisch_jezuïet
 1686100 Nederlands_schout
 1686491 Rijksmonument_in_Nijmegen
@@ -6161,6 +6171,7 @@
 1740096 Bloomsburygroep
 1741830 Belgisch_liberaal
 1742282 Gedeputeerde_van_Antwerpen
+1742290 Gedeputeerde_van_Oost-Vlaanderen
 1742740 Partner_van_staatshoofd
 1743434 Biografielijsten
 1743488 Bouwwerk_in_Marseille
@@ -7516,7 +7527,6 @@
 2306495 Thị_trấn_in_Vietnam
 2306497 Xã_in_Vietnam
 2306566 Phường_in_Vietnam
-2309012 Kerkgebouw_in_Leeuwarden
 2309184 Hoofdplaats_van_een_Vietnamees_district
 2310784 Scheikundig_tijdschrift
 2310823 Edison_Music_Awards
@@ -8387,6 +8397,7 @@
 2929618 Druivenras
 2935670 Auto_van_Volvo
 2937790 Nederlandse_prijs
+2937814 Belgische_prijs
 2938367 Film_van_Allan_Dwan
 2939647 Landschap_van_Nederland
 2939658 Oermotten
@@ -9951,6 +9962,7 @@
 4057177 California_Historical_Landmark
 4058433 Wikipedia:Sjablonen_provincie_Turkije
 4058972 Nederlandse_voetbalclub_1965/66
+4058974 Nederlandse_voetbalclub_1966/67
 4059497 Markant_punt_van_de_Snaefell_Mountain_Course
 4060051 Geschiedenis_van_Schouwen-Duiveland
 4061381 Grand_Prix-wegrace_van_Spanje
@@ -10231,6 +10243,7 @@
 4424915 PDC_Pro_Tour
 4424967 Wikipedia:Sjablonen_vlag_met_nationaal_curlingteam
 4427880 Voormalig_spoorwegstation_in_Polen
+4428314 Lourdesgrot
 4428487 Barokkasteel
 4429105 Land_op_de_Olympische_Zomerspelen_2016
 4429375 Lijsten_van_Denemarken
@@ -10447,6 +10460,7 @@
 4577207 Kerkgebouw_in_Leudal
 4581831 Chileens_liberaal
 4581971 Zuid-Nederlands_kanunnik_(voor_1830)
+4583275 Udubidae
 4583428 City_of_Westminster
 4587709 Beeldtechniek
 4587981 Film_met_lesbisch_thema
@@ -11671,6 +11685,7 @@
 5309232 Vestingwerk_in_Frankrijk
 5309491 Gemeente_van_Newfoundland_en_Labrador
 5313039 Dierenvirus
+5313559 Oppervlaktewater_in_Brits-Columbia
 5314062 Wikipedia:Beginnetje_jazz
 5314186 Braziliaans_competitievoetbal_2020
 5315255 Wikipedia:Beginnetje_rock
@@ -12342,6 +12357,7 @@
 5549777 Stroomgebied_van_de_Ob
 5549826 Stroomgebied_van_de_Lena
 5550150 Stroomgebied_van_de_Indische_Oceaan
+5550168 Zeestraat_in_de_Verenigde_Staten
 5550201 Wikipedia:Sjablonen_sport_Montenegro
 5550217 Rivier_in_Rusland_(Europees_deel)
 5550305 Stroomgebied_van_de_Adriatische_Zee
@@ -13730,6 +13746,7 @@
 5741937 Wikipedia:Uitgelicht_op_hoofdpagina_sinds_2024
 5745001 Schaken_in_Amsterdam
 5745332 Spoorlijn_in_Sleeswijk-Holstein
+5746715 Diersoort_beschreven_in_2023
 5747260 Spoorlijn_in_Nedersaksen
 5748696 Spoorlijn_in_Noordrijn-Westfalen
 5748864 Spoorlijn_in_Rijnland-Palts
@@ -14892,9 +14909,11 @@
 5834901 Spoorwegstation_in_Buskerud
 5834932 Spoorwegstation_in_Akershus
 5835562 Eendagswielerwedstrijd_in_2024
+5835870 Transpersoon
 5837240 Bisdom_in_Peru
 5838588 Wielersport_op_de_Paralympische_Zomerspelen_2020
 5840948 UCI_Europe_Tour_2024
+5842206 Muziekalbum_uit_2024
 5846325 Gebeurtenis_in_het_graafschap_Vlaanderen
 5849515 Verbond
 5849517 Orde
@@ -14953,4 +14972,10 @@
 5904212 Wikipedia:Sjablonen_amfibieën
 5905919 Werkverschaffingsproject
 5905999 Amerikaanse_gorzen
+5910920 Protestants_kerkgebouw_in_Noord-Brabant
 5912116 Dokkum
+5913685 Anamidae
+5915770 Bouwwerk_in_Leeuwarden_(stad)
+5915785 Macrobunidae
+5915789 Rijksmonument_in_Leeuwarden_(stad)
+5916548 Protestants_kerkgebouw_in_Zuid-Holland
