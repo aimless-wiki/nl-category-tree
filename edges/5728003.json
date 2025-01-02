@@ -1,1 +1,1 @@
-{"name": "KAJ-KWB_Prijs", "id": 5728003, "predecessors": [{"name": "Eendagswielerwedstrijd", "id": 402023}, {"name": "Wielerwedstrijd_in_Vlaanderen", "id": 5499901}, {"name": "Evenement_in_Vlaanderen", "id": 755480}, {"name": "Gebiedsnaam", "id": 121253}], "successors": []}
+{"name": "KAJ-KWB_Prijs", "id": 5728003, "predecessors": [{"name": "Eendagswielerwedstrijd", "id": 402023}, {"name": "Sportevenement_in_Oost-Vlaanderen", "id": 5600335}, {"name": "Wielerwedstrijd_in_Vlaanderen", "id": 5499901}, {"name": "Gebiedsnaam", "id": 121253}], "successors": []}

@@ -178,7 +178,6 @@
 67183 Stijlfiguur
 67187 Trojaanse_Oorlog
 67188 Scheepvaart
-67192 Getal
 67193 Insecten
 67196 Paleontologie
 67197 Geschiedenis_van_Engeland
@@ -512,6 +511,7 @@
 89247 Geschiedenis_van_Litouwen
 89303 Muppet
 89400 Fictieve_soort
+89576 Rapport
 90011 Webbrowser
 90071 Internetbedrijf
 90072 Internetprovider
@@ -1505,6 +1505,7 @@
 243229 Plaats_in_Henegouwen
 244664 Amerikaans_bokser
 244889 Durbuy
+244979 Deinze
 245085 Griekse_voetbalclub
 245204 Frans_voetbalcoach
 245276 Proteïne
@@ -2041,6 +2042,7 @@
 334299 Gemeente_in_Bohol
 334475 Vlaams_televisieprogramma
 334779 Toponymie
+337533 Varkens
 337541 Dolfijnen
 337656 Servisch_voetballer
 337661 Frans_wiskundige
@@ -3444,6 +3446,7 @@
 708641 Gemeente_in_Almería
 708653 Gemeente_in_Asturië
 708657 Gemeente_in_Zaragoza
+708791 Wijk_in_Brussel
 709769 Meeuwen-Gruitrode
 709928 Krabben
 710029 Nederlands_geoloog
@@ -3525,7 +3528,6 @@
 737726 Propaganda
 737739 Rechtshistoricus
 738309 Emberiza
-738344 Klauwieren
 738348 Kraaien
 738350 Endemisch_dier_uit_West-Australië
 738351 Endemisch_dier_uit_Queensland
@@ -4248,7 +4250,6 @@
 952104 Polder_in_Noord-Holland
 952576 Spaans_golfer
 953186 Rivier_in_Zuid-Holland
-953626 Missionaris_in_China
 954941 TT_Assen
 955078 Haagse_bus
 955973 Dominicaan
@@ -4632,7 +4633,6 @@
 1130632 Protestants-christelijke_school_in_Nederland
 1131834 Duits_motorcoureur
 1131996 Muziek_in_Friesland
-1132460 Chinese_vereniging
 1133089 Prinsbisdom
 1133793 Geografie_van_Westland
 1134581 Filosofische_terminologie
@@ -5068,6 +5068,7 @@
 1309726 Wethouder_van_Eindhoven
 1309734 Wethouder_van_Den_Haag
 1309741 Wethouder_van_Rotterdam
+1309742 Wethouder_van_Utrecht
 1309743 Indiaas_heerser
 1309833 Voormalige_gemeente_in_Saksen
 1310455 Watermolen_in_Limburg_(Nederland)
@@ -6414,6 +6415,7 @@
 1800421 Bisdom_in_Brazilië
 1800550 Volkskammerlid
 1800703 Vireonidae
+1800706 Vanga's
 1800970 Parelmotten
 1801302 Malaconotidae
 1801409 Canadees_televisieacteur
@@ -6724,7 +6726,6 @@
 1902402 Zoropsidae
 1902941 Selenopidae
 1902946 Psechridae
-1902947 Tengellidae
 1902948 Ochyroceratidae
 1902949 Tetrablemmidae
 1902950 Orsolobidae
@@ -6753,6 +6754,7 @@
 1904578 CVP-politicus_(Zwitserland)
 1904583 Hersiliidae
 1904592 Migidae
+1904594 Malkaridae
 1904595 Leptonetidae
 1904598 Lamponidae
 1904600 Liphistiidae
@@ -7045,6 +7047,7 @@
 2061721 Muziekalbum_uit_2011
 2062166 Joods_persoon
 2062498 Hollands-classicistisch_bouwwerk
+2062506 Geschiedenis_van_Suriname_voor_1975
 2063269 Atlantikwall
 2063967 Voetbal_in_2022
 2064458 Film_gebaseerd_op_een_computerspel
@@ -7076,6 +7079,7 @@
 2075783 Nederlandstalig_gedicht
 2075789 Nederlandstalige_literatuur
 2075803 Nederlandstalige_boekenreeks
+2076556 Nederlands_radioproducent
 2077054 Euphorbia
 2079082 Winnaar_van_de_Fieldsmedaille
 2079416 Motorfiets_van_BMW
@@ -7246,7 +7250,6 @@
 2144520 Opnamestudio
 2145142 Wezen_uit_folklore
 2145619 Dagboekschrijver
-2146815 Onopgehelderde_verdwijning
 2147987 Lijsten_van_voetbalinterlands_Colombia
 2148843 E3_Harelbeke
 2150470 Paramilitaire_organisatie
@@ -8826,7 +8829,6 @@
 3027518 Krekels
 3027954 Rijksmonument_in_Alkmaar
 3028062 Veldsprinkhanen
-3028174 Unieke_boom
 3028851 Geografie_van_Schagen
 3029228 Doornsprinkhanen
 3029601 Chemisch-fysisch_tijdschrift
@@ -10162,6 +10164,7 @@
 4271233 Hunebed_in_Duitsland
 4271843 Hesperiinae
 4312875 Wapen_van_Antwerpse_gemeente
+4316291 Apostolisch_vicariaat
 4325242 Kerkgebouw_in_de_Landkreis_Leer
 4326791 Amerikaans_orkestleider
 4334736 Brits_jazzsaxofonist
@@ -10260,6 +10263,7 @@
 4434078 Rijksmonument_in_Gooise_Meren
 4434084 Bouwwerk_in_Gooise_Meren
 4434109 Geschiedenis_van_Gooise_Meren
+4434169 Geografie_van_Berg_en_Dal
 4434280 Skive
 4434363 Viborg
 4434790 Sociaal-liberale_partij
@@ -10802,6 +10806,7 @@
 4800908 Actualiteitenrubriek_op_televisie
 4801093 Discussieprogramma_op_televisie
 4801335 Documentaireprogramma_op_televisie
+4801685 Nederlandse_brancheorganisatie
 4801809 Nederlandse_website
 4802498 Filmterminologie
 4803337 Documentairefilm
@@ -11499,6 +11504,7 @@
 5231007 Wikipedia:Sjablonen_voetbalelftal_Spanje
 5233963 Baai_van_Newfoundland_en_Labrador
 5234481 Friedrichshain-Kreuzberg
+5235450 Partijloos_politicus
 5235665 Beeld_in_Amsterdam-Noord
 5237236 Film_uit_2020
 5241485 Geografie_van_Stichtse_Vecht
@@ -12174,6 +12180,7 @@
 5461570 Economie_in_Londen
 5461583 Verkeer_en_vervoer_in_Schotland
 5461590 Verkeer_en_vervoer_in_Engeland
+5461801 Economie_van_Texas
 5461816 Economie_in_New_York_(stad)
 5462565 Economie_in_Parijs
 5462566 Economie_in_Île-de-France
@@ -12540,6 +12547,7 @@
 5600329 Sportvereniging_in_Antwerpen_(provincie)
 5600331 Sportvereniging_in_Limburg_(België)
 5600332 Sportvereniging_in_Vlaams-Brabant
+5600335 Sportevenement_in_Oost-Vlaanderen
 5600337 Sportevenement_in_Antwerpen_(provincie)
 5600354 Plantage-eigenaar_in_Suriname
 5600431 Diersoort_beschreven_in_2022
@@ -13582,7 +13590,6 @@
 5659305 Elophila
 5659364 Herpetogramma
 5659378 Lineodes
-5659470 Pseudocatharylla
 5659617 Acanthormius
 5659637 Aridelus
 5659724 Ephedrus
@@ -13734,7 +13741,6 @@
 5728003 KAJ-KWB_Prijs
 5728491 Spoorlijn_in_Indre-et-Loire
 5731043 Duits_warenhuis
-5731058 Amerikaans_warenhuis
 5731071 Brits_warenhuis
 5733799 Eendagswielerwedstrijd_in_2023
 5735296 Voormalige_gemeente_in_Stiermarken
@@ -14970,6 +14976,7 @@
 5904203 Wikipedia:Sjablonen_zoogdieren
 5904211 Wikipedia:Sjablonen_reptielen
 5904212 Wikipedia:Sjablonen_amfibieën
+5905591 Wielerploeg_in_2025
 5905919 Werkverschaffingsproject
 5905999 Amerikaanse_gorzen
 5910920 Protestants_kerkgebouw_in_Noord-Brabant
@@ -14979,3 +14986,6 @@
 5915785 Macrobunidae
 5915789 Rijksmonument_in_Leeuwarden_(stad)
 5916548 Protestants_kerkgebouw_in_Zuid-Holland
+5917548 Stasimopidae
+5918361 Nederlands_mediaondernemer
+5919888 Lijsten_van_autosnelwegen
