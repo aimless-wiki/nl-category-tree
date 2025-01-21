@@ -812,7 +812,6 @@
 126024 Nederlands_ambtenaar
 126030 Nederlands_darter
 126033 Nederlands_persoon_in_de_Tweede_Wereldoorlog
-126102 Geschiedenis_van_Suriname
 126165 Scheepsnavigatie
 126703 Canadese_band
 126808 Deens_schrijver
@@ -2119,6 +2118,7 @@
 357871 Angolees_voetballer
 358390 Schots_voetballer
 358392 Schots_voetbalcoach
+358432 Zuid-Afrikaans_zanger
 359077 Senegalees_voetballer
 359151 Guinees_voetballer
 359348 Canadees_ijshockeyer
@@ -3280,6 +3280,7 @@
 671923 Britse_popgroep
 671967 Belgische_popgroep
 671992 Spaans_dirigent
+672126 Geschiedenis_van_Libië
 672504 Vleerhonden
 672762 Amerikaanse_jazzband
 672766 Duitse_rockband
@@ -3298,6 +3299,7 @@
 677758 Bouwwerk_in_Parijs
 677805 Bouwwerk_in_Londen
 677845 Bouwwerk_in_Gent
+677901 Bouwwerk_in_Nijmegen
 678169 Duits_pianist
 678361 Gemeente_in_Venezuela
 679117 Portaal:Californië
@@ -3399,6 +3401,7 @@
 702128 Bloemdieren
 702140 Ribkwallen
 702157 Sponzen
+702204 Film_van_Sony_Pictures_Entertainment
 702206 Film_van_DreamWorks_Animation
 702326 Bouwwerk_naar_functie
 702332 Nederlandse_hiphopgroep
@@ -3837,6 +3840,7 @@
 827942 Subcultuur
 828650 Plaats_in_North_Carolina
 828665 Plaats_in_Tennessee
+829129 Film_van_First_National_Pictures
 829135 Voetbal_in_2010
 829732 Noise
 829845 Begraafplaats_in_België
@@ -4220,6 +4224,7 @@
 945442 Weg_in_Limburg_(Nederland)
 945469 Kasteel_in_Antwerpen_(provincie)
 945517 Plaats_in_Antwerpen_(provincie)
+946055 Bouwwerk_in_Antwerpen_(stad)
 946143 Portaal:Romeinse_Rijk
 946187 Duits_Europarlementariër
 946190 Frans_Europarlementariër
@@ -4546,6 +4551,7 @@
 1097450 Mactridae
 1097935 Gemeente_in_Nové_Zámky
 1099213 Propagandafilm
+1100594 Attractiepark_Toverland
 1101367 Bisdom_in_Argentinië
 1101369 Bisdom_in_Frankrijk
 1101437 Bisdom_in_Italië
@@ -5629,10 +5635,12 @@
 1563422 Japans_tafeltennisser
 1564103 Trochidae
 1564318 Nederlands_provinciaal_politicus
+1564336 Gedeputeerde_van_Noord-Holland
 1564347 Gedeputeerde_van_Drenthe
 1564350 Gedeputeerde_van_Zuid-Holland
 1564455 Gedeputeerde_van_Noord-Brabant
 1564459 Gedeputeerde_van_Groningen
+1564601 Gedeputeerde_van_Friesland
 1564614 Gedeputeerde_van_Gelderland
 1564627 Gedeputeerde_van_Limburg_(Nederland)
 1565117 Werk_van_Vincent_van_Gogh
@@ -5650,7 +5658,6 @@
 1573073 Conservatieven
 1573719 Liberalen
 1574736 Lijsten_van_Amerikaanse_senatoren
-1576465 Archief_in_Nederland
 1576956 Zelfstandig_bestuursorgaan
 1577383 Nummer_van_Bruce_Springsteen
 1577511 20e-eeuws_filosoof
@@ -6685,6 +6692,7 @@
 1889772 Oorlogsmisdaad
 1891030 Amerikaans_producent
 1891711 Toneelmuziek
+1891856 Teamsport
 1892535 Attractie_van_Vekoma
 1892540 Attractie_van_Intamin_AG
 1892549 Attractie_van_Bolliger_&_Mabillard
@@ -6744,7 +6752,6 @@
 1904387 Belgisch_kanunnik
 1904514 SP-politicus_(Zwitserland)
 1904537 SVP-politicus
-1904555 Amphinectidae
 1904557 Archaeidae
 1904563 Cyrtaucheniidae
 1904565 Cyatholipidae
@@ -6934,6 +6941,7 @@
 2004072 Witvlekmotten
 2005307 Wereldkampioenschap_voetbal_voor_clubs
 2006570 Microregio_in_São_Paulo
+2006682 Compacte_middenklasse
 2007346 Cabriolet
 2007349 Basisonderwijs_in_Nederland
 2007368 Cultuur_in_Antwerpen_(stad)
@@ -7079,6 +7087,7 @@
 2075783 Nederlandstalig_gedicht
 2075789 Nederlandstalige_literatuur
 2075803 Nederlandstalige_boekenreeks
+2076032 Bisdom_in_de_Verenigde_Staten
 2076556 Nederlands_radioproducent
 2077054 Euphorbia
 2079082 Winnaar_van_de_Fieldsmedaille
@@ -8563,6 +8572,7 @@
 2980455 Wikipedia:Sjablonen_Hongkong
 2980464 Wikipedia:Sjablonen_Engeland
 2980469 Wikipedia:Sjablonen_Duitse_Democratische_Republiek
+2980473 Wikipedia:Sjablonen_Brussel
 2980481 Wikipedia:Sjablonen_Antwerpen
 2980486 Wikipedia:Sjablonen_Utrecht
 2980488 Wikipedia:Sjablonen_Tsjecho-Slowakije
@@ -8782,6 +8792,7 @@
 3005838 Persoon_in_de_13e_eeuw
 3005839 Persoon_in_de_12e_eeuw
 3005913 Schilderij_in_het_Metropolitan_Museum_of_Art
+3005927 Frans_feminist
 3006595 Conservative_Party-politicus_(Verenigd_Koninkrijk)
 3006763 Gymnophthalmidae
 3009174 Motorfiets_van_AJS
@@ -9677,6 +9688,7 @@
 3845264 Wikipedia:Sjablonen_vlag_met_nationaal_basketbalteam
 3845676 Muziekalbum_uitgegeven_door_Polydor
 3856775 Wikipedia:Sjablonen_indeling_Verenigde_Staten
+3857074 Onroerend_erfgoed_in_Ninove
 3857364 Aflevering_van_ER
 3858708 Bloemspartelkevers
 3859079 Natura_2000_in_Nederland
@@ -9774,6 +9786,7 @@
 3892032 Amerikaans_countryzanger
 3892917 District_van_Madagaskar
 3893599 Muziekalbum_uitgegeven_door_ECM_Records
+3894089 Belgisch_televisiepersoonlijkheid
 3895391 Vlaams_omroeper
 3899748 Atari_8_bit-spel
 3899917 Stripverhaal_van_De_Kiekeboes
@@ -11266,6 +11279,7 @@
 4943957 Eendagswielerwedstrijd_in_2018
 4944229 Chthamalidae
 4944237 Balanidae
+4944247 Vroege_moderne_mens
 4947150 Olympisch_deelnemer_namens_OAR
 4947295 Verrucidae
 4947301 Pyrgomatidae
@@ -12081,6 +12095,7 @@
 5433850 Pucciniaceae
 5436326 Bouwwerk_in_Tirol
 5437689 Schimmelfamilie
+5438922 Burseraceae
 5443630 Horneridae
 5443683 Wereldkampioenschap_in_Noorwegen
 5443692 Europees_kampioenschap_in_Noorwegen
@@ -12456,6 +12471,7 @@
 5571515 Sport_in_East_Midlands
 5571528 Sport_in_East_of_England
 5571553 Sport_in_South_East_England
+5571602 Bouwwerk_in_East_of_England
 5571613 Bouwwerk_in_South_East_England
 5574815 Oeverspinnen
 5574860 Ridderschap_van_Henegouwen
@@ -12491,12 +12507,12 @@
 5576928 Hydridae
 5576947 Lijsten_van_Mexico
 5576967 Campanulariidae
-5577004 Lijsten_van_Canada
 5577007 Aglaopheniidae
 5577190 Corymorphidae
 5577191 Lafoeidae
 5577819 Eirenidae
 5578871 Geschiedenislijsten_van_Nederland
+5578872 Geschiedenislijsten_van_België
 5579025 Wikipedia:Sjablonen_sport_Slovenië
 5579950 Inslagkrater_op_Venus
 5580496 Lijsten_van_Britse_personen
@@ -12714,6 +12730,7 @@
 5637254 Wikipedia:Sjablonen_vlag_met_nationaal_vrouwenvoetbalelftal_(omgekeerd)
 5638709 Lid_van_de_Provinciale_Staten_van_Gelderland
 5638711 Lid_van_de_Provinciale_Staten_van_Friesland
+5638780 Lid_van_de_Provinciale_Staten_van_Groningen
 5638783 Lid_van_de_Provinciale_Staten_van_Noord-Brabant
 5638788 Lid_van_de_Provinciale_Staten_van_Noord-Holland
 5638790 Lid_van_de_Provinciale_Staten_van_Zuid-Holland
@@ -13586,7 +13603,6 @@
 5659258 Lijsten_van_nummer_1-hits_in_de_Single_Top_100
 5659281 Cataclysta
 5659292 Cirrhochrista
-5659296 Crocidophora
 5659305 Elophila
 5659364 Herpetogramma
 5659378 Lineodes
@@ -14985,6 +15001,7 @@
 5915770 Bouwwerk_in_Leeuwarden_(stad)
 5915785 Macrobunidae
 5915789 Rijksmonument_in_Leeuwarden_(stad)
+5916045 Wikipedia:Sjablonen_Raceleiders_Formule_1_per_seizoen
 5916548 Protestants_kerkgebouw_in_Zuid-Holland
 5917548 Stasimopidae
 5918361 Nederlands_mediaondernemer
